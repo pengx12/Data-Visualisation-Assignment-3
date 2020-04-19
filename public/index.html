@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!--[if IE]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      #IE_hack{display: block;}
+  <!--<![endif]-->
+    <title>Visualisation on World Heritages </title>
+
+
+    <link rel="stylesheet" type="text/css"
+        href="https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/css/style.css">
+    <link rel="stylesheet" type="text/css"
+        href="https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/css/graphics.css?v=0.0.36">
+    <link rel="stylesheet" type="text/css"
+        href="https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/css/queries.css?hash=12345">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+
+    <section class="intro">
+        <div class="icon"><object data="cid:frame-0F26ADBF7AA618A3804CDCA15A0B3ECA@mhtml.blink" type="image/svg+xml"
+                class="svgGraphic icon"></object></div>
+        <div class="intro-box">
+            <h1>Visualisation on World Heritages<br></h1>
+            <p>
+                A World Heritage Site is a landmark or area, selected by the United Nations Educational, Scientific and
+                Cultural Organization (UNESCO) for having cultural, historical, scientific or other form of
+                significance, which is legally protected by international treaties. The sites are judged to be important
+                for the collective and preservative interests of humanity.
+            </p>
+            <p class="author">By Xueying Peng <span id="date">2020.4.20</span><br><br></p>
+        </div>
+        <div class="article">
+            <h2 class="center">Current World Heritage</h2>
+        </div>
+        <object data="cid:frame-FAB8508AEDE240FB8C15B042A524F6CD@mhtml.blink" type="image/svg+xml"
+            class="svgGraphic max1200 globe"></object>
+        <div class="number">
+            <div class="feed">
+                <div class="counter">
+                    <div class="column">From 1978<span class="red">12</span>
+                        <!-- <div class="china">Mainland China: <strong>0</strong></div> -->
+                    </div>
+                    <div class="column">To 2019<span class="black">1,121</span></div>
+                </div>
+            </div>
+        </section>
+    <div class="clear"></div>
+    <section class="standar">
+
+        <div class="fullContent">
+            <div class="statuscases">
+        <div style="min-height: 420px; justify-content: center;position: relative" id="map"></div>
+                </div>
+            </div>
+        <div class="article">
+            <h2 class="center">Category of World Heritage</h2>
+            <p> In November 1972 the United Nations Educational, Scientific and Cultural Organization (UNESCO)
+                inaugurated the list by adopting a treaty known as the World Heritage Convention. Its continuing goal is
+                to recruit the world community in identifying cultural and natural properties of outstanding universal
+                value.
+                In 1978 the city of Quito in Ecuador earned the distinction of being the first city in the world to be
+                declared a UNESCO World Heritage Site. In the same year, Kraków in Poland was also named a UNESCO World
+                Heritage Site
+            </p>
+        </div>
+        <div class="fullContent">
+            <div class="statuscases">
+                <div id="yearcontainer"></div>
+                <div id="difcontainer"></div>
+                <div id="container"></div>
+            </div>
+        </div>
+    </section>
+    <section class="standar">
+        <div class="article">
+            <h2 class="center">Region of World Heritage</h2>
+            <p> According to the piechart, almost half of the sites are located in Europe and America and the proportion
+                is even higher in the first several years. Most of the earlier sites are cultural sites located in Europe, America and Arab area.
+                As time elaps, more and more sites in Asia have been inscrived. Different region shows different trends
+                in insribing rate by years.
+            </p>
+        </div>
+        <div class="fullContent">
+            <div class="statuscases">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div id="regioncontainer"></div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div id="regioncontainervar"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="fullContent">
+                <div class="statuscases">
+                    <div id="regioncatcontainer"></div>
+                </div>
+            </div>
+        </div>
+        
+    </section>
+        <div class="clear"></div>
+    <section class="standar">
+        <div class="article" >
+            <h2 class="center">State of World Heritages</h2>
+            <p> Comparing the number of world heritage in a country with its GDP and arrival travellers, We find that country with more World Heritage proper are always likely to have more travellers. 
+                In the meantime, we find there is also a positive correlation between GDP and the number of world heritage as it may be benifitial to tourism. Another explanation may be a wealthier country may tend to inscribe more heritages.
+            </p>
+          <!-- <a href="" οnclick="cnt()">
+                <h2 class="center">Status of cases</h2>
+            </a>--> 
+        </div>
+        <div class="fullContent">
+                <div class="statuscases">
+                    <div id=motionnationcontainer></div>
+                </div>
+                <div class="clear"></div>
+                <div class="statuscases">
+                    <div id="motionyearcontainer"></div>
+                </div>
+        </div>
+        <div class="clear"></div>
+        
+    </section>
+
+    <!--
+    This HTML file is a template.
+    If you open it directly in the browser, you will see an empty page.
+
+    You can add webfonts, meta tags, or analytics to this file.
+    The build step will place the bundled scripts into the <body> tag.
+
+    To begin the development, run `npm start` or `yarn start`.
+    To create a production bundle, use `npm run build` or `yarn build`.
+  -->
+</body>
+
+</html>

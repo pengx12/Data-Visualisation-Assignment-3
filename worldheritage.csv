@@ -1,0 +1,1122 @@
+,Unnamed: 0,unique_number,name_en,date_inscribed,longitude,latitude,category,category_short,states_name_en,region_en,gdp,count,countbycategory,countbystate,countbyregion,countbyregiondate,countbystatedate,countbycatdate
+0,0,5,City of Quito,1978,-78.5,-0.003888889,Cultural,C,Ecuador,Latin America and the Caribbean,5373.0,65000.0,869,4,142,2,2,8
+1,1,4,Galápagos Islands,1978,-91.0,-0.81667,Natural,N,Ecuador,Latin America and the Caribbean,5373.0,65000.0,213,4,142,2,2,4
+2,1,12,Simien National Park,1978,38.06666667,13.18333333,Natural,N,Ethiopia,Africa,1017.0,730000.0,213,9,96,3,2,4
+3,0,21,"Rock-Hewn Churches, Lalibela",1978,39.04042000000001,12.02935,Cultural,C,Ethiopia,Africa,1017.0,730000.0,869,9,96,3,2,8
+4,1,31,Yellowstone National Park,1978,-110.82778,44.46056,Natural,N,United States of America,Europe and North America,65307.0,24671000.0,213,22,528,7,2,4
+5,0,30,Mesa Verde National Park,1978,-108.48555559999998,37.26166667,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,7,2,8
+6,1,27,Nahanni National Park,1978,-125.58944440000002,61.54722222,Natural,N,Canada,Europe and North America,24015.0,2125000.0,213,18,528,7,2,4
+7,0,2248,L’Anse aux Meadows National Historic Site,1978,-55.61666667,51.46666667,Cultural,C,Canada,Europe and North America,24015.0,2125000.0,869,18,528,7,2,8
+8,0,1953,Aachen Cathedral ,1978,6.084444444,50.77444444,Cultural,C,Germany,Europe and North America,21156.0,117000.0,869,39,528,7,1,8
+9,0,1854,Wieliczka and Bochnia Royal Salt Mines,1978,20.06388889,49.97916667,Cultural,C,Poland,Europe and North America,7009.0,4833000.0,869,13,528,7,2,8
+10,0,29,Island of Gorée,1978,-17.40083,14.66722,Cultural,C,Senegal,Africa,1648.0,17994000.0,869,6,96,3,1,8
+11,0,1739,Historic Centre of Kraków,1978,19.93722222,50.06138889,Cultural,C,Poland,Europe and North America,7009.0,4833000.0,869,13,528,7,2,8
+12,4,2005,Białowieża Forest,1979,23.98111111,52.7275,Natural,N,"Belarus,Poland",Europe and North America,0.0,0.0,213,1,528,32,1,12
+13,2,96,Abu Mena,1979,29.66666667,30.83583333,Cultural,C,Egypt,Arab States,3343.0,518000.0,869,7,86,9,5,42
+14,2,38,"Forts and Castles, Volta, Greater Accra, Central and Western Regions",1979,-0.4936100000000001,5.3910300000000015,Cultural,C,Ghana,Africa,2025.0,34970000.0,869,2,96,7,1,42
+15,2,34,Auschwitz Birkenau <br /><small>German Nazi Concentration and Extermination Camp (1940-1945)</small>,1979,19.175,50.03888889,Cultural,C,Poland,Europe and North America,6579.0,4833000.0,869,13,528,32,3,42
+16,2,22,"Fasil Ghebbi, Gondar Region",1979,37.46617,12.60692,Cultural,C,Ethiopia,Africa,1069.0,730000.0,869,9,96,7,3,42
+17,2,84,Independence Hall,1979,-75.15,39.94861111,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,32,5,42
+18,2,2317,Mont-Saint-Michel and its Bay,1979,-1.51056,48.63556,Cultural,C,France,Europe and North America,22481.0,1831000.0,869,41,528,32,5,42
+19,2,1719,Chartres Cathedral,1979,1.487222222,48.4475,Cultural,C,France,Europe and North America,22481.0,1831000.0,869,41,528,32,5,42
+20,2,1571,Palace and Park of Versailles,1979,2.119444444,48.805,Cultural,C,France,Europe and North America,22481.0,1831000.0,869,41,528,32,5,42
+21,2,95,Historic Cairo,1979,31.26111,30.05,Cultural,C,Egypt,Arab States,3343.0,518000.0,869,7,86,9,5,42
+22,2,91,Prehistoric Sites and Decorated Caves of the Vézère Valley,1979,1.17,45.0575,Cultural,C,France,Europe and North America,22481.0,1831000.0,869,41,528,32,5,42
+23,2,63,Bryggen,1979,5.32306,60.39722,Cultural,C,Norway,Europe and North America,24721.0,1010000.0,869,7,528,32,2,42
+24,2,62,Urnes Stave Church,1979,7.33333,61.3,Cultural,C,Norway,Europe and North America,24721.0,1010000.0,869,7,528,32,2,42
+25,2,1448,Kathmandu Valley ,1979,85.30858,27.70395,Cultural,C,Nepal,Asia and the Pacific,794.0,1176000.0,869,4,266,5,2,42
+26,2,94,Nubian Monuments from Abu Simbel to Philae,1979,31.62580556,22.33722222,Cultural,C,Egypt,Arab States,3343.0,518000.0,869,7,86,9,5,42
+27,4,132,Sagarmatha National Park,1979,86.91306,27.96528,Natural,N,Nepal,Asia and the Pacific,794.0,1176000.0,213,4,266,5,2,12
+28,2,92,Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur,1979,31.13041,29.97604,Cultural,C,Egypt,Arab States,3343.0,518000.0,869,7,86,9,5,42
+29,2,1741,Amphitheatre of El Jem,1979,10.70694,35.29639,Cultural,C,Tunisia,Arab States,4083.0,83000.0,869,8,86,9,3,42
+30,2,2315,Old City of Dubrovnik,1979,18.09139,42.65056,Cultural,C,Croatia,Europe and North America,16053.0,2527000.0,869,7,528,32,3,42
+31,2,105,Historical Complex of Split with the Palace of Diocletian,1979,16.44333,43.50944000000001,Cultural,C,Croatia,Europe and North America,16053.0,2527000.0,869,7,528,32,3,42
+32,4,106,Plitvice Lakes National Park,1979,15.61444,44.87778,Natural,N,Croatia,Europe and North America,16053.0,2527000.0,213,7,528,32,3,12
+33,2,41,Archaeological Site of Carthage,1979,10.32333,36.85278,Cultural,C,Tunisia,Arab States,4083.0,83000.0,869,8,86,9,3,42
+34,2,1744,Medina of Tunis,1979,10.16667,36.81667,Cultural,C,Tunisia,Arab States,4083.0,83000.0,869,8,86,9,3,42
+35,4,78,Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek,1979,-140.9919722,61.19758333,Natural,N,"Canada,United States of America",Europe and North America,0.0,0.0,213,2,528,32,1,12
+36,2,1862,Ancient City of Damascus,1979,36.30639,33.51139000000001,Cultural,C,Syrian Arab Republic,Arab States,54184.0,8294000.0,869,6,86,9,1,42
+37,2,93,Ancient Thebes with its Necropolis,1979,32.6,25.73333,Cultural,C,Egypt,Arab States,3343.0,518000.0,869,7,86,9,5,42
+38,4,67,Virunga National Park,1979,29.16666667,0.916666667,Natural,N,Democratic Republic of the Congo,Africa,21004.0,2223000.0,213,5,96,7,1,12
+39,3,1639,Ngorongoro Conservation Area,1979,35.54083,-3.18722,Mixed,C/N,United Republic of Tanzania,Africa,65307.0,24671000.0,39,7,96,7,1,3
+40,2,49,Rock-Hewn Churches of Ivanovo,1979,25.96666667,43.71666667,Cultural,C,Bulgaria,Europe and North America,11264.0,6578000.0,869,9,528,32,4,42
+41,2,48,Thracian Tomb of Kazanlak,1979,25.4,42.61666667,Cultural,C,Bulgaria,Europe and North America,11264.0,6578000.0,869,9,528,32,4,42
+42,2,47,Madara Rider,1979,27.15,43.3,Cultural,C,Bulgaria,Europe and North America,11264.0,6578000.0,869,9,528,32,4,42
+43,2,46,Boyana Church,1979,23.26666667,42.65,Cultural,C,Bulgaria,Europe and North America,11264.0,6578000.0,869,9,528,32,4,42
+44,4,81,Grand Canyon National Park,1979,-112.0905556,36.10083333,Natural,N,United States of America,Europe and North America,65307.0,24671000.0,213,22,528,32,5,12
+45,4,82,Everglades National Park,1979,-80.99638889,25.55444444,Natural,N,United States of America,Europe and North America,65307.0,24671000.0,213,22,528,32,5,12
+46,2,2122,Natural and Culturo-Historical Region of Kotor,1979,18.7,42.48333,Cultural,C,Montenegro,Europe and North America,11607.0,386000.0,869,2,528,32,1,42
+47,4,75,Dinosaur Provincial Park,1979,-111.4922222,50.76777778,Natural,N,Canada,Europe and North America,24943.0,2125000.0,213,18,528,32,3,12
+48,3,68,Tikal National Park,1979,-89.61666667,17.21666667,Mixed,C/N,Guatemala,Latin America and the Caribbean,3710.0,24799000.0,39,3,142,4,2,3
+49,2,1572,"Vézelay, Church and Hill",1979,3.748333333,47.46638889,Cultural,C,France,Europe and North America,22481.0,1831000.0,869,41,528,32,5,42
+50,2,125,"Meidan Emam, Esfahan",1979,51.67777778,32.65745,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,5,3,42
+51,3,2313,Natural and Cultural Heritage of the Ohrid region,1979,20.64605556,41.06925,Mixed,C/N,"Albania,North Macedonia",Europe and North America,0.0,0.0,39,1,528,32,1,3
+52,2,101,Rock Drawings in Valcamonica,1979,10.29733333,45.95705556,Cultural,C,Italy,Europe and North America,19211.0,2799000.0,869,49,528,32,1,42
+53,2,69,Antigua Guatemala,1979,-90.66666667,14.56666667,Cultural,C,Guatemala,Latin America and the Caribbean,3710.0,24799000.0,869,3,142,4,2,42
+54,2,122,Tchogha Zanbil,1979,48.53333333,32.0833,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,5,3,42
+55,2,123,Persepolis,1979,52.89028,29.93444,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,5,3,42
+56,2,104,Stari Ras and Sopoćani,1979,20.42278,43.11889,Cultural,C,Serbia,Europe and North America,8086.0,962000.0,869,4,528,32,1,42
+57,6,149,Garamba National Park,1980,29.25,4.0,Natural,N,Democratic Republic of the Congo,Africa,21004.0,2223000.0,213,5,96,14,3,17
+58,5,18,Aksum,1980,38.71861,14.13019,Cultural,C,Ethiopia,Africa,1105.0,730000.0,869,9,96,14,7,64
+59,5,1667,Røros Mining Town and the Circumference,1980,11.38555556,62.57388889,Cultural,C,Norway,Europe and North America,27206.0,1010000.0,869,7,528,42,3,64
+60,6,150,Kahuzi-Biega National Park,1980,28.75,-2.5,Natural,N,Democratic Republic of the Congo,Africa,21004.0,2223000.0,213,5,96,14,3,17
+61,5,2209,Ancient City of Bosra,1980,36.48167,32.51806,Cultural,C,Syrian Arab Republic,Arab States,54184.0,8294000.0,869,6,86,13,3,64
+62,5,2121,Megalithic Temples of Malta,1980,14.269470000000002,36.04908,Cultural,C,Malta,Europe and North America,8911.0,113000.0,869,3,528,42,3,64
+63,5,20,Lower Valley of the Omo,1980,35.96666667,4.8,Cultural,C,Ethiopia,Africa,1105.0,730000.0,869,9,96,14,7,64
+64,5,13,Lower Valley of the Awash,1980,40.57939,11.10006,Cultural,C,Ethiopia,Africa,1105.0,730000.0,869,9,96,14,7,64
+65,5,15,Tiya,1980,38.6121,8.43491,Cultural,C,Ethiopia,Africa,1105.0,730000.0,869,9,96,14,7,64
+66,6,147,Redwood National and State Parks,1980,-123.9980556,41.37388889,Natural,N,United States of America,Europe and North America,65307.0,24671000.0,213,22,528,42,6,17
+67,5,151,Archaeological Ruins at Moenjodaro,1980,68.13888889,27.32916667,Cultural,C,Pakistan,Asia and the Pacific,1898.0,1066000.0,869,6,266,8,3,64
+68,5,2256,Site of Palmyra,1980,38.26667,34.55417,Cultural,C,Syrian Arab Republic,Arab States,54184.0,8294000.0,869,6,86,13,3,64
+69,5,136,Historic Town of Ouro Preto,1980,-43.50555556,-20.38888889,Cultural,C,Brazil,Latin America and the Caribbean,5052.0,1966000.0,869,21,142,7,1,64
+70,5,142,Ħal Saflieni Hypogeum,1980,14.50739,35.87134000000001,Cultural,C,Malta,Europe and North America,8911.0,113000.0,869,3,528,42,3,64
+71,5,2114,"Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",1980,12.49230556,41.89022222,Cultural,C,"Holy See,Italy",Europe and North America,0.0,0.0,869,1,528,42,1,64
+72,5,141,Maya Site of Copan,1980,-89.13333,14.85,Cultural,C,Honduras,Latin America and the Caribbean,3168.0,24799000.0,869,2,142,7,1,64
+73,5,153,Taxila,1980,72.8875,33.77916667,Cultural,C,Pakistan,Asia and the Pacific,1898.0,1066000.0,869,6,266,8,3,64
+74,6,11,Ichkeul National Park,1980,9.67472,37.16361,Natural,N,Tunisia,Arab States,4275.0,83000.0,213,8,86,13,4,17
+75,5,148,Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo,1980,-79.65583333,9.553888889,Cultural,C,Panama,Latin America and the Caribbean,5569.0,556000.0,869,4,142,7,1,64
+76,5,143,City of Valletta,1980,14.51444,35.90056,Cultural,C,Malta,Europe and North America,8911.0,113000.0,869,3,528,42,3,64
+77,5,2068,Historic Centre of Warsaw,1980,21.01167,52.26639,Cultural,C,Poland,Europe and North America,6221.0,4833000.0,869,13,528,42,4,64
+78,5,100,Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci,1980,9.1705,45.46588889,Cultural,C,Italy,Europe and North America,20460.0,2799000.0,869,49,528,42,2,64
+79,5,39,Asante Traditional Buildings,1980,-1.625833333,6.4011111110000005,Cultural,C,Ghana,Africa,1963.0,34970000.0,869,2,96,14,2,64
+80,5,111,Al Qal'a of Beni Hammad,1980,4.78684,35.81844,Cultural,C,Algeria,Arab States,11630.0,748000.0,869,7,86,13,1,64
+81,5,85,Paphos,1980,32.405559999999994,34.75833,Cultural,C,Cyprus,Europe and North America,13256.0,2316000.0,869,3,528,42,1,64
+82,5,154,Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol,1980,71.94583333,34.32083333,Cultural,C,Pakistan,Asia and the Pacific,1898.0,1066000.0,869,6,266,8,3,64
+83,6,109,Durmitor National Park,1980,19.0166,43.133,Natural,N,Montenegro,Europe and North America,14223.0,386000.0,213,2,528,42,2,17
+84,8,185,Willandra Lakes Region,1981,143.0,-34.0,Mixed,C/N,Australia,Asia and the Pacific,23372.0,45000.0,39,20,266,13,3,5
+85,9,172,Great Barrier Reef,1981,147.7,-18.28611111,Natural,N,Australia,Asia and the Pacific,23372.0,45000.0,213,20,266,13,3,26
+86,8,1872,Kakadu National Park,1981,132.8333333,-12.83333333,Mixed,C/N,Australia,Asia and the Pacific,23372.0,45000.0,39,20,266,13,3,5
+87,9,173,Mount Nimba Strict Nature Reserve,1981,-8.39097,7.60318,Natural,N,"Côte d'Ivoire,Guinea",Africa,0.0,0.0,213,1,96,19,1,26
+88,9,160,Los Glaciares National Park,1981,-73.24944,-50.0,Natural,N,Argentina,Latin America and the Caribbean,13441.0,265000.0,213,8,142,10,1,26
+89,9,177,Darien National Park,1981,-77.54722222,7.736111111,Natural,N,Panama,Latin America and the Caribbean,5882.0,556000.0,213,4,142,10,2,26
+90,9,174,Serengeti National Park,1981,34.56667,-2.33333,Natural,N,United Republic of Tanzania,Africa,65307.0,24671000.0,213,7,96,19,3,26
+91,7,159,Ruins of Kilwa Kisiwani and Ruins of Songo Mnara,1981,39.52278,-8.95778,Cultural,C,United Republic of Tanzania,Africa,65307.0,24671000.0,869,7,96,19,3,79
+92,9,171,Niokolo-Koba National Park,1981,-12.71667,13.06667,Natural,N,Senegal,Africa,1516.0,17994000.0,213,6,96,19,3,26
+93,9,28,Djoudj National Bird Sanctuary,1981,-16.16667,16.5,Natural,N,Senegal,Africa,1516.0,17994000.0,213,6,96,19,3,26
+94,7,175,S<U>G</U>ang Gwaay,1981,-131.2202778,52.095,Cultural,C,Canada,Europe and North America,25235.0,2125000.0,869,18,528,53,5,79
+95,7,176,Head-Smashed-In Buffalo Jump,1981,-113.6238889,49.74944444,Cultural,C,Canada,Europe and North America,25235.0,2125000.0,869,18,528,53,5,79
+96,7,189,Fort and Shalamar Gardens in Lahore,1981,74.30972222,31.59027778,Cultural,C,Pakistan,Asia and the Pacific,1963.0,1066000.0,869,6,266,13,5,79
+97,7,188,Medina of Fez,1981,-4.97778,34.06111,Cultural,C,Morocco,Arab States,4043.0,386000.0,869,9,86,15,1,79
+98,7,158,"Historical Monuments at Makli, Thatta",1981,67.9,24.76666667,Cultural,C,Pakistan,Asia and the Pacific,1963.0,1066000.0,869,6,266,13,5,79
+99,7,1568,"Roman Theatre and its Surroundings and the ""Triumphal Arch"" of Orange",1981,4.808416667,44.13572222,Cultural,C,France,Europe and North America,22083.0,1831000.0,869,41,528,53,10,79
+100,9,168,Mammoth Cave National Park,1981,-86.10305556,37.18722222,Natural,N,United States of America,Europe and North America,65307.0,24671000.0,213,22,528,53,8,26
+101,9,169,Olympic National Park,1981,-123.4488889,47.74833333,Natural,N,United States of America,Europe and North America,65307.0,24671000.0,213,22,528,53,8,26
+102,7,167,Archaeological Park and Ruins of Quirigua,1981,-89.04025,15.27059,Cultural,C,Guatemala,Latin America and the Caribbean,3813.0,24799000.0,869,3,142,10,3,79
+103,7,1565,Cistercian Abbey of Fontenay,1981,4.38911,47.63944,Cultural,C,France,Europe and North America,22083.0,1831000.0,869,41,528,53,10,79
+104,7,165,Old City of Jerusalem and its Walls,1981,35.21666667,31.78333333,Cultural,C,Jerusalem (Site proposed by Jordan),Arab States,36030.0,19737000.0,869,1,86,15,1,79
+105,7,178,Palace and Park of Fontainebleau,1981,2.6980555560000004,48.40194444,Cultural,C,France,Europe and North America,22083.0,1831000.0,869,41,528,53,10,79
+106,7,1735,Würzburg Residence with the Court Gardens and Residence Square,1981,9.93889,49.79278,Cultural,C,Germany,Europe and North America,21443.0,117000.0,869,39,528,53,3,79
+107,7,186,Speyer Cathedral,1981,8.443055556000001,49.31666667,Cultural,C,Germany,Europe and North America,21443.0,117000.0,869,39,528,53,3,79
+108,7,1951,Amiens Cathedral,1981,2.301666667,49.895,Cultural,C,France,Europe and North America,22083.0,1831000.0,869,41,528,53,10,79
+109,7,182,"Arles, Roman and Romanesque Monuments",1981,4.630694444,43.67763889,Cultural,C,France,Europe and North America,22083.0,1831000.0,869,41,528,53,10,79
+110,10,221,Sacred City of Anuradhapura,1982,80.38333333,8.333333332999999,Cultural,C,Sri Lanka,Asia and the Pacific,2239.0,75315000.0,869,8,266,18,3,96
+111,10,222,Ancient City of Polonnaruwa,1982,81.00055556,7.915833332999999,Cultural,C,Sri Lanka,Asia and the Pacific,2239.0,75315000.0,869,8,266,18,3,96
+112,10,210,Historic Centre of the Town of Olinda,1982,-34.845,-8.013333333,Cultural,C,Brazil,Latin America and the Caribbean,5162.0,1966000.0,869,21,142,14,2,96
+113,10,212,Djémila,1982,5.736669999999998,36.32056,Cultural,C,Algeria,Arab States,12243.0,748000.0,869,7,86,24,6,96
+114,10,214,Tipasa,1982,2.383333333,36.55,Cultural,C,Algeria,Arab States,12243.0,748000.0,869,7,86,24,6,96
+115,10,1637,"From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans, the Production of Open-pan Salt ",1982,5.8763888889999984,46.9375,Cultural,C,France,Europe and North America,22053.0,1831000.0,869,41,528,56,11,96
+116,10,223,Ancient City of Sigiriya,1982,80.75,7.95,Cultural,C,Sri Lanka,Asia and the Pacific,2239.0,75315000.0,869,8,266,18,3,96
+117,12,206,Lord Howe Island Group,1982,159.08833330000004,-31.56555556,Natural,N,Australia,Asia and the Pacific,22821.0,45000.0,213,20,266,18,5,31
+118,10,203,Archaeological Site of Leptis Magna,1982,14.29306,32.63833,Cultural,C,Libya,Arab States,31986.0,631000.0,869,5,86,24,3,96
+119,10,209,M'Zab Valley,1982,3.68333,32.48333,Cultural,C,Algeria,Arab States,12243.0,748000.0,869,7,86,24,6,96
+120,10,204,Archaeological Site of Sabratha,1982,12.485,32.80528,Cultural,C,Libya,Arab States,31986.0,631000.0,869,5,86,24,3,96
+121,10,211,Archaeological Site of Cyrene,1982,21.85833,32.825,Cultural,C,Libya,Arab States,31986.0,631000.0,869,5,86,24,3,96
+122,10,225,Old Havana and its Fortification System,1982,-82.35,23.13333333,Cultural,C,Cuba,Latin America and the Caribbean,6534.0,8665000.0,869,9,142,14,1,96
+123,11,198,Tassili n'Ajjer,1982,9.0,25.5,Mixed,C/N,Algeria,Arab States,12243.0,748000.0,39,7,86,24,6,7
+124,12,217,Río Plátano Biosphere Reserve,1982,-84.675,15.74444444,Natural,N,Honduras,Latin America and the Caribbean,3039.0,24799000.0,213,2,142,14,2,31
+125,10,2127,Historic Centre of Florence,1982,11.25611,43.77306,Cultural,C,Italy,Europe and North America,19793.0,2799000.0,869,49,528,56,3,96
+126,10,199,"National History Park – Citadel, Sans Souci, Ramiers",1982,-72.24417,19.57361,Cultural,C,Haiti,Latin America and the Caribbean,2757.0,24799000.0,869,1,142,14,1,96
+127,12,216,Taï National Park,1982,-7.66667,5.75,Natural,N,Côte d'Ivoire,Africa,21004.0,2223000.0,213,3,96,22,1,31
+128,12,1924,Selous Game Reserve,1982,37.4,-9.0,Natural,N,United Republic of Tanzania,Africa,65307.0,24671000.0,213,7,96,22,4,31
+129,10,215,Timgad,1982,6.468861111,35.48416667,Cultural,C,Algeria,Arab States,12243.0,748000.0,869,7,86,24,6,96
+130,11,1950,Tasmanian Wilderness,1982,145.41666669999995,-41.58333333,Mixed,C/N,Australia,Asia and the Pacific,22821.0,45000.0,39,20,266,18,5,7
+131,10,2191,Cahokia Mounds State Historic Site,1982,-90.06138889,38.65861111,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,56,9,96
+132,12,205,Aldabra Atoll,1982,46.41666667,-9.416666667000001,Natural,N,Seychelles,Africa,9620.0,696000.0,213,2,96,22,1,31
+133,10,213,Old Walled City of Shibam,1982,48.62667,15.92694,Cultural,C,Yemen,Arab States,2705.0,90500.0,869,4,86,24,1,96
+134,15,289,Great Smoky Mountains National Park,1983,-83.43555556,35.59305556,Natural,N,United States of America,Europe and North America,65307.0,24671000.0,213,22,528,74,11,40
+135,15,252,Comoé National Park,1983,-4.0,9.0,Natural,N,Côte d'Ivoire,Africa,21004.0,2223000.0,213,3,96,24,2,40
+136,15,291,Vallée de Mai Nature Reserve,1983,55.7375,-4.32917,Natural,N,Seychelles,Africa,10129.0,696000.0,213,2,96,24,2,40
+137,13,298,Abbey of St Gall,1983,9.37778,47.42333,Cultural,C,Switzerland,Europe and North America,28338.0,5146000.0,869,8,528,74,3,115
+138,13,295,Convent of Christ in Tomar,1983,-8.4175,39.60472,Cultural,C,Portugal,Europe and North America,9992.0,15670000.0,869,16,528,74,4,115
+139,15,290,Sangay National Park,1983,-78.33333,-1.83333,Natural,N,Ecuador,Latin America and the Caribbean,5351.0,65000.0,213,4,142,19,3,40
+140,13,269,Ajanta Caves,1983,75.7,20.55333,Cultural,C,India,Asia and the Pacific,1059.0,502000.0,869,37,266,22,4,115
+141,13,326,"Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)",1983,-54.26583333,-28.54333333,Cultural,C,"Argentina,Brazil",Latin America and the Caribbean,0.0,0.0,869,1,142,19,1,115
+142,13,1864,Pilgrimage Church of Wies,1983,10.90013889,47.68127778,Cultural,C,Germany,Europe and North America,21102.0,117000.0,869,39,528,74,4,115
+143,15,226,Talamanca Range-La Amistad Reserves / La Amistad National Park,1983,-82.93880556,9.407083333,Natural,N,"Costa Rica,Panama",Latin America and the Caribbean,0.0,0.0,213,1,142,19,1,40
+144,14,305,Historic Sanctuary of Machu Picchu,1983,-72.58333333,-13.11666667,Mixed,C/N,Peru,Latin America and the Caribbean,3521.0,114000.0,39,11,142,19,2,8
+145,13,227,Central Zone of the Town of Angra do Heroismo in the Azores,1983,-27.22,38.655,Cultural,C,Portugal,Europe and North America,9992.0,15670000.0,869,16,528,74,4,115
+146,13,1630,Monastery of the Hieronymites and Tower of Belém in Lisbon,1983,-9.21583,38.69194,Cultural,C,Portugal,Europe and North America,9992.0,15670000.0,869,16,528,74,4,115
+147,15,288,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",1983,8.628833333,42.32519444,Natural,N,France,Europe and North America,21639.0,1831000.0,213,41,528,74,14,40
+148,13,304,City of Cuzco,1983,-71.98333000000002,-13.52222,Cultural,C,Peru,Latin America and the Caribbean,3521.0,114000.0,869,11,142,19,2,115
+149,13,239,Rila Monastery,1983,23.4,42.11666667,Cultural,C,Bulgaria,Europe and North America,11671.0,6578000.0,869,9,528,74,8,115
+150,13,299,Benedictine Convent of St John at Müstair,1983,10.44765,46.62945,Cultural,C,Switzerland,Europe and North America,28338.0,5146000.0,869,8,528,74,3,115
+151,13,2192,La Fortaleza and San Juan National Historic Site in Puerto Rico,1983,-66.125,18.46666667,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,74,11,115
+152,13,297,Old City of Berne,1983,7.45028,46.94806,Cultural,C,Switzerland,Europe and North America,28338.0,5146000.0,869,8,528,74,3,115
+153,13,270,Ellora Caves,1983,75.17917,20.02639,Cultural,C,India,Asia and the Pacific,1059.0,502000.0,869,37,266,22,4,115
+154,15,1641,Pirin National Park,1983,23.43047222,41.74272222,Natural,N,Bulgaria,Europe and North America,11671.0,6578000.0,213,9,528,74,8,40
+155,15,1621,Srebarna Nature Reserve,1983,27.07806,44.11444,Natural,N,Bulgaria,Europe and North America,11671.0,6578000.0,213,9,528,74,8,40
+156,13,240,Ancient City of Nessebar,1983,27.73,42.65611,Cultural,C,Bulgaria,Europe and North America,11671.0,6578000.0,869,9,528,74,8,115
+157,13,294,Monastery of Batalha,1983,-8.826939999999997,39.65778,Cultural,C,Portugal,Europe and North America,9992.0,15670000.0,869,16,528,74,4,115
+158,13,2118,Abbey Church of Saint-Savin sur Gartempe,1983,0.86611,46.56472,Cultural,C,France,Europe and North America,21639.0,1831000.0,869,41,528,74,14,115
+159,13,282,Taj Mahal,1983,78.04222,27.17417,Cultural,C,India,Asia and the Pacific,1059.0,502000.0,869,37,266,22,4,115
+160,13,281,Agra Fort,1983,78.03333333,27.18333333,Cultural,C,India,Asia and the Pacific,1059.0,502000.0,869,37,266,22,4,115
+161,15,286,Wood Buffalo National Park,1983,-112.2933333,59.35833333,Natural,N,Canada,Europe and North America,24776.0,2125000.0,213,18,528,74,6,40
+162,13,2186,"Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy",1983,6.183333332999999,48.69361111,Cultural,C,France,Europe and North America,21639.0,1831000.0,869,41,528,74,14,115
+163,16,274,"Sun Temple, Konârak",1984,86.09472,19.8875,Cultural,C,India,Asia and the Pacific,1035.0,502000.0,869,37,266,25,6,130
+164,16,361,"Monastery and Site of the Escurial, Madrid",1984,-4.126416667,40.58175,Cultural,C,Spain,Europe and North America,11585.0,9091000.0,869,44,528,84,5,130
+165,16,320,Vatican City,1984,12.45736,41.90216,Cultural,C,Holy See,Europe and North America,2757.0,24799000.0,869,1,528,84,1,130
+166,16,364,Works of Antoni Gaudí ,1984,2.152972,41.41338,Cultural,C,Spain,Europe and North America,11585.0,9091000.0,869,44,528,84,5,130
+167,17,323,Lake Malawi National Park,1984,34.88333,-14.03333,Natural,N,Malawi,Africa,1131.0,344000.0,213,2,96,27,1,47
+168,16,319,"Port, Fortresses and Group of Monuments, Cartagena",1984,-75.53333333,10.41666667,Cultural,C,Colombia,Latin America and the Caribbean,6421.0,59270000.0,869,8,142,21,1,130
+169,17,314,Salonga National Park,1984,21.0,-2.0,Natural,N,Democratic Republic of the Congo,Africa,21004.0,2223000.0,213,5,96,27,4,47
+170,16,329,Anjar,1984,35.92972,33.72583,Cultural,C,Lebanon,Arab States,9195.0,635000.0,869,5,86,28,4,130
+171,16,330,Baalbek,1984,36.20494,34.00707,Cultural,C,Lebanon,Arab States,9195.0,635000.0,869,5,86,28,4,130
+172,16,277,Group of Monuments at Mahabalipuram,1984,80.19167,12.61667,Cultural,C,India,Asia and the Pacific,1035.0,502000.0,869,37,266,25,6,130
+173,16,357,"Alhambra, Generalife and Albayzín, Granada",1984,-3.59444,37.17667,Cultural,C,Spain,Europe and North America,11585.0,9091000.0,869,44,528,84,5,130
+174,16,355,Historic Centre of Cordoba,1984,-4.779722222,37.87919444,Cultural,C,Spain,Europe and North America,11585.0,9091000.0,869,44,528,84,5,130
+175,16,335,Tyre,1984,35.19444,33.27194,Cultural,C,Lebanon,Arab States,9195.0,635000.0,869,5,86,28,4,130
+176,16,322,Castles of Augustusburg and Falkenlust at Brühl,1984,6.909777778,50.82502778,Cultural,C,Germany,Europe and North America,21247.0,117000.0,869,39,528,84,5,130
+177,16,2070,Burgos Cathedral,1984,-3.704011111,42.34073333,Cultural,C,Spain,Europe and North America,11585.0,9091000.0,869,44,528,84,5,130
+178,16,331,Byblos,1984,35.6475,34.119170000000004,Cultural,C,Lebanon,Arab States,9195.0,635000.0,869,5,86,28,4,130
+179,17,340,Iguazu National Park,1984,-54.13333333,-25.51805556,Natural,N,Argentina,Latin America and the Caribbean,13313.0,265000.0,213,8,142,21,2,47
+180,16,346,Statue of Liberty,1984,-74.04472222,40.68944444,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,84,13,130
+181,17,347,Yosemite National Park,1984,-119.5966667,37.74611111,Natural,N,United States of America,Europe and North America,65307.0,24671000.0,213,22,528,84,13,47
+182,17,339,"Mana Pools National Park, Sapi and Chewore Safari Areas",1984,29.40805556,-15.81944444,Natural,N,Zimbabwe,Africa,3600.0,1023000.0,213,4,96,27,1,47
+183,17,318,Chitwan National Park,1984,84.33333,27.5,Natural,N,Nepal,Asia and the Pacific,893.0,1176000.0,213,4,266,25,3,47
+184,17,342,Canadian Rocky Mountain Parks,1984,-116.4797222,51.42472222,Natural,N,Canada,Europe and North America,26145.0,2125000.0,213,18,528,84,7,47
+185,18,372,Quseir Amra,1985,36.58583,31.80194,Cultural,C,Jordan,Arab States,4761.0,19737000.0,869,5,86,34,2,155
+186,20,387,Keoladeo National Park,1985,77.50861111,27.15888889,Natural,N,India,Asia and the Pacific,1021.0,502000.0,213,37,266,30,9,51
+187,20,385,Manas Wildlife Sanctuary,1985,91.03055556,26.725,Natural,N,India,Asia and the Pacific,1021.0,502000.0,213,37,266,30,9,51
+188,20,384,Kaziranga National Park,1985,93.41666667,26.66666667,Natural,N,India,Asia and the Pacific,1021.0,502000.0,213,37,266,30,9,51
+189,18,403,Rock Art of Alta,1985,23.18333,69.95,Cultural,C,Norway,Europe and North America,28722.0,1010000.0,869,7,528,98,4,155
+190,18,376,Medina of Marrakesh,1985,-7.986669999999998,31.631390000000003,Cultural,C,Morocco,Arab States,4424.0,386000.0,869,9,86,34,2,155
+191,18,411,Great Mosque and Hospital of Divriği,1985,38.121826,39.371271,Cultural,C,Turkey,Europe and North America,8391.0,4263000.0,869,18,528,98,3,155
+192,19,410,Göreme National Park and the Rock Sites of Cappadocia,1985,34.85,38.66667,Mixed,C/N,Turkey,Europe and North America,8391.0,4263000.0,39,18,528,98,3,9
+193,18,2255,Historic Areas of Istanbul,1985,28.97993,41.00847,Cultural,C,Turkey,Europe and North America,8391.0,4263000.0,869,18,528,98,3,155
+194,18,378,Punic Town of Kerkuane and its Necropolis,1985,11.09917,36.94639,Cultural,C,Tunisia,Arab States,4591.0,83000.0,869,8,86,34,5,155
+195,18,412,Thracian Tomb of Sveshtari,1985,26.66667,43.66667,Cultural,C,Bulgaria,Europe and North America,11787.0,6578000.0,869,9,528,98,9,155
+196,18,336,Historic District of Old Québec,1985,-71.21055556,46.80944444,Cultural,C,Canada,Europe and North America,27219.0,2125000.0,869,18,528,98,8,155
+197,18,370,Petra,1985,35.44333,30.33056,Cultural,C,Jordan,Arab States,4761.0,19737000.0,869,5,86,34,2,155
+198,18,1566,Pont du Gard (Roman Aqueduct),1985,4.535277778,43.94722222,Cultural,C,France,Europe and North America,20830.0,1831000.0,869,41,528,98,15,155
+199,18,375,Chavin (Archaeological Site),1985,-77.1784535,-9.592772543999999,Cultural,C,Peru,Latin America and the Caribbean,3566.0,114000.0,869,11,142,25,4,155
+200,18,380,Sanctuary of Bom Jesus do Congonhas,1985,-43.85777778,-20.49972222,Cultural,C,Brazil,Latin America and the Caribbean,5207.0,1966000.0,869,21,142,25,4,155
+201,18,348,Historic Centre of Salvador de Bahia,1985,-38.5,-12.96666667,Cultural,C,Brazil,Latin America and the Caribbean,5207.0,1966000.0,869,21,142,25,4,155
+202,18,401,Painted Churches in the Troodos Region,1985,33.09583333,34.92027778,Cultural,C,Cyprus,Europe and North America,16021.0,2316000.0,869,3,528,98,2,155
+203,18,353,Monuments of Oviedo and the Kingdom of the Asturias,1985,-5.8430300000000015,43.36262,Cultural,C,Spain,Europe and North America,11538.0,9091000.0,869,44,528,98,10,155
+204,20,379,Huascarán National Park,1985,-77.4,-9.33333,Natural,N,Peru,Latin America and the Caribbean,3566.0,114000.0,213,11,142,25,4,51
+205,18,1562,Old Town of Ávila with its Extra-Muros Churches,1985,-4.70012,40.65645,Cultural,C,Spain,Europe and North America,11538.0,9091000.0,869,44,528,98,10,155
+206,18,1627,St Mary's Cathedral and St Michael's Church at Hildesheim,1985,9.94389,52.15278,Cultural,C,Germany,Europe and North America,21377.0,117000.0,869,39,528,98,6,155
+207,18,2124,Old Town of Segovia and its Aqueduct,1985,-4.11675,40.94847222,Cultural,C,Spain,Europe and North America,11538.0,9091000.0,869,44,528,98,10,155
+208,18,309,Hatra,1985,42.71833,35.58806,Cultural,C,Iraq,Arab States,11435.0,8044000.0,869,6,86,34,1,155
+209,18,1506,Cave of Altamira and Paleolithic Cave Art of Northern Spain,1985,-4.116166667,43.38252778,Cultural,C,Spain,Europe and North America,11538.0,9091000.0,869,44,528,98,10,155
+210,18,365,Historic Mosque City of Bagerhat,1985,89.8,22.66667,Cultural,C,Bangladesh,Asia and the Pacific,1209.0,8062000.0,869,3,266,30,2,155
+211,18,321,Rock-Art Sites of Tadrart Acacus,1985,10.33333,24.83333,Cultural,C,Libya,Arab States,29251.0,631000.0,869,5,86,34,4,155
+212,18,366,Ruins of the Buddhist Vihara at Paharpur,1985,88.98333333,25.03333333,Cultural,C,Bangladesh,Asia and the Pacific,1209.0,8062000.0,869,3,266,30,2,155
+213,18,1560,Royal Palaces of Abomey,1985,1.983333333,7.183333332999999,Cultural,C,Benin,Africa,1776.0,133000.0,869,1,96,28,1,155
+214,18,395,Santiago de Compostela (Old Town),1985,-8.54468,42.88076,Cultural,C,Spain,Europe and North America,11538.0,9091000.0,869,44,528,98,10,155
+215,21,419,Chan Chan Archaeological Zone,1986,-79.08333,-8.1,Cultural,C,Peru,Latin America and the Caribbean,4047.0,114000.0,869,11,142,27,5,178
+216,21,414,Historic Centre of Évora,1986,-7.907780000000002,38.57306,Cultural,C,Portugal,Europe and North America,10780.0,15670000.0,869,16,528,115,5,178
+217,21,452,Temple of Apollo Epicurius at Bassae,1986,21.89694,37.43498,Cultural,C,Greece,Europe and North America,14123.0,34970000.0,869,18,528,115,1,178
+218,21,24,Ancient City of Aleppo,1986,37.16277778,36.19916667,Cultural,C,Syrian Arab Republic,Arab States,54184.0,8294000.0,869,6,86,37,4,178
+219,21,420,"Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier",1986,6.633333333,49.75,Cultural,C,Germany,Europe and North America,22858.0,117000.0,869,39,528,115,7,178
+220,21,449,Studenica Monastery,1986,20.53667,43.48611,Cultural,C,Serbia,Europe and North America,8391.0,962000.0,869,4,528,115,2,178
+221,21,444,Old City of Sana'a,1986,44.20805556,15.35555556,Cultural,C,Yemen,Arab States,2675.0,90500.0,869,4,86,37,2,178
+222,21,417,Great Zimbabwe National Monument,1986,30.93333333,-20.28333333,Cultural,C,Zimbabwe,Africa,3492.0,1023000.0,869,4,96,30,3,178
+223,21,415,Old Town of Ghadamès,1986,9.5,30.13333333,Cultural,C,Libya,Arab States,25783.0,631000.0,869,5,86,37,5,178
+224,21,418,Khami Ruins National Monument,1986,28.37666667,-20.15833333,Cultural,C,Zimbabwe,Africa,3492.0,1023000.0,869,4,96,30,3,178
+225,21,2189,Old Town of Cáceres,1986,-6.37,39.47444,Cultural,C,Spain,Europe and North America,12383.0,9091000.0,869,44,528,115,14,178
+226,23,422,Gondwana Rainforests of Australia,1986,150.05,-28.25,Natural,N,Australia,Asia and the Pacific,24308.0,45000.0,213,20,266,35,6,56
+227,23,408,Iguaçu National Park,1986,-54.43333000000001,-25.68333,Natural,N,Brazil,Latin America and the Caribbean,5835.0,1966000.0,213,21,142,27,5,56
+228,22,2202,St Kilda,1986,-8.576666667000001,57.81722222,Mixed,C/N,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,39,31,528,115,7,10
+229,21,429,Castles and Town Walls of King Edward in Gwynedd,1986,-4.276944444,53.13972222,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,115,7,178
+230,21,1633,"Stonehenge, Avebury and Associated Sites",1986,-1.825277778,51.17888889,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,115,7,178
+231,21,1930,Studley Royal Park including the Ruins of Fountains Abbey,1986,-1.573055556,54.11611111,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,115,7,178
+232,21,425,Ironbridge Gorge,1986,-2.472777778,52.62638889,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,115,7,178
+233,21,1634,Durham Castle and Cathedral,1986,-1.576111111,54.77472222,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,115,7,178
+234,23,2178,Giant's Causeway and Causeway Coast,1986,-6.485277778,55.25,Natural,N,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,213,31,528,115,7,56
+235,21,285,Fatehpur Sikri,1986,77.66417,27.09444,Cultural,C,India,Asia and the Pacific,1054.0,502000.0,869,37,266,35,13,178
+236,21,1932,Group of Monuments at Hampi,1986,76.47166999999997,15.31444,Cultural,C,India,Asia and the Pacific,1054.0,502000.0,869,37,266,35,13,178
+237,21,267,Khajuraho Group of Monuments,1986,79.92222,24.852220000000006,Cultural,C,India,Asia and the Pacific,1054.0,502000.0,869,37,266,35,13,178
+238,23,450,Škocjan Caves,1986,14.0,45.66667,Natural,N,Slovenia,Europe and North America,19466.0,1767000.0,213,1,528,115,1,56
+239,21,260,Churches and Convents of Goa,1986,73.91167,15.50222,Cultural,C,India,Asia and the Pacific,1054.0,502000.0,869,37,266,35,13,178
+240,21,432,Hattusha: the Hittite Capital,1986,34.62056,40.01389,Cultural,C,Turkey,Europe and North America,8792.0,4263000.0,869,18,528,115,4,178
+241,21,435,Historic City of Toledo,1986,-4.029416667,39.86688889,Cultural,C,Spain,Europe and North America,12383.0,9091000.0,869,44,528,115,14,178
+242,21,2188,Mudejar Architecture of Aragon,1986,-1.10722,40.34389,Cultural,C,Spain,Europe and North America,12383.0,9091000.0,869,44,528,115,14,178
+243,23,436,Garajonay National Park,1986,-17.23722222,28.12625,Natural,N,Spain,Europe and North America,12383.0,9091000.0,213,44,528,115,14,56
+244,24,477,Pre-Hispanic City of Teotihuacan,1987,-98.84167,19.69167,Cultural,C,Mexico,Latin America and the Caribbean,9333.0,930000.0,869,35,142,36,6,210
+245,24,478,Historic Centre of Oaxaca and Archaeological Site of Monte Albán,1987,-96.72167,17.06194,Cultural,C,Mexico,Latin America and the Caribbean,9333.0,930000.0,869,35,142,36,6,210
+246,26,483,Gros Morne National Park,1987,-57.53138889,49.6125,Natural,N,Canada,Europe and North America,28658.0,2125000.0,213,18,528,132,9,63
+247,24,474,Pre-Hispanic City and National Park of Palenque,1987,-92.05,17.48333,Cultural,C,Mexico,Latin America and the Caribbean,9333.0,930000.0,869,35,142,36,6,210
+248,26,473,Sian Ka'an,1987,-87.79167,19.38333,Natural,N,Mexico,Latin America and the Caribbean,9333.0,930000.0,213,35,142,36,6,63
+249,26,1705,Manú National Park,1987,-71.75,-12.25,Natural,N,Peru,Latin America and the Caribbean,4380.0,114000.0,213,11,142,36,6,63
+250,26,466,Kilimanjaro National Park,1987,37.36667,-3.06667,Natural,N,United Republic of Tanzania,Africa,65307.0,24671000.0,213,7,96,32,5,63
+251,24,454,Venice and its Lagoon,1987,12.33894444,45.43430556,Cultural,C,Italy,Europe and North America,22165.0,2799000.0,869,49,528,132,5,210
+252,24,405,Chaco Culture,1987,-107.97083329999998,36.06377778,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,132,16,210
+253,24,484,City of Potosí,1987,-65.75305999999999,-19.58361,Cultural,C,Bolivia (Plurinational State of),Latin America and the Caribbean,1776.0,133000.0,869,6,142,36,1,210
+254,24,479,Historic Centre of Puebla,1987,-98.20833,19.047220000000006,Cultural,C,Mexico,Latin America and the Caribbean,9333.0,930000.0,869,35,142,36,6,210
+255,26,470,Dja Faunal Reserve,1987,13.0,3.0,Natural,N,Cameroon,Africa,2908.0,2125000.0,213,1,96,32,1,63
+256,24,475,Historic Centre of Mexico City and Xochimilco,1987,-99.13278,19.41833,Cultural,C,Mexico,Latin America and the Caribbean,9333.0,930000.0,869,35,142,36,6,210
+257,24,502,Bahla Fort,1987,57.30111,22.964170000000006,Cultural,C,Oman,Arab States,12672.0,5361000.0,869,5,86,39,1,210
+258,24,2126,Monticello and the University of Virginia in Charlottesville,1987,-78.50388889,38.03277778,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,132,16,210
+259,24,1558,"Piazza del Duomo, Pisa",1987,10.39638889,43.72305556,Cultural,C,Italy,Europe and North America,22165.0,2799000.0,869,49,528,132,5,210
+260,24,512,Mausoleum of the First Qin Emperor,1987,109.1,34.38333333,Cultural,C,China,Asia and the Pacific,2510.0,2253000.0,869,54,266,46,6,210
+261,24,515,Ksar of Ait-Ben-Haddou,1987,-7.128889999999998,31.047220000000006,Cultural,C,Morocco,Arab States,4431.0,386000.0,869,9,86,39,3,210
+262,24,462,"Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",1987,19.07067,47.48242,Cultural,C,Hungary,Europe and North America,11954.0,24799000.0,869,6,528,132,2,210
+263,24,464,Old Village of Hollókő and its Surroundings,1987,19.52917,47.99444,Cultural,C,Hungary,Europe and North America,11954.0,24799000.0,869,6,528,132,2,210
+264,24,521,Peking Man Site at Zhoukoudian,1987,115.9166667,39.73333333,Cultural,C,China,Asia and the Pacific,2510.0,2253000.0,869,54,266,46,6,210
+265,24,520,Nemrut Dağ,1987,38.76369,38.03661,Cultural,C,Turkey,Europe and North America,9473.0,4263000.0,869,18,528,132,5,210
+266,24,1747,"Cathedral, Alcázar and Archivo de Indias in Seville",1987,-5.99155,37.38384,Cultural,C,Spain,Europe and North America,13449.0,9091000.0,869,44,528,132,15,210
+267,24,492,Blenheim Palace,1987,-1.361388889,51.84194444,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,132,10,210
+268,24,495,City of Bath,1987,-2.358611111,51.38138889,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,132,10,210
+269,24,266,Group of Monuments at Pattadakal,1987,75.81667,15.94833,Cultural,C,India,Asia and the Pacific,1094.0,502000.0,869,37,266,46,17,210
+270,24,272,Elephanta Caves,1987,72.93583000000002,18.96667,Cultural,C,India,Asia and the Pacific,1094.0,502000.0,869,37,266,46,17,210
+271,24,280,Great Living Chola Temples,1987,79.1325,10.78305556,Cultural,C,India,Asia and the Pacific,1094.0,502000.0,869,37,266,46,17,210
+272,26,524,Sundarbans National Park,1987,88.89583333,21.945,Natural,N,India,Asia and the Pacific,1094.0,502000.0,213,37,266,46,17,63
+273,25,519,Ulu<U>r</U>u-Kata Tju<U>t</U>a National Park,1987,131.0,-25.33333333,Mixed,C/N,Australia,Asia and the Pacific,25695.0,45000.0,39,20,266,46,7,12
+274,24,1635,Palace of Westminster and Westminster Abbey including Saint Margaret’s Church,1987,-0.128611111,51.49972222,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,132,10,210
+275,26,472,Hawaii Volcanoes National Park,1987,-155.1236111,19.40083333,Natural,N,United States of America,Europe and North America,65307.0,24671000.0,213,22,528,132,16,63
+276,24,467,"Acropolis, Athens",1987,23.72618,37.97087,Cultural,C,Greece,Europe and North America,14270.0,34970000.0,869,18,528,132,3,210
+277,24,510,Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang,1987,123.4469444,41.79416667,Cultural,C,China,Asia and the Pacific,2510.0,2253000.0,869,54,266,46,6,210
+278,24,508,The Great Wall,1987,116.08333,40.41667,Cultural,C,China,Asia and the Pacific,2510.0,2253000.0,869,54,266,46,6,210
+279,25,507,Mount Taishan,1987,117.1,36.26667,Mixed,C/N,China,Asia and the Pacific,2510.0,2253000.0,39,54,266,46,6,12
+280,24,1706,Hanseatic City of Lübeck,1987,10.69167,53.86666999999999,Cultural,C,Germany,Europe and North America,23740.0,117000.0,869,39,528,132,8,210
+281,24,1539,Frontiers of the Roman Empire,1987,-2.6010000000000004,54.99261111,Cultural,C,"Germany,United Kingdom of Great Britain and Northern Ireland",Europe and North America,0.0,0.0,869,1,528,132,1,210
+282,24,511,Mogao Caves,1987,94.81667,40.13333,Cultural,C,China,Asia and the Pacific,2510.0,2253000.0,869,54,266,46,6,210
+283,24,516,Brasilia,1987,-47.9,-15.78333,Cultural,C,Brazil,Latin America and the Caribbean,5880.0,1966000.0,869,21,142,36,6,210
+284,24,453,Archaeological Site of Delphi,1987,22.496170000000006,38.48149,Cultural,C,Greece,Europe and North America,14270.0,34970000.0,869,18,528,132,3,210
+285,27,2156,"Strasbourg, Grande-Île and <em>Neustadt</em>",1988,7.748888889,48.58444444,Cultural,C,France,Europe and North America,23348.0,1831000.0,869,41,528,144,16,229
+286,29,382,Nanda Devi and Valley of Flowers National Parks  ,1988,79.66667,30.71667,Natural,N,India,Asia and the Pacific,1168.0,502000.0,213,37,266,51,18,68
+287,29,468,Sinharaja Forest Reserve,1988,80.5,6.416666667,Natural,N,Sri Lanka,Asia and the Pacific,2910.0,75315000.0,213,8,266,51,6,68
+288,27,522,Sacred City of Kandy,1988,80.64027778,7.2936111110000015,Cultural,C,Sri Lanka,Asia and the Pacific,2910.0,75315000.0,869,8,266,51,6,229
+289,27,523,Old Town of Galle and its Fortifications,1988,80.21861111,6.021388889,Cultural,C,Sri Lanka,Asia and the Pacific,2910.0,75315000.0,869,8,266,51,6,229
+290,28,526,Mount Athos,1988,24.21667,40.26667,Mixed,C/N,Greece,Europe and North America,15302.0,34970000.0,39,18,528,144,8,15
+291,28,527,Meteora,1988,21.63333,39.71667,Mixed,C/N,Greece,Europe and North America,15302.0,34970000.0,39,18,528,144,8,15
+292,27,528,Paleochristian and Byzantine Monuments of Thessalonika,1988,22.965,40.63833,Cultural,C,Greece,Europe and North America,15302.0,34970000.0,869,18,528,144,8,229
+293,27,571,Sanctuary of Asklepios at Epidaurus,1988,23.11666667,37.66666667,Cultural,C,Greece,Europe and North America,15302.0,34970000.0,869,18,528,144,8,229
+294,27,583,Historic Centre of Lima,1988,-77.04306,-12.05139,Cultural,C,Peru,Latin America and the Caribbean,4136.0,114000.0,869,11,142,40,7,229
+295,27,574,Medieval City of Rhodes,1988,28.22778,36.44722,Cultural,C,Greece,Europe and North America,15302.0,34970000.0,869,18,528,144,8,229
+296,29,565,Wet Tropics of Queensland,1988,144.9666667,-15.65,Natural,N,Australia,Asia and the Pacific,26988.0,45000.0,213,20,266,51,8,68
+297,27,439,Old City of Salamanca,1988,-5.6645,40.96525,Cultural,C,Spain,Europe and North America,14597.0,9091000.0,869,44,528,144,16,229
+298,27,503,"Archaeological Sites of Bat, Al-Khutm and Al-Ayn",1988,56.745,23.26986,Cultural,C,Oman,Arab States,9730.0,5361000.0,869,5,86,42,2,229
+299,29,553,Manovo-Gounda St Floris National Park,1988,21.5,9.0,Natural,N,Central African Republic,Africa,1095.0,19824000.0,213,1,96,35,1,68
+300,27,561,Historic Town of Guanajuato and Adjacent Mines,1988,-101.25556,21.01694,Cultural,C,Mexico,Latin America and the Caribbean,9168.0,930000.0,869,35,142,40,8,229
+301,29,566,Henderson Island,1988,-128.3333333,-24.36666667,Natural,N,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,213,31,528,144,13,68
+302,28,564,Hierapolis-Pamukkale,1988,29.12333,37.92389,Mixed,C/N,Turkey,Europe and North America,9657.0,4263000.0,39,18,528,144,7,15
+303,27,563,Xanthos-Letoon,1988,29.32028,36.335,Cultural,C,Turkey,Europe and North America,9657.0,4263000.0,869,18,528,144,7,229
+304,27,1742,Kairouan,1988,10.10389,35.68167000000001,Cultural,C,Tunisia,Arab States,4923.0,83000.0,869,8,86,42,7,229
+305,27,535,Trinidad and the Valley de los Ingenios,1988,-79.98444444,21.80305556,Cultural,C,Cuba,Latin America and the Caribbean,7272.0,8665000.0,869,9,142,40,2,229
+306,27,1743,Medina of Sousse,1988,10.63861,35.82778,Cultural,C,Tunisia,Arab States,4923.0,83000.0,869,8,86,42,7,229
+307,27,127,Old Towns of Djenné,1988,-4.555,13.90639,Cultural,C,Mali,Africa,627.0,25033000.0,869,4,96,35,2,229
+308,27,131,Timbuktu,1988,-2.999444444,16.77333333,Cultural,C,Mali,Africa,627.0,25033000.0,869,4,96,35,2,229
+309,27,562,Pre-Hispanic City of Chichen-Itza,1988,-88.6,20.66667,Cultural,C,Mexico,Latin America and the Caribbean,9168.0,930000.0,869,35,142,40,8,229
+310,27,578,"Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church",1988,1.083333333,51.28,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,144,13,229
+311,27,567,Tower of London,1988,-0.076111111,51.50805556,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,144,13,229
+312,32,593,Mosi-oa-Tunya / Victoria Falls,1989,25.85539,-17.924529999999994,Natural,N,"Zambia,Zimbabwe",Africa,0.0,0.0,213,1,96,37,1,70
+313,30,613,Buddhist Monuments at Sanchi,1989,77.73971999999998,23.47944,Cultural,C,India,Asia and the Pacific,1228.0,502000.0,869,37,266,52,19,233
+314,30,589,Monastery of Alcobaça,1989,-8.97667,39.55,Cultural,C,Portugal,Europe and North America,13193.0,15670000.0,869,16,528,147,6,233
+315,30,603,Archaeological Site of Olympia,1989,21.66666667,37.65,Cultural,C,Greece,Europe and North America,16024.0,34970000.0,869,18,528,147,10,233
+316,32,590,Banc d'Arguin National Park,1989,-16.10889,20.234720000000006,Natural,N,Mauritania,Arab States,1832.0,4600.0,213,2,86,43,1,70
+317,30,595,Archaeological Site of Mystras,1989,22.366670000000006,37.08056,Cultural,C,Greece,Europe and North America,16024.0,34970000.0,869,18,528,147,10,233
+318,31,602,Cliff of Bandiagara (Land of the Dogons),1989,-3.41667,14.333329999999998,Mixed,C/N,Mali,Africa,683.0,25033000.0,39,4,96,37,3,16
+319,33,615,Colonial City of Santo Domingo,1990,-69.91666667,18.48333333,Cultural,C,Dominican Republic,Latin America and the Caribbean,5007.0,65000.0,869,1,142,43,1,244
+320,34,644,Río Abiseo National Park,1990,-77.25,-7.75,Mixed,C/N,Peru,Latin America and the Caribbean,3361.0,114000.0,39,11,142,43,8,19
+321,33,632,"Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios",1990,22.75,38.4,Cultural,C,Greece,Europe and North America,16012.0,34970000.0,869,18,528,155,12,244
+322,33,620,Delos,1990,25.26667,37.4,Cultural,C,Greece,Europe and North America,16012.0,34970000.0,869,18,528,155,12,244
+323,33,647,Historic Centre of San Gimignano,1990,11.04167,43.46806,Cultural,C,Italy,Europe and North America,25001.0,2799000.0,869,49,528,155,6,244
+324,34,1933,Mount Huangshan,1990,118.18333,30.16667,Mixed,C/N,China,Asia and the Pacific,2460.0,2253000.0,39,54,266,56,7,19
+325,33,638,Itchan Kala,1990,60.36389000000001,41.37833,Cultural,C,Uzbekistan,Asia and the Pacific,4444.0,2773000.0,869,4,266,56,1,244
+326,35,576,Tsingy de Bemaraha Strict Nature Reserve,1990,44.75,-18.66667,Natural,N,Madagascar,Africa,1011.0,1800000.0,213,3,96,38,1,72
+327,33,624,Palaces and Parks of Potsdam and Berlin,1990,13.03333333,52.4,Cultural,C,Germany,Europe and North America,25054.0,117000.0,869,39,528,155,9,244
+328,33,640,"Kremlin and Red Square, Moscow",1990,37.62972,55.74583000000001,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,155,3,244
+329,33,617,"Kiev: Saint-Sophia Cathedral and Related Monastic Buildings, Kiev-Pechersk Lavra",1990,30.51686,50.45258,Cultural,C,Ukraine,Europe and North America,10638.0,205000.0,869,4,528,155,1,244
+330,33,1958,Historic Centre of Saint Petersburg and Related Groups of Monuments,1990,30.31833,59.95,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,155,3,244
+331,33,639,Kizhi Pogost,1990,35.2275,62.07138889,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,155,3,244
+332,33,619,Jesuit Missions of the Chiquitos,1990,-60.5,-16.0,Cultural,C,Bolivia (Plurinational State of),Latin America and the Caribbean,1776.0,133000.0,869,6,142,43,2,244
+333,34,487,Tongariro National Park,1990,175.56222219999995,-39.29083333,Mixed,C/N,New Zealand,Asia and the Pacific,19955.0,13925000.0,39,3,266,56,2,19
+334,35,648,Te Wahipounamu – South West New Zealand,1990,167.3196111,-45.03602778,Natural,N,New Zealand,Asia and the Pacific,19955.0,13925000.0,213,3,266,56,2,72
+335,37,699,Thungyai-Huai Kha Khaeng Wildlife Sanctuaries,1991,98.91667,15.333329999999998,Natural,N,Thailand,Asia and the Pacific,5713.0,208000.0,213,5,266,65,3,78
+336,36,1718,Old Rauma,1991,21.51167,61.12806,Cultural,C,Finland,Europe and North America,22060.0,659000.0,869,5,528,163,2,260
+337,36,719,Serra da Capivara National Park,1991,-42.33333333,-8.416666667000001,Cultural,C,Brazil,Latin America and the Caribbean,5901.0,1966000.0,869,21,142,46,7,260
+338,36,681,Historic City of Ayutthaya,1991,100.56056,14.347779999999998,Cultural,C,Thailand,Asia and the Pacific,5713.0,208000.0,869,5,266,65,3,260
+339,36,679,Historic Town of Sukhothai and Associated Historic Towns,1991,99.78972,17.00722,Cultural,C,Thailand,Asia and the Pacific,5713.0,208000.0,869,5,266,65,3,260
+340,36,663,Golden Temple of Dambulla,1991,80.64916667,7.856666667000001,Cultural,C,Sri Lanka,Asia and the Pacific,3293.0,75315000.0,869,8,266,65,7,260
+341,37,723,Komodo National Park,1991,119.48944,-8.543330000000001,Natural,N,Indonesia,Asia and the Pacific,3363.0,14569000.0,213,9,266,65,4,78
+342,36,690,Fortress of Suomenlinna,1991,24.98722,60.14722,Cultural,C,Finland,Europe and North America,22060.0,659000.0,869,5,528,163,2,260
+343,36,660,Royal Domain of Drottningholm,1991,17.883329999999994,59.32306,Cultural,C,Sweden,Europe and North America,26114.0,60000.0,869,13,528,163,1,260
+344,36,762,Prambanan Temple Compounds,1991,110.49167,-7.752219999999999,Cultural,C,Indonesia,Asia and the Pacific,3363.0,14569000.0,869,9,266,65,4,260
+345,36,709,Island of Mozambique,1991,40.73583,-15.03417,Cultural,C,Mozambique,Africa,538.0,9375000.0,869,1,96,40,1,260
+346,37,722,Ujung Kulon National Park,1991,105.3333333,-6.75,Natural,N,Indonesia,Asia and the Pacific,3363.0,14569000.0,213,9,266,65,4,78
+347,37,684,"Shark Bay, Western Australia",1991,113.4361111,-25.48611111,Natural,N,Australia,Asia and the Pacific,26671.0,45000.0,213,20,266,65,9,78
+348,36,1865,Abbey and Altenmünster of Lorsch,1991,8.56858,49.65369000000001,Cultural,C,Germany,Europe and North America,26568.0,117000.0,869,39,528,163,10,260
+349,37,695,Danube Delta,1991,29.5,45.08333,Natural,N,Romania,Europe and North America,6185.0,2611900.0,213,7,528,163,1,78
+350,36,692,Historic Centre of Morelia,1991,-101.19167,19.70444,Cultural,C,Mexico,Latin America and the Caribbean,9946.0,930000.0,869,35,142,46,9,260
+351,36,711,"Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims",1991,4.032777778,49.25333333,Cultural,C,France,Europe and North America,24533.0,1831000.0,869,41,528,163,18,260
+352,36,710,"Paris, Banks of the Seine",1991,2.294166667,48.85833333,Cultural,C,France,Europe and North America,24533.0,1831000.0,869,41,528,163,18,260
+353,36,668,Historic City of Sucre,1991,-65.25917,-19.04306,Cultural,C,Bolivia (Plurinational State of),Latin America and the Caribbean,1776.0,133000.0,869,6,142,46,3,260
+354,36,605,Poblet Monastery,1991,1.0825,41.38083,Cultural,C,Spain,Europe and North America,17846.0,9091000.0,869,44,528,163,17,260
+355,36,700,Borobudur Temple Compounds,1991,110.20361,-7.60778,Cultural,C,Indonesia,Asia and the Pacific,3363.0,14569000.0,869,9,266,65,4,260
+356,37,678,Air and Ténéré Natural Reserves,1991,9.0,18.0,Natural,N,Niger,Africa,886.0,1060000.0,213,2,96,40,1,78
+357,38,1576,"Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management  System",1992,10.34,51.82,Cultural,C,Germany,Europe and North America,27098.0,117000.0,869,39,528,175,11,276
+358,38,732,Historic Centre of Český Krumlov,1992,14.31666667,48.81666667,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,175,3,276
+359,38,680,Ban Chiang Archaeological Site,1992,103.35833,17.54861,Cultural,C,Thailand,Asia and the Pacific,6206.0,208000.0,869,5,266,71,4,276
+360,38,1928,Historic Centre of Prague,1992,14.41944,50.08972,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,175,3,276
+361,38,573,Taos Pueblo,1992,-105.54167,36.43889,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,175,17,276
+362,38,738,Historic Centre of Telč,1992,15.45,49.18333,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,175,3,276
+363,38,666,Old City of Zamość,1992,23.26667,50.71667,Cultural,C,Poland,Europe and North America,8034.0,4833000.0,869,13,528,175,5,276
+364,39,757,Jiuzhaigou Valley Scenic and Historic Interest Area,1992,103.91667,33.08333,Natural,N,China,Asia and the Pacific,2731.0,2253000.0,213,54,266,71,10,82
+365,38,703,Pythagoreion and Heraion of Samos,1992,26.94333,37.69083,Cultural,C,Greece,Europe and North America,17076.0,34970000.0,869,18,528,175,13,276
+366,38,716,Historic Monuments of Novgorod and Surroundings,1992,31.28333,58.53333000000001,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,175,6,276
+367,38,749,"El Tajin, Pre-Hispanic City",1992,-97.3775,20.47639,Cultural,C,Mexico,Latin America and the Caribbean,10169.0,930000.0,869,35,142,47,10,276
+368,38,750,Cultural and Historic Ensemble of the Solovetsky Islands,1992,35.66666667,65.08333333,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,175,6,276
+369,38,791,Angkor,1992,103.8333333,13.43333333,Cultural,C,Cambodia,Asia and the Pacific,1262.0,269000.0,869,3,266,71,1,276
+370,39,760,Wulingyuan Scenic and Historic Interest Area,1992,110.5,29.33333,Natural,N,China,Asia and the Pacific,2731.0,2253000.0,213,54,266,71,10,82
+371,39,748,Fraser Island,1992,153.1333333,-25.21666667,Natural,N,Australia,Asia and the Pacific,28053.0,45000.0,213,20,266,71,10,82
+372,38,752,White Monuments of Vladimir and Suzdal,1992,40.41666667,56.15,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,175,6,276
+373,38,1563,Butrint,1992,20.02611111,39.75111111,Cultural,C,Albania,Europe and North America,3520.0,0.0,869,2,528,175,1,276
+374,38,667,Kasbah of Algiers,1992,3.06028,36.78333,Cultural,C,Algeria,Arab States,7893.0,748000.0,869,7,86,44,7,276
+375,38,1952,Bourges Cathedral,1992,2.398333333,47.08222222,Cultural,C,France,Europe and North America,24774.0,1831000.0,869,41,528,175,19,276
+376,39,758,Huanglong Scenic and Historic Interest Area,1992,103.82222,32.75417,Natural,N,China,Asia and the Pacific,2731.0,2253000.0,213,54,266,71,10,82
+377,40,725,Historic Town of Zabid,1993,43.31552778,14.19533333,Cultural,C,Yemen,Arab States,2698.0,90500.0,869,4,86,45,3,305
+378,41,784,Shirakami-Sanchi,1993,140.13,40.47,Natural,N,Japan,Asia and the Pacific,29967.0,2123000.0,213,22,266,81,4,86
+379,40,781,Buddhist Monuments in the Horyu-ji Area,1993,135.7333333,34.61666667,Cultural,C,Japan,Asia and the Pacific,29967.0,2123000.0,869,22,266,81,4,305
+380,40,259,"Qutb Minar and its Monuments, Delhi",1993,77.18528,28.52583,Cultural,C,India,Asia and the Pacific,1428.0,502000.0,869,37,266,81,21,305
+381,40,2182,"Humayun's Tomb, Delhi",1993,77.25056,28.59333,Cultural,C,India,Asia and the Pacific,1428.0,502000.0,869,37,266,81,21,305
+382,40,740,Vlkolínec,1993,19.27833333,49.03916667,Cultural,C,Slovakia,Europe and North America,11775.0,12051000.0,869,5,528,191,3,305
+383,40,734,Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity,1993,18.9,48.46111,Cultural,C,Slovakia,Europe and North America,11775.0,12051000.0,869,5,528,191,3,305
+384,40,2055,Routes of Santiago de Compostela: <i>Camino Francés</i> and Routes of Northern Spain ,1993,-6.414722222000001,43.335,Cultural,C,Spain,Europe and North America,18250.0,9091000.0,869,44,528,191,20,305
+385,40,786,Royal Monastery of Santa María de Guadalupe,1993,-5.3275,39.45285,Cultural,C,Spain,Europe and North America,18250.0,9091000.0,869,44,528,191,20,305
+386,40,785,Archaeological Ensemble of Mérida,1993,-6.33778,38.91611,Cultural,C,Spain,Europe and North America,18250.0,9091000.0,869,44,528,191,20,305
+387,40,802,Complex of Hué Monuments,1993,107.57778,16.46944,Cultural,C,Viet Nam,Asia and the Pacific,3557.0,90500.0,869,8,266,81,1,305
+388,40,1537,"Levoča, Spišský Hrad and the Associated Cultural Monuments",1993,20.7675,48.99944444,Cultural,C,Slovakia,Europe and North America,11775.0,12051000.0,869,5,528,191,3,305
+389,40,793,The Sassi and the Park of the Rupestrian Churches of Matera,1993,16.61027778,40.66638889,Cultural,C,Italy,Europe and North America,26298.0,2799000.0,869,49,528,191,7,305
+390,40,768,Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue,1993,-55.7,-27.13333,Cultural,C,Paraguay,Latin America and the Caribbean,4056.0,114000.0,869,1,142,53,1,305
+391,40,779,Coro and its Port,1993,-69.68333333,11.4,Cultural,C,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,3557.0,90500.0,869,3,142,53,1,305
+392,40,799,Joya de Cerén Archaeological Site,1993,-89.36916667,13.8275,Cultural,C,El Salvador,Latin America and the Caribbean,3677.0,8244000.0,869,1,142,53,1,305
+393,40,1728,Churches of Moldavia,1993,25.71277778,47.77833333,Cultural,C,Romania,Europe and North America,6044.0,2611900.0,869,7,528,191,4,305
+394,40,706,Monastery of Horezu,1993,24.01666667,45.18333333,Cultural,C,Romania,Europe and North America,6044.0,2611900.0,869,7,528,191,4,305
+395,40,845,Rock Paintings of the Sierra de San Francisco,1993,-112.91611,27.65556,Cultural,C,Mexico,Latin America and the Caribbean,10050.0,930000.0,869,35,142,53,13,305
+396,40,800,Historic Centre of Zacatecas,1993,-102.55556,22.76667,Cultural,C,Mexico,Latin America and the Caribbean,10050.0,930000.0,869,35,142,53,13,305
+397,40,780,Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne,1993,-6.45,53.69167,Cultural,C,Ireland,Europe and North America,20004.0,8044000.0,869,2,528,191,1,305
+398,41,652,Whale Sanctuary of El Vizcaino,1993,-114.22778,27.79222,Natural,N,Mexico,Latin America and the Caribbean,10050.0,930000.0,213,35,142,53,13,86
+399,40,782,Himeji-jo,1993,134.7,34.83333333,Cultural,C,Japan,Asia and the Pacific,29967.0,2123000.0,869,22,266,81,4,305
+400,40,705,Villages with Fortified Churches in Transylvania,1993,24.77305556,46.13583333,Cultural,C,Romania,Europe and North America,6044.0,2611900.0,869,7,528,191,4,305
+401,40,778,Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad,1993,38.1312,56.31035,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,191,7,305
+402,40,2184,Historic Centre of Bukhara,1993,64.42860999999999,39.77472,Cultural,C,Uzbekistan,Asia and the Pacific,3839.0,2773000.0,869,4,266,81,2,305
+403,40,655,Engelsberg Ironworks,1993,16.008329999999994,59.96666999999999,Cultural,C,Sweden,Europe and North America,25070.0,60000.0,869,13,528,191,3,305
+404,40,653,Birka and Hovgården,1993,17.54264,59.33514,Cultural,C,Sweden,Europe and North America,25070.0,60000.0,869,13,528,191,3,305
+405,41,1554,Tubbataha Reefs Natural Park,1993,119.8675,8.953333333,Natural,N,Philippines,Asia and the Pacific,3925.0,2140000.0,213,6,266,81,2,86
+406,40,1955,Baroque Churches of the Philippines,1993,120.97,14.59,Cultural,C,Philippines,Asia and the Pacific,3925.0,2140000.0,869,6,266,81,2,305
+407,41,783,Yakushima,1993,130.53333329999998,30.33333333,Natural,N,Japan,Asia and the Pacific,29967.0,2123000.0,213,22,266,81,4,86
+408,40,642,Maulbronn Monastery Complex,1993,8.81306,49.00083,Cultural,C,Germany,Europe and North America,27199.0,117000.0,869,39,528,191,13,305
+409,40,742,Town of Bamberg,1993,10.88888889,49.89166667,Cultural,C,Germany,Europe and North America,27199.0,117000.0,869,39,528,191,13,305
+410,42,816,Pilgrimage Church of St John of Nepomuk at Zelená Hora,1994,15.94205833,49.5802,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,206,4,326
+411,42,813,Völklingen Ironworks,1994,6.85,49.24444,Cultural,C,Germany,Europe and North America,28297.0,117000.0,869,39,528,206,15,326
+412,42,814,"Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)",1994,135.76944440000003,34.98055556,Cultural,C,Japan,Asia and the Pacific,30728.0,2123000.0,869,22,266,88,5,326
+413,43,841,Los Katíos National Park,1994,-77.0,7.666666667,Natural,N,Colombia,Latin America and the Caribbean,7401.0,59270000.0,213,8,142,57,2,93
+414,43,810,Doñana National Park,1994,-6.358861,36.9477,Natural,N,Spain,Europe and North America,19045.0,9091000.0,213,44,528,206,21,93
+415,43,796,Ha Long Bay,1994,107.1,20.9,Natural,N,Viet Nam,Asia and the Pacific,3557.0,90500.0,213,8,266,88,2,93
+416,43,826,Australian Fossil Mammal Sites (Riversleigh / Naracoorte),1994,138.7166667,-19.08333333,Natural,N,Australia,Asia and the Pacific,29582.0,45000.0,213,20,266,88,11,93
+417,42,729,City of Safranbolu,1994,32.68972,41.26,Cultural,C,Turkey,Europe and North America,9919.0,4263000.0,869,18,528,206,8,326
+418,43,806,Bwindi Impenetrable National Park,1994,29.66138889,-1.080555556,Natural,N,Uganda,Africa,1008.0,8200.0,213,3,96,42,2,93
+419,43,808,Rwenzori Mountains National Park,1994,29.92416667,0.223611111,Natural,N,Uganda,Africa,1008.0,8200.0,213,3,96,42,2,93
+420,42,691,Petäjävesi Old Church,1994,25.18333,62.25,Cultural,C,Finland,Europe and North America,22629.0,659000.0,869,5,528,206,3,326
+421,42,657,Rock Carvings in Tanum,1994,11.34111,58.70111,Cultural,C,Sweden,Europe and North America,26508.0,60000.0,869,13,528,206,5,326
+422,42,659,Skogskyrkogården,1994,18.09944,59.27556,Cultural,C,Sweden,Europe and North America,26508.0,60000.0,869,13,528,206,5,326
+423,42,831,"Mountain Resort and its Outlying Temples, Chengde",1994,117.93833,40.98694,Cultural,C,China,Asia and the Pacific,3135.0,2253000.0,869,54,266,88,14,326
+424,42,1929,Vilnius Historic Centre,1994,25.29306,54.68666999999999,Cultural,C,Lithuania,Europe and North America,7253.0,631000.0,869,2,528,206,1,326
+425,42,830,Earliest 16th-Century Monasteries on the Slopes of Popocatepetl,1994,-98.89778,18.93472,Cultural,C,Mexico,Latin America and the Caribbean,10221.0,930000.0,869,35,142,57,14,326
+426,42,832,Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu,1994,116.975,35.61167000000001,Cultural,C,China,Asia and the Pacific,3135.0,2253000.0,869,54,266,88,14,326
+427,42,833,Ancient Building Complex in the Wudang Mountains,1994,111.0,32.46667,Cultural,C,China,Asia and the Pacific,3135.0,2253000.0,869,54,266,88,14,326
+428,42,837,"Historic Ensemble of the Potala Palace, Lhasa",1994,91.11717,29.65792,Cultural,C,China,Asia and the Pacific,3135.0,2253000.0,869,54,266,88,14,326
+429,42,827,City of Luxembourg: its Old Quarters and Fortifications,1994,6.13333,49.61,Cultural,C,Luxembourg,Europe and North America,44298.0,1800000.0,869,1,528,206,1,326
+430,43,829,Canaima National Park,1994,-61.5,5.33333,Natural,N,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,3557.0,90500.0,213,3,142,57,2,93
+431,42,2316,"Jelling Mounds, Runic Stones and Church",1994,9.42,55.75638889,Cultural,C,Denmark,Europe and North America,27803.0,2223000.0,869,9,528,206,1,326
+432,42,754,"Church of the Ascension, Kolomenskoye",1994,37.67389,55.65556,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,206,8,326
+433,42,629,"Collegiate Church, Castle and Old Town of Quedlinburg",1994,11.15,51.78333,Cultural,C,Germany,Europe and North America,28297.0,117000.0,869,39,528,206,15,326
+434,42,828,Lines and Geoglyphs of Nasca and Palpa,1994,-75.14860999999998,-14.725829999999998,Cultural,C,Peru,Latin America and the Caribbean,4129.0,114000.0,869,11,142,57,9,326
+435,42,2243,Gelati Monastery,1994,42.76833333,42.29472222,Cultural,C,Georgia,Europe and North America,2603.0,84452000.0,869,3,528,206,2,326
+436,42,2251,Historical Monuments of Mtskheta,1994,44.71639,41.84389,Cultural,C,Georgia,Europe and North America,2603.0,84452000.0,869,3,528,206,2,326
+437,42,843,City of Vicenza and the Palladian Villas of the Veneto,1994,11.54944444,45.54916667,Cultural,C,Italy,Europe and North America,27128.0,2799000.0,869,49,528,206,8,326
+438,44,870,"Haeinsa Temple Janggyeong Panjeon, the Depositories for the <I>Tripitaka Koreana</I> Woodblocks",1995,128.1,35.8,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,94,3,349
+439,44,853,Rice Terraces of the Philippine Cordilleras,1995,121.13667,16.933889999999998,Cultural,C,Philippines,Asia and the Pacific,4636.0,1760000.0,869,6,266,94,3,349
+440,44,848,Historic Centre of Siena,1995,11.33166667,43.31861111,Cultural,C,Italy,Europe and North America,28125.0,31052000.0,869,49,528,224,12,349
+441,44,864,Hanseatic Town of Visby,1995,18.29583,57.64167,Cultural,C,Sweden,Europe and North America,27970.0,2310000.0,869,13,528,224,6,349
+442,44,854,Cultural Landscape of Sintra,1995,-9.41667,38.78333,Cultural,C,Portugal,Europe and North America,16950.0,4572000.0,869,16,528,224,7,349
+443,44,860,Old and New Towns of Edinburgh,1995,-3.216666667,55.95,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,224,15,349
+444,44,846,Rapa Nui National Park,1995,-109.45,-27.15,Cultural,C,Chile,Latin America and the Caribbean,11129.0,1540000.0,869,5,142,62,1,349
+445,44,881,Historic Quarter of the City of Colonia del Sacramento,1995,-57.85333333,-34.46777778,Cultural,C,Uruguay,Latin America and the Caribbean,11733.0,2022000.0,869,2,142,62,1,349
+446,44,869,Seokguram Grotto and Bulguksa Temple,1995,129.35,35.78333333,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,94,3,349
+447,44,865,Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec,1995,15.26666667,49.95,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,224,5,349
+448,44,871,Jongmyo Shrine,1995,126.98333,37.55,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,94,3,349
+449,45,874,Gough and Inaccessible Islands,1995,-9.928611111,-40.32472222,Natural,N,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,213,31,528,224,15,99
+450,44,1954,Town of Luang Prabang,1995,102.13333,19.88889,Cultural,C,Lao People's Democratic Republic,Asia and the Pacific,3384.0,1394000.0,869,3,266,94,1,349
+451,44,878,San Agustín Archaeological Park,1995,-76.23333333,1.916666667,Cultural,C,Colombia,Latin America and the Caribbean,7597.0,1399000.0,869,8,142,62,5,349
+452,44,862,Crespi d'Adda,1995,9.53833,45.59333,Cultural,C,Italy,Europe and North America,28125.0,31052000.0,869,49,528,224,12,349
+453,45,850,Virgin Komi Forests,1995,58.9525,63.62583333,Natural,N,Russian Federation,Europe and North America,7091.0,5224000.0,213,25,528,224,9,99
+454,44,877,National Archeological Park of Tierradentro,1995,-76.03333333,2.583333333,Cultural,C,Colombia,Latin America and the Caribbean,7597.0,1399000.0,869,8,142,62,5,349
+455,44,876,Historic Centre of Santa Cruz de Mompox,1995,-74.43333333,9.233333333,Cultural,C,Colombia,Latin America and the Caribbean,7597.0,1399000.0,869,8,142,62,5,349
+456,44,875,Old Town Lunenburg,1995,-64.30916667,44.37611111,Cultural,C,Canada,Europe and North America,31522.0,16932000.0,869,18,528,224,10,349
+457,44,868,Historic Villages of Shirakawa-go and Gokayama,1995,136.8833333,36.4,Cultural,C,Japan,Asia and the Pacific,32146.0,3345000.0,869,22,266,94,6,349
+458,45,407,Waterton Glacier International Peace Park,1995,-113.90416670000002,48.99605556,Natural,N,"Canada,United States of America",Europe and North America,0.0,0.0,213,2,528,224,2,99
+459,45,1733,Messel Pit Fossil Site,1995,8.75389,49.91667,Natural,N,Germany,Europe and North America,29211.0,14847000.0,213,39,528,224,16,99
+460,45,1624,Caves of Aggtelek Karst and Slovak Karst,1995,20.48687,48.47573,Natural,N,"Hungary,Slovakia",Europe and North America,0.0,0.0,213,1,528,224,1,99
+461,45,852,Carlsbad Caverns National Park,1995,-104.3833333,32.16666667,Natural,N,United States of America,Europe and North America,65307.0,24671000.0,213,22,528,224,18,99
+462,44,1867,Historic Centre of Naples,1995,14.26277778,40.85138889,Cultural,C,Italy,Europe and North America,28125.0,31052000.0,869,49,528,224,12,349
+463,44,254,"Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge",1995,4.806111111,43.95277778,Cultural,C,France,Europe and North America,25434.0,60033000.0,869,41,528,224,20,349
+464,44,822,Roskilde Cathedral,1995,12.07972222,55.64222222,Cultural,C,Denmark,Europe and North America,28518.0,2124000.0,869,9,528,224,2,349
+465,44,872,Schokland and Surroundings,1995,5.771666667000001,52.63861111,Cultural,C,Netherlands,Europe and North America,28915.0,6574000.0,869,9,528,224,1,349
+466,44,867,"Ferrara, City of the Renaissance, and its Po Delta",1995,11.61944444,44.83777778,Cultural,C,Italy,Europe and North America,28125.0,31052000.0,869,49,528,224,12,349
+467,46,890,"Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar ",1996,-8.616666667,41.14166667,Cultural,C,Portugal,Europe and North America,17194.0,4567000.0,869,16,528,249,8,379
+468,46,701,Sangiran Early Man Site,1996,110.8166667,-7.4,Cultural,C,Indonesia,Asia and the Pacific,4572.0,5034000.0,869,9,266,99,5,379
+469,46,459,Castel del Monte,1996,16.27094444,41.08480556,Cultural,C,Italy,Europe and North America,28395.0,32943000.0,869,49,528,249,16,379
+470,46,894,Defence Line of Amsterdam,1996,4.893055556,52.37444444,Cultural,C,Netherlands,Europe and North America,29657.0,6580000.0,869,9,528,249,2,379
+471,48,902,Volcanoes of Kamchatka,1996,158.5,56.33333333,Natural,N,Russian Federation,Europe and North America,7091.0,5224000.0,213,25,528,249,11,104
+472,46,892,Sceilg Mhichíl,1996,-10.53861,51.77194,Cultural,C,Ireland,Europe and North America,25516.0,5289000.0,869,2,528,249,2,379
+473,46,930,The <I>Trulli</I> of Alberobello,1996,17.23694,40.7825,Cultural,C,Italy,Europe and North America,28395.0,32943000.0,869,49,528,249,16,379
+474,46,931,Early Christian Monuments of Ravenna,1996,12.19625,44.42041667,Cultural,C,Italy,Europe and North America,28395.0,32943000.0,869,49,528,249,16,379
+475,46,932,Historic Centre of the City of Pienza,1996,11.67861111,43.07694444,Cultural,C,Italy,Europe and North America,28395.0,32943000.0,869,49,528,249,16,379
+476,48,889,Lake Baikal,1996,107.6625,53.17361111,Natural,N,Russian Federation,Europe and North America,7091.0,5224000.0,213,25,528,249,11,104
+477,47,922,"Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area",1996,103.76925,29.5449,Mixed,C/N,China,Asia and the Pacific,3494.0,22765000.0,39,54,266,99,16,21
+478,46,926,Luther Memorials in Eisleben and Wittenberg,1996,12.65278,51.86472,Cultural,C,Germany,Europe and North America,29415.0,15205000.0,869,39,528,249,19,379
+479,46,921,Lushan National Park,1996,115.8666667,29.43333333,Cultural,C,China,Asia and the Pacific,3494.0,22765000.0,869,54,266,99,16,379
+480,46,1628,Cologne Cathedral,1996,6.957222222,50.94111111,Cultural,C,Germany,Europe and North America,29415.0,15205000.0,869,39,528,249,19,379
+481,46,2158,"Bauhaus and its Sites in Weimar, Dessau and Bernau",1996,11.3295,50.97477778,Cultural,C,Germany,Europe and North America,29415.0,15205000.0,869,39,528,249,19,379
+482,47,916,Laponian Area,1996,17.58333,67.33333,Mixed,C/N,Sweden,Europe and North America,28508.0,2376000.0,39,13,528,249,8,21
+483,46,899,Lednice-Valtice Cultural Landscape,1996,16.775,48.77583,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,249,6,379
+484,46,910,Canal du Midi,1996,1.416388889,43.61138889,Cultural,C,France,Europe and North America,25692.0,62406000.0,869,41,528,249,21,379
+485,48,900,Belize Barrier Reef Reserve System,1996,-87.05833333,16.75,Natural,N,Belize,Latin America and the Caribbean,38907.0,133000.0,213,1,142,65,1,104
+486,48,2129,W-Arly-Pendjari Complex,1996,2.4877777780000003,11.88416667,Natural,N,"Benin,Burkina Faso,Niger",Africa,0.0,0.0,213,1,96,44,1,104
+487,46,920,Monasteries of Haghpat and Sanahin,1996,44.71028,41.095,Cultural,C,Armenia,Europe and North America,3155.0,13000.0,869,3,528,249,1,379
+488,48,849,Okapi Wildlife Reserve,1996,28.5,2.0,Natural,N,Democratic Republic of the Congo,Africa,21004.0,2223000.0,213,5,96,44,5,104
+489,46,925,La Lonja de la Seda de Valencia,1996,-0.378444444,39.47441667,Cultural,C,Spain,Europe and North America,20655.0,34027000.0,869,44,528,249,23,379
+490,46,839,Upper Svaneti,1996,43.01139000000001,42.91639,Cultural,C,Georgia,Europe and North America,3332.0,117000.0,869,3,528,249,3,379
+491,46,924,Historic Walled Town of Cuenca,1996,-2.13174,40.07662,Cultural,C,Spain,Europe and North America,20655.0,34027000.0,869,44,528,249,23,379
+492,46,885,Verla Groundwood and Board Mill,1996,26.64083,61.06194,Cultural,C,Finland,Europe and North America,24489.0,1724000.0,869,5,528,249,4,379
+493,46,936,Historic Monuments Zone of Querétaro,1996,-100.3666667,20.58333333,Cultural,C,Mexico,Latin America and the Caribbean,9145.0,21395000.0,869,35,142,65,16,379
+494,46,923,Archaeological Site of Aigai (modern name Vergina),1996,22.31833,40.47139,Cultural,C,Greece,Europe and North America,19292.0,9233000.0,869,18,528,249,14,379
+495,46,918,Itsukushima Shinto Shrine,1996,132.3246389,34.29441667,Cultural,C,Japan,Asia and the Pacific,32540.0,3837000.0,869,22,266,99,8,379
+496,46,917,Hiroshima Peace Memorial (Genbaku Dome),1996,132.45,34.38333333,Cultural,C,Japan,Asia and the Pacific,32540.0,3837000.0,869,22,266,99,8,379
+497,46,929,Palace and Gardens of Schönbrunn,1996,16.31333333,48.18666667,Cultural,C,Austria,Europe and North America,29266.0,17090000.0,869,7,528,249,2,379
+498,46,927,Historic Centre of the City of Salzburg,1996,13.04333333,47.80055556,Cultural,C,Austria,Europe and North America,29266.0,17090000.0,869,7,528,249,2,379
+499,46,937,Historic City of Meknes,1996,-5.5583300000000015,33.88333,Cultural,C,Morocco,Arab States,5558.0,2693000.0,869,9,86,47,4,379
+500,46,893,Millenary Benedictine Abbey of Pannonhalma and its Natural Environment,1996,17.78444,47.55889000000001,Cultural,C,Hungary,Europe and North America,12493.0,2979000.0,869,6,528,249,3,379
+501,46,898,"Church Town of Gammelstad, Luleå ",1996,22.02861,65.64611,Cultural,C,Sweden,Europe and North America,28508.0,2376000.0,869,13,528,249,8,379
+502,46,935,Pre-Hispanic Town of Uxmal,1996,-89.77027778,20.36166667,Cultural,C,Mexico,Latin America and the Caribbean,9145.0,21395000.0,869,35,142,65,16,379
+503,46,884,"Ancient <I>Ksour</I> of Ouadane, Chinguetti, Tichitt and Oualata",1996,-11.62361,20.92889,Cultural,C,Mauritania,Arab States,1938.0,4600.0,869,2,86,47,2,379
+504,49,1003,Historic Centre of Riga,1997,24.116670000000006,56.95417,Cultural,C,Latvia,Europe and North America,8739.0,635000.0,869,1,528,274,1,417
+505,49,939,Maritime Greenwich,1997,-0.003777778,51.48116667,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,274,16,417
+506,51,962,Morne Trois Pitons National Park,1997,-61.28333333,15.26666667,Natural,N,Dominica,Latin America and the Caribbean,7704.0,65000.0,213,1,142,71,1,111
+507,49,992,"San Pedro de la Roca Castle, Santiago de Cuba",1997,-75.87083333,19.96666667,Cultural,C,Cuba,Latin America and the Caribbean,4401.0,1153000.0,869,9,142,71,3,417
+508,49,981,Villa Romana del Casale,1997,14.33417,37.36611,Cultural,C,Italy,Europe and North America,29537.0,34692000.0,869,49,528,274,26,417
+509,49,986,Medina of Tétouan (formerly known as Titawin),1997,-5.36667,35.57083,Cultural,C,Morocco,Arab States,5106.0,3072000.0,869,9,86,50,6,417
+510,49,956,Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč,1997,13.59444,45.22917,Cultural,C,Croatia,Europe and North America,13090.0,4178000.0,869,7,528,274,5,417
+511,49,980,Archaeological Area of Agrigento,1997,13.59333333,37.28972222,Cultural,C,Italy,Europe and North America,29537.0,34692000.0,869,49,528,274,26,417
+512,49,979,Costiera Amalfitana,1997,14.6,40.65,Cultural,C,Italy,Europe and North America,29537.0,34692000.0,869,49,528,274,26,417
+513,49,978,"Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",1997,14.48333333,40.75,Cultural,C,Italy,Europe and North America,29537.0,34692000.0,869,49,528,274,26,417
+514,49,976,"Cathedral, Torre Civica and Piazza Grande, Modena",1997,10.92568,44.64624,Cultural,C,Italy,Europe and North America,29537.0,34692000.0,869,49,528,274,26,417
+515,49,975,"Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)",1997,9.72917,44.10694,Cultural,C,Italy,Europe and North America,29537.0,34692000.0,869,49,528,274,26,417
+516,49,973,"Botanical Garden (Orto Botanico), Padua",1997,11.88066667,45.39911111,Cultural,C,Italy,Europe and North America,29537.0,34692000.0,869,49,528,274,26,417
+517,49,1736,Residences of the Royal House of Savoy,1997,7.68572,45.07253,Cultural,C,Italy,Europe and North America,29537.0,34692000.0,869,49,528,274,26,417
+518,49,646,"18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",1997,14.32639,41.07333,Cultural,C,Italy,Europe and North America,29537.0,34692000.0,869,49,528,274,26,417
+519,49,1934,Old Town of Lijiang,1997,100.23333,26.866670000000006,Cultural,C,China,Asia and the Pacific,3540.0,23770000.0,869,54,266,109,19,417
+520,49,959,Ancient City of Ping Yao,1997,112.15444,37.20139,Cultural,C,China,Asia and the Pacific,3540.0,23770000.0,869,54,266,109,19,417
+521,49,961,Classical Gardens of Suzhou,1997,120.45,31.31666667,Cultural,C,China,Asia and the Pacific,3540.0,23770000.0,869,54,266,109,19,417
+522,49,693,Rohtas Fort,1997,73.58888889,32.9625,Cultural,C,Pakistan,Asia and the Pacific,2554.0,375000.0,869,6,266,109,6,417
+523,49,938,Dougga / Thugga,1997,9.22028,36.42361,Cultural,C,Tunisia,Arab States,8437.0,4263000.0,869,8,86,50,8,417
+524,51,969,Cocos Island National Park,1997,-87.06666667,5.533333333,Natural,N,Costa Rica,Latin America and the Caribbean,8910.0,811000.0,213,3,142,71,1,111
+525,49,934,Archaeological Site of Panamá Viejo and Historic District of Panamá,1997,-79.54055556,8.951111111,Cultural,C,Panama,Latin America and the Caribbean,8168.0,421000.0,869,4,142,71,3,417
+526,49,957,Historic City of Trogir,1997,16.25167,43.5125,Cultural,C,Croatia,Europe and North America,13090.0,4178000.0,869,7,528,274,5,417
+527,49,970,Historic Centre of São Luís,1997,-44.3025,-2.514166667,Cultural,C,Brazil,Latin America and the Caribbean,9121.0,2850000.0,869,21,142,71,8,417
+528,49,982,Su Nuraxi di Barumini,1997,8.991388889,39.70583333,Cultural,C,Italy,Europe and North America,29537.0,34692000.0,869,49,528,274,26,417
+529,49,965,Hwaseong Fortress,1997,127.00833,37.27222,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,109,5,417
+530,49,1625,Archaeological Site of Volubilis,1997,-5.55694,34.07389000000001,Cultural,C,Morocco,Arab States,5106.0,3072000.0,869,9,86,50,6,417
+531,51,683,Heard and McDonald Islands,1997,73.5,-53.1,Natural,N,Australia,Asia and the Pacific,32433.0,4318000.0,213,20,266,109,13,111
+532,51,747,Macquarie Island,1997,158.8955556,-54.59472222,Natural,N,Australia,Asia and the Pacific,32433.0,4318000.0,213,20,266,109,13,111
+533,49,966,Mill Network at Kinderdijk-Elshout,1997,4.649444443999999,51.8825,Cultural,C,Netherlands,Europe and North America,32099.0,7841000.0,869,9,528,274,4,417
+534,49,952,Hallstatt-Dachstein / Salzkammergut Cultural Landscape,1997,13.64638889,47.55944444,Cultural,C,Austria,Europe and North America,31019.0,16647000.0,869,7,528,274,3,417
+535,49,967,"Historic Area of Willemstad, Inner City and Harbour, Curaçao",1997,-68.90222,12.10194,Cultural,C,Netherlands,Europe and North America,32099.0,7841000.0,869,9,528,274,4,417
+536,49,788,"Lumbini, the Birthplace of the Lord Buddha",1997,83.27611,27.46889,Cultural,C,Nepal,Asia and the Pacific,1501.0,422000.0,869,4,266,109,4,417
+537,49,949,Las Médulas,1997,-6.77075,42.46939,Cultural,C,Spain,Europe and North America,22161.0,39553000.0,869,44,528,274,26,417
+538,49,1631,"Palau de la Música Catalana and Hospital de Sant Pau, Barcelona",1997,2.175,41.38778,Cultural,C,Spain,Europe and North America,22161.0,39553000.0,869,44,528,274,26,417
+539,49,951,San Millán Yuso and Suso Monasteries,1997,-2.86496,42.32586,Cultural,C,Spain,Europe and North America,22161.0,39553000.0,869,44,528,274,26,417
+540,49,984,Medieval Town of Toruń,1997,18.61944,53.01,Cultural,C,Poland,Europe and North America,11637.0,19520000.0,869,13,528,274,7,417
+541,49,998,Castle of the Teutonic Order in Malbork,1997,19.03333333,54.04166667,Cultural,C,Poland,Europe and North America,11637.0,19520000.0,869,13,528,274,7,417
+542,51,943,The Sundarbans,1997,89.18333,21.95,Natural,N,Bangladesh,Asia and the Pacific,1459.0,182000.0,213,3,266,109,3,111
+543,50,915,Pyrénées - Mont Perdu,1997,-0.0005,42.68542,Mixed,C/N,"France,Spain",Europe and North America,0.0,0.0,39,1,528,274,1,22
+544,51,1902,Mount Kenya National Park/Natural Forest,1997,37.31555556,-0.155,Natural,N,Kenya,Africa,2247.0,928000.0,213,7,96,46,2,111
+545,51,947,Lake Turkana National Parks,1997,36.50366667,3.0513055560000004,Natural,N,Kenya,Africa,2247.0,928000.0,213,7,96,46,2,111
+546,49,393,Historic Fortified City of Carcassonne,1997,2.358888889,43.21055556,Cultural,C,France,Europe and North America,27237.0,66591000.0,869,41,528,274,22,417
+547,49,963,"Hospicio Cabañas, Guadalajara",1997,-103.3397222,20.67388889,Cultural,C,Mexico,Latin America and the Caribbean,9674.0,19351000.0,869,35,142,71,17,417
+548,49,1626,Historic Centre (Old Town) of Tallinn,1997,24.73333333,59.43333000000001,Cultural,C,Estonia,Europe and North America,9075.0,730000.0,869,1,528,274,1,417
+549,49,964,Changdeokgung Palace Complex,1997,126.98333329999998,37.55,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,109,5,417
+550,52,977,Historic Centre of Urbino,1998,12.63333,43.725,Cultural,C,Italy,Europe and North America,31188.0,34933000.0,869,49,528,295,29,444
+551,52,1018,Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station),1998,5.67889,52.84583000000001,Cultural,C,Netherlands,Europe and North America,33873.0,9312000.0,869,9,528,295,5,444
+552,52,1021,Historic Monuments of Ancient Nara,1998,135.83944440000002,34.67555556,Cultural,C,Japan,Asia and the Pacific,32132.0,4106000.0,869,22,266,114,9,444
+553,53,1029,New Zealand Sub-Antarctic Islands,1998,166.1044444,-50.75,Natural,N,New Zealand,Asia and the Pacific,24078.0,1475000.0,213,3,266,114,3,114
+554,52,1001,Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab),1998,36.04889,34.24333,Cultural,C,Lebanon,Arab States,11198.0,631000.0,869,5,86,51,5,444
+555,52,662,"Archaeological Zone of Paquimé, Casas Grandes",1998,-107.95556,30.37583,Cultural,C,Mexico,Latin America and the Caribbean,10217.0,19392000.0,869,35,142,74,19,444
+556,52,1642,Prehistoric Rock Art Sites in the Côa Valley and Siega Verde,1998,-6.661111111,40.6975,Cultural,C,"Portugal,Spain",Europe and North America,0.0,0.0,869,1,528,295,1,444
+557,52,1013,Historic Monuments Zone of Tlacotalpan,1998,-95.65833333,18.60833333,Cultural,C,Mexico,Latin America and the Caribbean,10217.0,19392000.0,869,35,142,74,19,444
+558,52,993,"Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",1998,15.26666667,40.28333333,Cultural,C,Italy,Europe and North America,31188.0,34933000.0,869,49,528,295,29,444
+559,52,1006,Flemish Béguinages,1998,4.47375,51.03097222,Cultural,C,Belgium,Europe and North America,29919.0,6179000.0,869,10,528,295,3,444
+560,52,1022,Naval Port of Karlskrona,1998,15.583329999999998,56.16667,Cultural,C,Sweden,Europe and North America,31799.0,2573000.0,869,13,528,295,9,444
+561,53,1005,East Rennell,1998,160.33333000000005,-11.68333,Natural,N,Solomon Islands,Asia and the Pacific,19466.0,15800.0,213,1,266,114,1,114
+562,52,1035,Fuerte de Samaipata,1998,-63.81666667,-18.16666667,Cultural,C,Bolivia (Plurinational State of),Latin America and the Caribbean,1776.0,133000.0,869,6,142,74,4,444
+563,52,1007,"The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut)",1998,4.13722,50.48111,Cultural,C,Belgium,Europe and North America,29919.0,6179000.0,869,10,528,295,3,444
+564,52,928,Semmering Railway,1998,15.82797222,47.64877778,Cultural,C,Austria,Europe and North America,32638.0,17352000.0,869,7,528,295,4,444
+565,52,1026,Rock Art of the Mediterranean Basin on the Iberian Peninsula,1998,-1.03331,39.78995,Cultural,C,Spain,Europe and North America,23756.0,41892000.0,869,44,528,295,28,444
+566,52,1012,Holašovice Historic Village,1998,14.25277778,48.95972222,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,295,8,444
+567,52,1011,Gardens and Castle at Kroměříž,1998,17.37722222,49.3,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,295,8,444
+568,52,1927,Choirokoitia,1998,33.34333,34.79833,Cultural,C,Cyprus,Europe and North America,21004.0,2223000.0,869,3,528,295,3,444
+569,52,1023,Historic Site of Lyon,1998,4.83333,45.76722,Cultural,C,France,Europe and North America,28888.0,70109000.0,869,41,528,295,24,444
+570,53,907,Golden Mountains of Altai,1998,86.0,50.46666667,Natural,N,Russian Federation,Europe and North America,7091.0,5224000.0,213,25,528,295,12,114
+571,52,2319,Archaeological Area and the Patriarchal Basilica of Aquileia,1998,13.3675,45.76833333,Cultural,C,Italy,Europe and North America,31188.0,34933000.0,869,49,528,295,29,444
+572,52,1028,University and Historic Precinct of Alcalá de Henares,1998,-3.3680555560000003,40.48138889,Cultural,C,Spain,Europe and North America,23756.0,41892000.0,869,44,528,295,28,444
+573,52,1032,"Summer Palace, an Imperial Garden in Beijing",1998,116.1411111,39.91055556,Cultural,C,China,Asia and the Pacific,3554.0,25073000.0,869,54,266,114,21,444
+574,52,1008,"La Grand-Place, Brussels",1998,4.35242,50.84668,Cultural,C,Belgium,Europe and North America,29919.0,6179000.0,869,10,528,295,3,444
+575,52,1000,Archaeological Site of Troy,1998,26.239,39.95644,Cultural,C,Turkey,Europe and North America,11564.0,8960000.0,869,18,528,295,9,444
+576,52,997,Classical Weimar,1998,11.32861,50.9775,Cultural,C,Germany,Europe and North America,31964.0,16511000.0,869,39,528,295,20,444
+577,52,1033,Temple of Heaven: an Imperial Sacrificial Altar in Beijing,1998,116.4447222,39.84555556,Cultural,C,China,Asia and the Pacific,3554.0,25073000.0,869,54,266,114,21,444
+578,52,1632,L'viv – the Ensemble of the Historic Centre,1998,24.03198,49.84163,Cultural,C,Ukraine,Europe and North America,4457.0,6208000.0,869,4,528,295,2,444
+579,52,1019,Routes of Santiago de Compostela in France,1998,0.722944444,45.18405556,Cultural,C,France,Europe and North America,28888.0,70109000.0,869,41,528,295,24,444
+580,54,586,Historic City of Vigan,1999,120.3875,17.575,Cultural,C,Philippines,Asia and the Pacific,4147.0,2171000.0,869,6,266,124,5,479
+581,54,1094,Archaeological Monuments Zone of Xochicalco,1999,-99.275,18.81028,Cultural,C,Mexico,Latin America and the Caribbean,10391.0,19043000.0,869,35,142,86,21,479
+582,54,1046,Historic Fortified Town of Campeche,1999,-90.53722,19.84639,Cultural,C,Mexico,Latin America and the Caribbean,10391.0,19043000.0,869,35,142,86,21,479
+583,56,773,Puerto-Princesa Subterranean River National Park,1999,118.9166667,10.16666667,Natural,N,Philippines,Asia and the Pacific,4147.0,2171000.0,213,6,266,124,5,125
+584,54,1088,Jurisdiction of Saint-Emilion,1999,-0.155277778,44.89472222,Cultural,C,France,Europe and North America,29973.0,73147000.0,869,41,528,317,25,479
+585,54,1048,Wartburg Castle,1999,10.307,50.96677778,Cultural,C,Germany,Europe and North America,33145.0,17116000.0,869,39,528,317,22,479
+586,54,1100,Belfries of Belgium and France,1999,3.23139,50.17444,Cultural,C,"Belgium,France",Europe and North America,0.0,0.0,869,1,528,317,1,479
+587,54,1055,Historic Centre of Sighişoara,1999,24.79222222,46.21777778,Cultural,C,Romania,Europe and North America,7091.0,5224000.0,869,7,528,317,7,479
+588,54,1014,Historic Centre of Santa Ana de los Ríos de Cuenca,1999,-78.98333333,-2.883333333,Cultural,C,Ecuador,Latin America and the Caribbean,4797.0,518000.0,869,4,142,86,4,479
+589,54,1042,Historic Centre of the Town of Diamantina,1999,-43.6,-18.23333333,Cultural,C,Brazil,Latin America and the Caribbean,8279.0,5107000.0,869,21,142,86,11,479
+590,56,1045,Atlantic Forest South-East Reserves,1999,-48.0,-24.16667,Natural,N,Brazil,Latin America and the Caribbean,8279.0,5107000.0,213,21,142,86,11,125
+591,56,812,Miguasha National Park,1999,-66.35305556,48.105,Natural,N,Canada,Europe and North America,35222.0,19411000.0,213,18,528,317,11,125
+592,54,1054,Litomyšl Castle,1999,16.31444,49.87361,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,317,9,479
+593,56,1041,Desembarco del Granma National Park,1999,-77.63333,19.88333,Natural,N,Cuba,Latin America and the Caribbean,4492.0,1561000.0,213,9,142,86,5,125
+594,54,2125,Heart of Neolithic Orkney,1999,-3.188666667,58.99605556,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,317,17,479
+595,54,991,Viñales Valley,1999,-83.71667,22.616670000000006,Cultural,C,Cuba,Latin America and the Caribbean,4492.0,1561000.0,869,9,142,86,5,479
+596,56,1083,Area de Conservación Guanacaste,1999,-85.61666667,10.85,Natural,N,Costa Rica,Latin America and the Caribbean,9618.0,1032000.0,213,3,142,86,2,125
+597,54,1038,State Historical and Cultural Park “Ancient Merv”,1999,62.1775,37.70083,Cultural,C,Turkmenistan,Asia and the Pacific,3332.0,30289000.0,869,3,266,124,1,479
+598,55,2245,Mount Wuyi,1999,117.68333,27.71667,Mixed,C/N,China,Asia and the Pacific,3765.0,27047000.0,39,54,266,124,23,24
+599,54,1065,Dazu Rock Carvings,1999,105.705,29.70111,Cultural,C,China,Asia and the Pacific,3765.0,27047000.0,869,54,266,124,23,479
+600,54,686,Bronze Age Burial Site of Sammallahdenmäki,1999,21.7775,61.12056,Cultural,C,Finland,Europe and North America,31092.0,1831000.0,869,5,528,317,5,479
+601,56,1044,Discovery Coast Atlantic Forest Reserves,1999,-39.25,-16.5,Natural,N,Brazil,Latin America and the Caribbean,8279.0,5107000.0,213,21,142,86,11,125
+602,54,1047,"Museumsinsel (Museum Island), Berlin",1999,13.39861111,52.51972222,Cultural,C,Germany,Europe and North America,33145.0,17116000.0,869,39,528,317,22,479
+603,54,1097,Archaeological Sites of Mycenae and Tiryns,1999,22.75,37.73333333,Cultural,C,Greece,Europe and North America,22237.0,12164000.0,869,18,528,317,16,479
+604,56,1118,Lorentz National Park,1999,137.83333000000002,-4.75,Natural,N,Indonesia,Asia and the Pacific,3582.0,4728000.0,213,9,266,124,6,125
+605,56,1067,iSimangaliso Wetland Park,1999,32.55,-27.838890000000006,Natural,N,South Africa,Africa,8142.0,5890000.0,213,9,96,50,3,125
+606,54,1069,Fossil Hominid Sites of South Africa,1999,29.17694,-24.15861,Cultural,C,South Africa,Africa,8142.0,5890000.0,869,9,96,50,3,479
+607,54,1059,Dacian Fortresses of the Orastie Mountains,1999,23.31194444,45.62305556,Cultural,C,Romania,Europe and North America,7091.0,5224000.0,869,7,528,317,7,479
+608,54,1070,Robben Island,1999,18.36666667,-33.8,Cultural,C,South Africa,Africa,8142.0,5890000.0,869,9,96,50,3,479
+609,54,1540,Mountain Railways of India,1999,76.93583000000002,11.51028,Cultural,C,India,Asia and the Pacific,1935.0,2482000.0,869,37,266,124,22,479
+610,56,1090,Laurisilva of Madeira,1999,-17.0,32.76666667,Natural,N,Portugal,Europe and North America,20547.0,5379000.0,213,16,528,317,9,125
+611,54,552,Hortobágy National Park - the <i>Puszta</i>,1999,21.15678,47.59458,Cultural,C,Hungary,Europe and North America,13919.0,2789000.0,869,6,528,317,4,479
+612,54,1098,The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos,1999,26.55,37.3,Cultural,C,Greece,Europe and North America,22237.0,12164000.0,869,18,528,317,16,479
+613,54,1063,Brimstone Hill Fortress National Park,1999,-62.83722,17.34694,Cultural,C,Saint Kitts and Nevis,Latin America and the Caribbean,7091.0,84000.0,869,1,142,86,1,479
+614,56,1052,Western Caucasus,1999,40.0,44.0,Natural,N,Russian Federation,Europe and North America,7091.0,5224000.0,213,25,528,317,13,125
+615,54,1066,Shrines and Temples of Nikko,1999,139.6105556,36.7475,Cultural,C,Japan,Asia and the Pacific,31980.0,4438000.0,869,22,266,124,10,479
+616,54,1110,My Son Sanctuary,1999,108.5666667,15.51666667,Cultural,C,Viet Nam,Asia and the Pacific,3557.0,90500.0,869,8,266,124,4,479
+617,54,1724,City of Graz – Historic Centre and Schloss Eggenberg,1999,15.39166667,47.07416667,Cultural,C,Austria,Europe and North America,33821.0,17467000.0,869,7,528,317,5,479
+618,54,1093,Sukur Cultural Landscape,1999,13.57194,10.74056,Cultural,C,Nigeria,Africa,2668.0,776000.0,869,2,96,50,1,479
+619,56,1092,Península Valdés,1999,-64.0,-42.5,Natural,N,Argentina,Latin America and the Caribbean,15150.0,2898000.0,213,8,142,86,4,125
+620,54,1091,"Cueva de las Manos, Río Pinturas",1999,-70.66666667,-47.15,Cultural,C,Argentina,Latin America and the Caribbean,15150.0,2898000.0,869,8,142,86,4,479
+621,54,1060,Villa Adriana (Tivoli),1999,12.77197222,41.94416667,Cultural,C,Italy,Europe and North America,31992.0,36516000.0,869,49,528,317,30,479
+622,54,1058,Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park,1999,19.66666667,49.86666667,Cultural,C,Poland,Europe and North America,12902.0,17950000.0,869,13,528,317,8,479
+623,54,1057,Wooden Churches of Maramureş,1999,24.05583333,47.82083333,Cultural,C,Romania,Europe and North America,7091.0,5224000.0,869,7,528,317,7,479
+624,55,481,"Ibiza, Biodiversity and Culture",1999,1.435194444,38.91113889,Mixed,C/N,Spain,Europe and North America,24842.0,45440000.0,39,44,528,317,30,24
+625,54,1084,San Cristóbal de La Laguna,1999,-16.31177778,28.47788889,Cultural,C,Spain,Europe and North America,24842.0,45440000.0,869,44,528,317,30,479
+626,54,1109,Hoi An Ancient Town,1999,108.3333333,15.88333333,Cultural,C,Viet Nam,Asia and the Pacific,3557.0,90500.0,869,8,266,124,4,479
+627,54,1051,Droogmakerij de Beemster (Beemster Polder),1999,4.911111111,52.54888889,Cultural,C,Netherlands,Europe and North America,36238.0,9874000.0,869,9,528,317,6,479
+628,57,728,Ruins of León Viejo,2000,-86.61028,12.39722,Cultural,C,Nicaragua,Latin America and the Caribbean,2724.0,486000.0,869,2,142,98,1,529
+629,59,1071,Greater Blue Mountains Area,2000,150.0,-33.7,Natural,N,Australia,Asia and the Pacific,36001.0,4931000.0,213,20,266,135,14,135
+630,57,1147,"Historic Town of St George and Related Fortifications, Bermuda",2000,-64.67777778,32.37944444,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,351,19,529
+631,57,1135,Churches of Chiloé,2000,-73.76666667,-42.5,Cultural,C,Chile,Latin America and the Caribbean,10903.0,1742000.0,869,5,142,98,2,529
+632,57,1124,Monastery of Geghard and the Upper Azat Valley,2000,44.79667,40.15889,Cultural,C,Armenia,Europe and North America,3324.0,45000.0,869,3,528,351,3,529
+633,57,1159,Jesuit Block and Estancias of Córdoba,2000,-64.19111,-31.42056,Cultural,C,Argentina,Latin America and the Caribbean,14918.0,2909000.0,869,8,142,98,6,529
+634,59,1130,Ischigualasto / Talampaya Natural Parks,2000,-68.0,-30.0,Natural,N,Argentina,Latin America and the Caribbean,14918.0,2909000.0,213,8,142,98,6,135
+635,57,1181,Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots,2000,44.29514,40.15931,Cultural,C,Armenia,Europe and North America,3324.0,45000.0,869,3,528,351,3,529
+636,57,1150,Ciudad Universitaria de Caracas,2000,-66.89068,10.49073,Cultural,C,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,3557.0,90500.0,869,3,142,98,3,529
+637,57,1134,Wachau Cultural Landscape,2000,15.43416667,48.36444444,Cultural,C,Austria,Europe and North America,35714.0,17982000.0,869,7,528,351,6,529
+638,57,1148,Blaenavon Industrial Landscape,2000,-3.088055556,51.77638889,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,351,19,529
+639,57,1167,Mount Qingcheng and the Dujiangyan Irrigation System,2000,103.60528,31.00167,Cultural,C,China,Asia and the Pacific,4071.0,31229000.0,869,54,266,135,27,529
+640,57,743,Mir Castle Complex,2000,26.47272222,53.45108333,Cultural,C,Belarus,Europe and North America,8587.0,60000.0,869,2,528,351,1,529
+641,57,1121,Walled City of Baku with the Shirvanshah's Palace and Maiden Tower,2000,49.83333333,40.36666667,Cultural,C,Azerbaijan,Europe and North America,2576.0,18180000.0,869,3,528,351,1,529
+642,57,1160,Historic Centre of Brugge,2000,3.22527,51.20891,Cultural,C,Belgium,Europe and North America,33427.0,6457000.0,869,10,528,351,7,529
+643,57,1173,Major Town Houses of the Architect Victor Horta (Brussels),2000,4.36223,50.82806,Cultural,C,Belgium,Europe and North America,33427.0,6457000.0,869,10,528,351,7,529
+644,57,1174,Neolithic Flint Mines at Spiennes (Mons),2000,3.97879,50.43077,Cultural,C,Belgium,Europe and North America,33427.0,6457000.0,869,10,528,351,7,529
+645,57,1037,Historic Centre of Shakhrisyabz,2000,66.83333,39.05,Cultural,C,Uzbekistan,Asia and the Pacific,3378.0,302000.0,869,4,266,135,3,529
+646,57,1179,Notre-Dame Cathedral in Tournai,2000,3.38926,50.60603,Cultural,C,Belgium,Europe and North America,33427.0,6457000.0,869,10,528,351,7,529
+647,57,1129,Rietveld Schröderhuis (Rietveld Schröder House),2000,5.147555556,52.08533333,Cultural,C,Netherlands,Europe and North America,39923.0,10003000.0,869,9,528,351,7,529
+648,57,670,Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture,2000,-68.67778,-16.55833333,Cultural,C,Bolivia (Plurinational State of),Latin America and the Caribbean,1776.0,133000.0,869,6,142,98,6,529
+649,59,1131,Noel Kempff Mercado National Park,2000,-60.86666999999999,-14.26667,Natural,N,Bolivia (Plurinational State of),Latin America and the Caribbean,1776.0,133000.0,213,6,142,98,6,135
+650,59,1163,Central Amazon Conservation Complex,2000,-62.00833333,-2.333333333,Natural,N,Brazil,Latin America and the Caribbean,8316.0,5313000.0,213,21,142,98,13,135
+651,59,1164,Pantanal Conservation Area,2000,-57.38333000000001,-17.71667,Natural,N,Brazil,Latin America and the Caribbean,8316.0,5313000.0,213,21,142,98,13,135
+652,57,192,Stone Town of Zanzibar,2000,39.18917,-6.16306,Cultural,C,United Republic of Tanzania,Africa,65307.0,24671000.0,869,7,96,53,6,529
+653,57,1180,Land of Frankincense,2000,53.64759,18.25333,Cultural,C,Oman,Arab States,18742.0,571000.0,869,5,86,52,3,529
+654,57,1168,Ancient Villages in Southern Anhui – Xidi and Hongcun,2000,117.9875,29.90444444,Cultural,C,China,Asia and the Pacific,4071.0,31229000.0,869,54,266,135,27,529
+655,57,1152,Catalan Romanesque Churches of the Vall de Boí,2000,0.8036111109999999,42.50472222,Cultural,C,Spain,Europe and North America,26424.0,46403000.0,869,44,528,351,35,529
+656,57,1172,Imperial Tombs of the Ming and Qing Dynasties,2000,124.7938889,41.70722222,Cultural,C,China,Asia and the Pacific,4071.0,31229000.0,869,54,266,135,27,529
+657,57,2250,The Loire Valley between Sully-sur-Loire and Chalonnes,2000,0.7027800000000001,47.39889,Cultural,C,France,Europe and North America,31771.0,77190000.0,869,41,528,351,26,529
+658,59,1187,Central Suriname Nature Reserve,2000,-56.5,4.0,Natural,N,Suriname,Latin America and the Caribbean,3750.0,57000.0,213,2,142,98,1,135
+659,57,1169,Longmen Grottoes,2000,112.46666670000002,34.46666667,Cultural,C,China,Asia and the Pacific,4071.0,31229000.0,869,54,266,135,27,529
+660,57,1153,Archaeological Site of Atapuerca,2000,-3.547222222,42.37138889,Cultural,C,Spain,Europe and North America,26424.0,46403000.0,869,44,528,351,35,529
+661,57,1151,Roman Walls of Lugo,2000,-7.55333,43.01111,Cultural,C,Spain,Europe and North America,26424.0,46403000.0,869,44,528,351,35,529
+662,57,1085,Palmeral of Elche,2000,-0.716666667,38.26666667,Cultural,C,Spain,Europe and North America,26424.0,46403000.0,869,44,528,351,35,529
+663,57,627,Garden Kingdom of Dessau-Wörlitz,2000,12.42083,51.8425,Cultural,C,Germany,Europe and North America,33975.0,18983000.0,869,39,528,351,24,529
+664,57,1138,Monastic Island of Reichenau,2000,9.061305556,47.69872222,Cultural,C,Germany,Europe and North America,33975.0,18983000.0,869,39,528,351,24,529
+665,57,1027,Archaeological Ensemble of Tárraco,2000,1.259305556,41.11472222,Cultural,C,Spain,Europe and North America,26424.0,46403000.0,869,44,528,351,35,529
+666,59,1050,High Coast / Kvarken Archipelago,2000,21.3,63.3,Natural,N,"Finland,Sweden",Europe and North America,0.0,0.0,213,1,528,351,1,135
+667,57,1136,Gusuku Sites and Related Properties of the Kingdom of Ryukyu,2000,127.6827778,26.20861111,Cultural,C,Japan,Asia and the Pacific,33294.0,4757000.0,869,22,266,135,11,529
+668,57,1137,Bardejov Town Conservation Reserve,2000,21.27555556,49.29277778,Cultural,C,Slovakia,Europe and North America,13818.0,1053000.0,869,5,528,351,4,529
+669,57,1561,Island of Saint-Louis,2000,-16.50444,16.02778,Cultural,C,Senegal,Africa,1850.0,389000.0,869,6,96,53,4,529
+670,57,1146,Ensemble of the Ferapontov Monastery,2000,38.56666667,59.95,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,351,15,529
+671,57,1144,Historic and Architectural Complex of the Kazan Kremlin,2000,49.095,55.79111111,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,351,15,529
+672,57,1140,Gyeongju Historic Areas,2000,129.22666999999998,35.78889,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,135,7,529
+673,57,1141,"Gochang, Hwasun and Ganghwa Dolmen Sites",2000,126.92917,34.96667,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,135,7,529
+674,57,1154,"Assisi, the Basilica of San Francesco and Other Franciscan Sites",2000,12.62244444,43.06616667,Cultural,C,Italy,Europe and North America,33185.0,41181000.0,869,49,528,351,33,529
+675,59,1061,Isole Eolie (Aeolian Islands),2000,14.94558333,38.48786111,Natural,N,Italy,Europe and North America,33185.0,41181000.0,213,49,528,351,33,135
+676,57,942,City of Verona,2000,10.99388889,45.43861111,Cultural,C,Italy,Europe and North America,33185.0,41181000.0,869,49,528,351,33,529
+677,57,1004,Early Christian Necropolis of Pécs (Sopianae),2000,18.22778,46.07444,Cultural,C,Hungary,Europe and North America,14757.0,2992000.0,869,6,528,351,5,529
+678,57,1132,Agricultural Landscape of Southern Öland,2000,16.48333,56.325,Cultural,C,Sweden,Europe and North America,36374.0,3828000.0,869,13,528,351,10,529
+679,57,1186,Historical Centre of the City of Arequipa,2000,-71.53333333,-16.4,Cultural,C,Peru,Latin America and the Caribbean,4777.0,800000.0,869,11,142,98,10,529
+680,58,1885,Maloti-Drakensberg Park,2000,29.12305556,-29.76527778,Mixed,C/N,"Lesotho,South Africa",Africa,0.0,0.0,39,1,96,53,1,25
+681,57,1178,Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba,2000,-75.39138889,20.03,Cultural,C,Cuba,Latin America and the Caribbean,4882.0,1741000.0,869,9,142,98,6,529
+682,57,1036,"Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona",2000,9.02242,46.19314,Cultural,C,Switzerland,Europe and North America,42752.0,7821000.0,869,8,528,351,4,529
+683,59,1183,Gunung Mulu National Park,2000,114.91667,4.13333,Natural,N,Malaysia,Asia and the Pacific,12269.0,10222000.0,213,4,266,135,2,135
+684,57,1158,Curonian Spit,2000,20.96239,55.27458000000001,Cultural,C,"Lithuania,Russian Federation",Europe and North America,0.0,0.0,869,1,528,351,1,529
+685,59,1182,Kinabalu Park,2000,116.5,6.25,Natural,N,Malaysia,Asia and the Pacific,12269.0,10222000.0,213,4,266,135,2,135
+686,57,824,Kronborg Castle,2000,12.62083333,56.03889,Cultural,C,Denmark,Europe and North America,35923.0,3535000.0,869,9,528,351,3,529
+687,57,1010,Holy Trinity Column in Olomouc,2000,17.25045833,49.59393611,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,351,10,529
+688,57,1127,The Cathedral of St James in Šibenik,2000,15.89038,43.73629,Cultural,C,Croatia,Europe and North America,14326.0,5831000.0,869,7,528,351,6,529
+689,61,2211,Central Sikhote-Alin,2001,136.6611111,46.68333333,Natural,N,Russian Federation,Europe and North America,7091.0,5224000.0,213,25,528,370,16,141
+690,60,1204,Historic Centre of Guimarães,2001,-8.292803,41.443731,Cultural,C,Portugal,Europe and North America,21556.0,5392000.0,869,16,528,370,11,554
+691,60,715,Samarkand  – Crossroad of Cultures,2001,67.0,39.66861,Cultural,C,Uzbekistan,Asia and the Pacific,3557.0,345000.0,869,4,266,138,4,554
+692,60,1220,Alto Douro Wine Region,2001,-7.798888889,41.10166667,Cultural,C,Portugal,Europe and North America,21556.0,5392000.0,869,16,528,370,11,554
+693,60,1191,Tsodilo,2001,21.73333333,-18.75,Cultural,C,Botswana,Africa,9348.0,1193000.0,869,2,96,57,1,554
+694,60,1206,Historic Centre of Vienna,2001,16.38333333,48.21666667,Cultural,C,Austria,Europe and North America,34946.0,18180000.0,869,7,528,370,7,554
+695,60,888,Medina of Essaouira (formerly Mogador),2001,-9.770305556,31.51411111,Cultural,C,Morocco,Arab States,4614.0,4380000.0,869,9,86,53,7,554
+696,60,1111,Royal Hill of Ambohimanga,2001,47.56278,-18.75917,Cultural,C,Madagascar,Africa,1004.0,170000.0,869,3,96,57,2,554
+697,60,1197,"Villa d'Este, Tivoli",2001,12.79625,41.96391667,Cultural,C,Italy,Europe and North America,34002.0,39563000.0,869,49,528,370,34,554
+698,60,1192,Tombs of Buganda Kings at Kasubi,2001,32.55138889,0.34861111100000003,Cultural,C,Uganda,Africa,1168.0,205000.0,869,3,96,57,3,554
+699,60,1213,Yungang Grottoes,2001,113.12222,40.10972,Cultural,C,China,Asia and the Pacific,4400.0,33167000.0,869,54,266,138,28,554
+700,60,1214,Masada,2001,35.35275,31.3135,Cultural,C,Israel,Europe and North America,29846.0,1196000.0,869,9,528,370,2,554
+701,60,1217,Old City of Acre,2001,35.08388889,32.92833333,Cultural,C,Israel,Europe and North America,29846.0,1196000.0,869,9,528,370,2,554
+702,60,497,New Lanark,2001,-3.783055556,55.66333333,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,370,23,554
+703,60,913,Fertö / Neusiedlersee Cultural Landscape,2001,16.72272222,47.71927778,Cultural,C,"Austria,Hungary",Europe and North America,0.0,0.0,869,1,528,370,1,554
+704,60,560,Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape,2001,105.8222222,14.84833333,Cultural,C,Lao People's Democratic Republic,Asia and the Pacific,3384.0,1394000.0,869,3,266,138,2,554
+705,60,1229,Lamu Old Town,2001,40.8525,-2.284444444,Cultural,C,Kenya,Africa,2103.0,841000.0,869,7,96,57,3,554
+706,61,1211,Swiss Alps Jungfrau-Aletsch,2001,8.033333333,46.5,Natural,N,Switzerland,Europe and North America,42350.0,7455000.0,213,8,528,370,5,141
+707,60,1025,"Provins, Town of Medieval Fairs",2001,3.298888889,48.55972222,Cultural,C,France,Europe and North America,32740.0,75202000.0,869,41,528,370,27,554
+708,60,1157,Historic Centre of the Town of Goiás,2001,-50.13336,-15.933279999999998,Cultural,C,Brazil,Latin America and the Caribbean,8188.0,4773000.0,869,21,142,102,16,554
+709,60,1218,Aranjuez Cultural Landscape,2001,-3.60934,40.03645,Cultural,C,Spain,Europe and North America,27372.0,48565000.0,869,44,528,370,36,554
+710,60,1200,Mining Area of the Great Copper Mountain in Falun,2001,15.63083,60.60471999999999,Cultural,C,Sweden,Europe and North America,35603.0,4108000.0,869,13,528,370,11,554
+711,61,1166,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,2001,-32.42511111,-3.857944444,Natural,N,Brazil,Latin America and the Caribbean,8188.0,4773000.0,213,21,142,102,16,141
+712,60,1226,Tugendhat Villa in Brno,2001,16.61605556,49.20718333,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,370,11,554
+713,60,1203,Derwent Valley Mills,2001,-1.488055556,53.02888889,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,370,23,554
+714,60,1139,Zollverein Coal Mine Industrial Complex in Essen,2001,7.046111111,51.49138889,Cultural,C,Germany,Europe and North America,34560.0,17861000.0,869,39,528,370,25,554
+715,61,1202,Dorset and East Devon Coast,2001,-2.989888889,50.70555556,Natural,N,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,213,31,528,370,23,141
+716,60,1228,Churches of Peace in Jawor and Świdnica,2001,16.19594444,51.05427778,Cultural,C,Poland,Europe and North America,13286.0,15000000.0,869,13,528,370,9,554
+717,60,1201,Saltaire,2001,-1.7883333330000002,53.83916667,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,370,23,554
+718,61,1208,Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks,2001,-47.68461111,-14.00569444,Natural,N,Brazil,Latin America and the Caribbean,8188.0,4773000.0,213,21,142,102,16,141
+719,61,989,Alejandro de Humboldt National Park,2001,-75.0,20.45,Natural,N,Cuba,Latin America and the Caribbean,5061.0,1736000.0,213,9,142,102,7,141
+720,62,1096,Historic Inner City of Paramaribo,2002,-55.15,5.82611,Cultural,C,Suriname,Latin America and the Caribbean,3750.0,60000.0,869,2,142,104,2,562
+721,62,234,Minaret and Archaeological Remains of Jam,2002,64.51588889,34.39641667,Cultural,C,Afghanistan,Asia and the Pacific,1088.0,0.0,869,2,266,140,1,562
+722,62,1116,Saint Catherine Area,2002,33.97543,28.55623,Cultural,C,Egypt,Arab States,5527.0,4906000.0,869,7,86,54,6,562
+723,62,1243,Upper Middle Rhine Valley,2002,7.694166667,50.17361111,Cultural,C,Germany,Europe and North America,34674.0,17969000.0,869,39,528,374,27,562
+724,63,1963,"Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche",2002,-89.73728333,18.05302778,Mixed,C/N,Mexico,Latin America and the Caribbean,11311.0,19667000.0,39,35,142,104,22,26
+725,62,1244,Historic Centres of Stralsund and Wismar,2002,13.08527778,54.3025,Cultural,C,Germany,Europe and North America,34674.0,17969000.0,869,39,528,374,27,562
+726,62,1196,Late Baroque Towns of the Val di Noto (South-Eastern Sicily),2002,15.06891667,36.89319444,Cultural,C,Italy,Europe and North America,32909.0,39799000.0,869,49,528,374,35,562
+727,62,1240,Tokaj Wine Region Historic Cultural Landscape,2002,21.35,48.15,Cultural,C,Hungary,Europe and North America,16957.0,3013000.0,869,6,528,374,6,562
+728,62,1231,Mahabodhi Temple Complex at Bodh Gaya,2002,84.99389000000002,24.69528,Cultural,C,India,Asia and the Pacific,2177.0,2384000.0,869,37,266,140,23,562
+729,64,897,Kunta Kinteh Island and Related Sites,2003,-16.35719444,13.31616667,Cultural,C,Gambia (the),Africa,15961.0,84452000.0,869,1,96,60,1,581
+730,64,1274,White City of Tel-Aviv – the Modern Movement,2003,34.78333333,32.06666667,Cultural,C,Israel,Europe and North America,28152.0,1063000.0,869,9,528,382,3,581
+731,64,345,Matobo Hills,2003,28.5,-20.5,Cultural,C,Zimbabwe,Africa,1958.0,2256000.0,869,4,96,60,4,581
+732,64,1281,Mausoleum of Khoja Ahmed Yasawi,2003,68.27444444,43.29305556,Cultural,C,Kazakhstan,Asia and the Pacific,7600.0,3237000.0,869,3,266,147,1,581
+733,64,1256,Franciscan Missions in the Sierra Gorda of Querétaro,2003,-99.46411111,21.20438889,Cultural,C,Mexico,Latin America and the Caribbean,11480.0,18665000.0,869,35,142,107,23,581
+734,64,1310,Ashur (Qal'at Sherqat),2003,43.26111111,35.45666667,Cultural,C,Iraq,Arab States,2898.0,8044000.0,869,6,86,56,2,581
+735,64,1247,"Citadel, Ancient City and Fortress Buildings of Derbent",2003,48.29719444,42.05297222,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,382,17,581
+736,64,2061,Mapungubwe Cultural Landscape,2003,29.23889,-22.1925,Cultural,C,South Africa,Africa,9250.0,6505000.0,869,9,96,60,4,581
+737,64,1254,Takht-e Soleyman,2003,47.235,36.60388889,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,147,4,581
+738,65,909,Uvs Nuur Basin,2003,92.71972222,50.275,Natural,N,"Russian Federation,Mongolia",Other,0.0,0.0,213,2,3,1,1,146
+739,64,1079,Rock Shelters of Bhimbetka,2003,77.58333333,22.92777778,Cultural,C,India,Asia and the Pacific,2351.0,2726000.0,869,37,266,147,24,581
+740,64,611,Renaissance Monumental Ensembles of Úbeda and Baeza,2003,-3.37122,38.01131,Cultural,C,Spain,Europe and North America,27722.0,50854000.0,869,44,528,382,37,581
+741,64,1245,<I>Sacri Monti</I> of Piedmont and Lombardy,2003,9.169555556,45.97455556,Cultural,C,Italy,Europe and North America,32463.0,39604000.0,869,49,528,382,36,581
+742,64,230,Cultural Landscape and Archaeological Remains of the Bamiyan Valley,2003,67.82525,34.846940000000004,Cultural,C,Afghanistan,Asia and the Pacific,1112.0,0.0,869,2,266,147,2,581
+743,64,2258,Jewish Quarter and St Procopius' Basilica in Třebíč,2003,15.87888889,49.21722222,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,382,12,581
+744,65,1643,Monte San Giorgio,2003,8.913888888999999,45.88888889,Natural,N,"Italy,Switzerland",Europe and North America,0.0,0.0,213,2,528,382,1,146
+745,65,1731,Three Parallel Rivers of Yunnan Protected Areas,2003,98.40638889,27.895,Natural,N,China,Asia and the Pacific,5122.0,32970000.0,213,54,266,147,29,146
+746,64,1123,Historic Quarter of the Seaport City of Valparaíso,2003,-71.628,-33.04063889,Cultural,C,Chile,Latin America and the Caribbean,11140.0,1614000.0,869,5,142,107,3,581
+747,64,1262,"Royal Botanic Gardens, Kew",2003,-0.294027778,51.48194444,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,382,24,581
+748,64,1250,Gebel Barkal and the Sites of the Napatan Region,2003,31.82802778,18.537,Cultural,C,Sudan,Arab States,1838.0,52000.0,869,3,86,56,1,581
+749,64,1489,Wooden Churches of Southern Małopolska,2003,21.23333333,49.75,Cultural,C,Poland,Europe and North America,13678.0,13720000.0,869,13,528,382,10,581
+750,65,1272,Purnululu National Park,2003,128.5,-17.5,Natural,N,Australia,Asia and the Pacific,37889.0,4746000.0,213,20,266,147,15,146
+751,64,1295,Quebrada de Humahuaca,2003,-65.34886111,-23.19986111,Cultural,C,Argentina,Latin America and the Caribbean,12636.0,2995000.0,869,8,142,107,7,581
+752,65,2059,Phong Nha-Ke Bang National Park,2003,106.15125,17.53722222,Natural,N,Viet Nam,Asia and the Pacific,3557.0,90500.0,213,8,266,147,5,146
+753,66,1275,Ensemble of the Novodevichy Convent,2004,37.55508333,55.72611111,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,397,19,609
+754,67,1194,Natural System of Wrangel Island Reserve,2004,-179.71527780000002,71.18888889,Natural,N,Russian Federation,Europe and North America,7091.0,5224000.0,213,25,528,397,19,151
+755,66,2183,Sacred Sites and Pilgrimage Routes in the Kii Mountain Range,2004,135.7763889,33.83694444,Cultural,C,Japan,Asia and the Pacific,34354.0,6138000.0,869,22,266,158,12,609
+756,66,1297,Landscape of the Pico Island Vineyard Culture,2004,-28.54116667,38.51344444,Cultural,C,Portugal,Europe and North America,21135.0,5654000.0,869,16,528,397,12,609
+757,66,1338,Etruscan Necropolises of Cerveteri and Tarquinia,2004,12.10188889,42.00683333,Cultural,C,Italy,Europe and North America,32380.0,37071000.0,869,49,528,397,38,609
+758,66,1199,Val d'Orcia,2004,11.55,43.06666667,Cultural,C,Italy,Europe and North America,32380.0,37071000.0,869,49,528,397,38,609
+759,66,1271,Um er-Rasas (Kastrom Mefa'a),2004,35.92055999999999,31.50167,Cultural,C,Jordan,Arab States,4952.0,2853000.0,869,5,86,58,3,609
+760,67,1341,Pitons Management Area,2004,-61.07036111,13.80708333,Natural,N,Saint Lucia,Latin America and the Caribbean,6938.0,298000.0,213,1,142,109,1,151
+761,66,1105,Chhatrapati Shivaji Terminus (formerly Victoria Terminus),2004,72.83620278,18.94012222,Cultural,C,India,Asia and the Pacific,2502.0,3457000.0,869,37,266,158,26,609
+762,66,1564,Bam and its Cultural Landscape,2004,58.36666667,29.11683,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,158,6,609
+763,66,1487,Madriu-Perafita-Claror Valley,2004,1.595555556,42.49472222,Cultural,C,Andorra,Europe and North America,7893.0,2791000.0,869,1,528,397,1,609
+764,66,1730,Royal Exhibition Building and Carlton Gardens,2004,144.97027780000005,-37.80611111,Cultural,C,Australia,Asia and the Pacific,39031.0,5215000.0,869,20,266,158,16,609
+765,66,1331,Liverpool – Maritime Mercantile City,2004,-2.994444444,53.40666667,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,397,25,609
+766,66,1315,Capital Cities and Tombs of the Ancient Koguryo Kingdom,2004,126.1872222,41.15694444,Cultural,C,China,Asia and the Pacific,5595.0,41761000.0,869,54,266,158,30,609
+767,66,1321,"Koutammakou, the Land of the Batammariba",2004,1.133333333,10.06666667,Cultural,C,Togo,Africa,1114.0,83000.0,869,1,96,63,1,609
+768,66,1269,Complex of Koguryo Tombs,2004,125.415,38.86305556,Cultural,C,Democratic People's Republic of Korea,Asia and the Pacific,21004.0,2223000.0,869,2,266,158,1,609
+769,66,856,Medieval Monuments in Kosovo,2004,20.26555556,42.66111111,Cultural,C,Serbia,Europe and North America,8422.0,392000.0,869,4,528,397,3,609
+770,67,1330,Ilulissat Icefjord,2004,-49.5,69.13333333,Natural,N,Denmark,Europe and North America,37121.0,4421000.0,213,9,528,397,4,151
+771,66,1265,Town Hall and Roland on the Marketplace of Bremen,2004,8.807472222000001,53.07597222,Cultural,C,Germany,Europe and North America,35908.0,20137000.0,869,39,528,397,28,609
+772,66,1333,Þingvellir National Park,2004,-21.03725,64.25380556,Cultural,C,Iceland,Europe and North America,36891.0,360000.0,869,3,528,397,1,609
+773,66,1279,Champaner-Pavagadh Archaeological Park,2004,73.53333333,22.48333333,Cultural,C,India,Asia and the Pacific,2502.0,3457000.0,869,37,266,158,26,609
+774,67,2013,Cape Floral Region Protected Areas,2004,18.475,-34.36111111,Natural,N,South Africa,Africa,9628.0,6678000.0,213,9,96,63,5,151
+775,67,1344,Tropical Rainforest Heritage of Sumatra,2004,101.5,-2.5,Natural,N,Indonesia,Asia and the Pacific,3758.0,5321000.0,213,9,266,158,7,151
+776,66,1284,Pasargadae,2004,53.16729,30.19383,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,158,6,609
+777,66,1314,"Grimeton Radio Station, Varberg",2004,12.38333333,57.1,Cultural,C,Sweden,Europe and North America,38522.0,4676000.0,869,13,528,397,12,609
+778,66,1326,Petroglyphs within the Archaeological Landscape of Tamgaly,2004,75.535,43.80333333,Cultural,C,Kazakhstan,Asia and the Pacific,8687.0,4291000.0,869,3,266,158,2,609
+779,66,1307,Muskauer Park / Park Mużakowski,2004,14.72644444,51.57930556,Cultural,C,"Germany,Poland",Europe and North America,0.0,0.0,869,1,528,397,1,609
+780,66,1259,Orkhon Valley Cultural Landscape,2004,102.8313889,47.55666667,Cultural,C,Mongolia,Asia and the Pacific,4188.0,301000.0,869,3,266,158,1,609
+781,66,1320,Tomb of Askia,2004,-0.04456,16.2898,Cultural,C,Mali,Africa,1072.0,113000.0,869,4,96,63,4,609
+782,66,1316,Luis Barragán House and Studio,2004,-99.19833333,19.41833333,Cultural,C,Mexico,Latin America and the Caribbean,12193.0,20618000.0,869,35,142,109,24,609
+783,66,1234,Portuguese City of Mazagan (El Jadida),2004,-8.50194,33.25667,Cultural,C,Morocco,Arab States,4537.0,5477000.0,869,9,86,58,8,609
+784,66,1317,Kernavė  Archaeological Site (Cultural Reserve of Kernavė),2004,24.83055556,54.88777778,Cultural,C,Lithuania,Europe and North America,13928.0,1800000.0,869,2,528,397,2,609
+785,66,2254,Vegaøyan – The Vega Archipelago,2004,11.75,65.61667,Cultural,C,Norway,Europe and North America,60079.0,3628000.0,869,7,528,397,5,609
+786,68,1347,Historical Centre of the City of Yaroslavl,2005,39.87611,57.65278000000001,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,408,20,626
+787,68,1286,Incense Route - Desert Cities in the Negev,2005,35.16083,30.54111,Cultural,C,Israel,Europe and North America,27294.0,1903000.0,869,9,528,408,5,626
+788,68,1869,Humberstone and Santa Laura Saltpeter Works,2005,-69.79406,-20.205820000000006,Cultural,C,Chile,Latin America and the Caribbean,13309.0,2027000.0,869,5,142,113,4,626
+789,68,1289,Historic Centre of Macao,2005,113.5364611,22.19129194,Cultural,C,China,Asia and the Pacific,6338.0,46809000.0,869,54,266,163,31,626
+790,68,1298,Osun-Osogbo Sacred Grove,2005,4.552219999999998,7.755560000000001,Cultural,C,Nigeria,Africa,3173.0,1010000.0,869,2,96,65,2,626
+791,68,1376,Kunya-Urgench,2005,59.08494,42.18318,Cultural,C,Turkmenistan,Asia and the Pacific,8840.0,11600.0,869,3,266,163,2,626
+792,68,1358,"Le Havre, the City Rebuilt by Auguste Perret",2005,0.1075,49.49278,Cultural,C,France,Europe and North America,33428.0,74988000.0,869,41,528,408,28,626
+793,69,698,Dong Phayayen-Khao Yai Forest Complex,2005,102.05,14.33,Natural,N,Thailand,Asia and the Pacific,9584.0,11567000.0,213,5,266,163,5,158
+794,68,1379,Urban Historic Centre of Cienfuegos ,2005,-80.45278,22.14722,Cultural,C,Cuba,Latin America and the Caribbean,5248.0,2261000.0,869,9,142,113,8,626
+795,69,1363,Wadi Al-Hitan (Whale Valley),2005,30.18333,29.33333,Natural,N,Egypt,Arab States,6008.0,8244000.0,213,7,86,60,7,158
+796,69,1319,Coiba National Park and its Special Zone of Marine Protection,2005,-81.766,7.433,Natural,N,Panama,Latin America and the Caribbean,12800.0,702000.0,213,4,142,113,4,158
+797,68,1377,Syracuse and the Rocky Necropolis of Pantalica,2005,15.29306,37.05944,Cultural,C,Italy,Europe and North America,32926.0,36513000.0,869,49,528,408,39,626
+798,69,1372,West Norwegian Fjords – Geirangerfjord and Nærøyfjord,2005,7.16667,62.11666999999999,Natural,N,Norway,Europe and North America,70877.0,3824000.0,213,7,528,408,6,158
+799,68,1287,"Biblical Tels - Megiddo, Hazor, Beer Sheba",2005,35.18222,32.59722,Cultural,C,Israel,Europe and North America,27294.0,1903000.0,869,9,528,408,5,626
+800,69,1873,Islands and Protected Areas of the Gulf of California,2005,-112.54583,27.62667,Natural,N,Mexico,Latin America and the Caribbean,13018.0,21915000.0,213,35,142,113,25,158
+801,68,1590,Historic Centres of Berat and Gjirokastra ,2005,20.13333333,40.06944444,Cultural,C,Albania,Europe and North America,6499.0,748000.0,869,2,528,408,2,626
+802,68,1365,Soltaniyeh,2005,48.79667,36.43528,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,163,7,626
+803,68,1107,Old Bridge Area of the Old City of Mostar,2005,17.81092,43.34812,Cultural,C,Bosnia and Herzegovina,Europe and North America,6480.0,217000.0,869,2,528,408,1,626
+804,69,1342,Vredefort Dome,2005,27.26,-26.86,Natural,N,South Africa,Africa,10241.0,7369000.0,213,9,96,65,6,158
+805,69,1370,Shiretoko,2005,144.96583,43.94944,Natural,N,Japan,Asia and the Pacific,35292.0,6728000.0,213,22,266,163,13,158
+806,68,2062,Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun,2005,50.52722222,26.23306,Cultural,C,Bahrain,Arab States,36665.0,6313000.0,869,3,86,60,1,626
+807,68,1362,Plantin-Moretus House-Workshops-Museum Complex,2005,4.39778,51.21833,Cultural,C,Belgium,Europe and North America,35284.0,6747000.0,869,10,528,408,8,626
+808,68,1373,"Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh",2005,26.69139,53.22278000000001,Cultural,C,Belarus,Europe and North America,10303.0,91000.0,869,2,528,408,2,626
+809,68,1364,Struve Geodetic Arc,2005,26.33777778,59.05777778,Cultural,C,"Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",Europe and North America,0.0,0.0,869,1,528,408,1,626
+810,70,1399,Bisotun,2006,47.43666667,34.38833333,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,166,8,642
+811,70,1452,"Harar Jugol, the Fortified Historic Town",2006,42.13777778,9.308888889,Cultural,C,Ethiopia,Africa,760.0,330000.0,869,9,96,70,8,642
+812,70,1404,Aapravasi Ghat,2006,57.50316667,-20.15863889,Cultural,C,Mauritius,Africa,13815.0,788000.0,869,2,96,70,1,642
+813,71,1393,Malpelo Fauna and Flora Sanctuary,2006,-81.61666667,3.966666667,Natural,N,Colombia,Latin America and the Caribbean,8325.0,2045000.0,213,8,142,116,6,160
+814,70,1388,Genoa: <i>Le Strade Nuove</i> and the system of the<i> Palazzi dei Rolli</i>,2006,8.931111111,44.41222222,Cultural,C,Italy,Europe and North America,34003.0,41058000.0,869,49,528,413,40,642
+815,70,1449,Kondoa Rock-Art Sites,2006,35.83388889,-4.724444444,Cultural,C,United Republic of Tanzania,Africa,65307.0,24671000.0,869,7,96,70,7,642
+816,70,1394,Vizcaya Bridge,2006,-3.016833333,43.323175,Cultural,C,Spain,Europe and North America,31493.0,58004000.0,869,44,528,413,38,642
+817,70,1450,Chongoni Rock-Art Area,2006,34.27916667,-14.29333333,Cultural,C,Malawi,Africa,996.0,638000.0,869,2,96,70,2,642
+818,70,1343,Centennial Hall in Wrocław,2006,17.07701389,51.10694722,Cultural,C,Poland,Europe and North America,15415.0,15670000.0,869,13,528,413,11,642
+819,70,1335,Old town of Regensburg with Stadtamhof,2006,12.09916667,49.02055556,Cultural,C,Germany,Europe and North America,38784.0,23569000.0,869,39,528,413,29,642
+820,70,1386,Agave Landscape and Ancient Industrial Facilities of Tequila,2006,-103.7786111,20.86305556,Cultural,C,Mexico,Latin America and the Caribbean,13713.0,21353000.0,869,35,142,116,26,642
+821,70,1392,Cornwall and West Devon Mining Landscape,2006,-5.383611111,50.13611111,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,413,26,642
+822,70,1384,<i>Aflaj</i> Irrigation Systems of Oman,2006,57.53605556,22.99888889,Cultural,C,Oman,Arab States,39058.0,1066000.0,869,5,86,62,4,642
+823,70,1406,Crac des Chevaliers and Qal’at Salah El-Din,2006,36.26305556,34.78166667,Cultural,C,Syrian Arab Republic,Arab States,54184.0,4231000.0,869,6,86,62,5,642
+824,70,1293,Yin Xu,2006,114.3138889,36.12666667,Cultural,C,China,Asia and the Pacific,6937.0,49913000.0,869,54,266,166,33,642
+825,71,1390,"Sichuan Giant Panda Sanctuaries - Wolong, Mt Siguniang and Jiajin Mountains ",2006,103.0,30.83333333,Natural,N,China,Asia and the Pacific,6937.0,49913000.0,213,54,266,166,33,160
+826,70,1403,Stone Circles of Senegambia,2006,-15.5225,13.69111111,Cultural,C,"Gambia (the),Senegal",Africa,0.0,0.0,869,1,96,70,1,642
+827,70,1391,Sewell Mining Town,2006,-70.38277778,-34.08444444,Cultural,C,Chile,Latin America and the Caribbean,15487.0,2253000.0,869,5,142,116,5,642
+828,72,1460,Red Fort Complex,2007,77.24083333,28.65555556,Cultural,C,India,Asia and the Pacific,3333.0,5082000.0,869,37,266,173,27,658
+829,72,1442,Richtersveld Cultural and Botanical Landscape,2007,17.20388889,-28.6,Cultural,C,South Africa,Africa,11347.0,9091000.0,869,9,96,74,7,658
+830,73,1547,Ecosystem and Relict Cultural Landscape of Lopé-Okanda,2007,11.5,-0.5,Mixed,C/N,Gabon,Africa,15961.0,84452000.0,39,1,96,74,1,27
+831,72,1433,"Bordeaux, Port of the Moon",2007,-0.5722222220000001,44.83888889,Cultural,C,France,Europe and North America,35855.0,80853000.0,869,41,528,422,29,658
+832,72,1456,Samarra Archaeological City,2007,43.82354306,34.34098944,Cultural,C,Iraq,Arab States,5922.0,8044000.0,869,6,86,63,3,658
+833,72,1427,Central University City Campus of the <i>Universidad Nacional Autónoma de México</i> (UNAM),2007,-99.18805556,19.33222222,Cultural,C,Mexico,Latin America and the Caribbean,14180.0,21606000.0,869,35,142,117,27,658
+834,74,1435,Teide National Park,2007,-16.64361111,28.27138889,Natural,N,Spain,Europe and North America,33516.0,58666000.0,213,44,528,422,39,165
+835,72,1477,Old Town of Corfu,2007,19.9275,39.62394139,Cultural,C,Greece,Europe and North America,28325.0,16165000.0,869,18,528,422,17,658
+836,74,1434,Rainforests of the Atsinanana,2007,49.7025,-14.45972222,Natural,N,Madagascar,Africa,1124.0,344000.0,213,3,96,74,3,165
+837,72,1432,Twyfelfontein or /Ui-//aes,2007,14.37258333,-20.59558333,Cultural,C,Namibia,Africa,6878.0,929000.0,869,2,96,74,1,658
+838,72,1420,"Lavaux, Vineyard Terraces",2007,6.746111111,46.49194444,Cultural,C,Switzerland,Europe and North America,52541.0,8448000.0,869,8,528,422,6,658
+839,74,2152,Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe,2007,22.33888889,49.00972222,Natural,N,"Albania,Austria,Belgium,Bulgaria,Croatia,Germany,Italy,Romania,Slovakia,Slovenia,Spain,Ukraine",Europe and North America,0.0,0.0,213,1,528,422,1,165
+840,72,1457,Sydney Opera House,2007,151.21527780000002,-33.85666667,Cultural,C,Australia,Asia and the Pacific,42278.0,5644000.0,869,20,266,173,17,658
+841,72,1474,Gobustan Rock Art Cultural Landscape,2007,49.375,40.125,Cultural,C,Azerbaijan,Europe and North America,9354.0,732000.0,869,3,528,422,2,658
+842,72,1737,Iwami Ginzan Silver Mine and its Cultural Landscape,2007,132.435,35.11277778,Cultural,C,Japan,Asia and the Pacific,36054.0,8347000.0,869,22,266,173,14,658
+843,72,1437,Mehmed Paša Sokolović Bridge in Višegrad,2007,19.288025,43.78144444,Cultural,C,Bosnia and Herzegovina,Europe and North America,7747.0,306000.0,869,2,528,422,2,658
+844,72,1459,Kaiping Diaolou and Villages,2007,112.5658611,22.28551944,Cultural,C,China,Asia and the Pacific,7482.0,54720000.0,869,54,266,173,35,658
+845,74,1965,South China Karst,2007,110.35444440000002,24.92333333,Natural,N,China,Asia and the Pacific,7482.0,54720000.0,213,54,266,173,35,165
+846,72,1475,Rideau Canal,2007,-75.765125,44.99438611,Cultural,C,Canada,Europe and North America,42449.0,17935000.0,869,18,528,422,12,658
+847,72,1430,"Gamzigrad-Romuliana, Palace of Galerius",2007,22.18611111,43.89930556,Cultural,C,Serbia,Europe and North America,10543.0,696000.0,869,4,528,422,4,658
+848,74,2314,Jeju Volcanic Island and Lava Tubes,2007,126.7202778,33.46888889,Natural,N,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,213,14,266,173,8,165
+849,72,1471,Parthian Fortresses of Nisa,2007,58.19861111,37.99972222,Cultural,C,Turkmenistan,Asia and the Pacific,10069.0,8200.0,869,3,266,173,3,658
+850,76,1497,Swiss Tectonic Arena Sardona,2008,9.25,46.91666667,Natural,N,Switzerland,Europe and North America,54830.0,8608000.0,213,8,528,434,7,173
+851,76,1548,Socotra Archipelago,2008,53.83333333,12.5,Natural,N,Yemen,Arab States,3759.0,1023000.0,213,4,86,65,4,173
+852,75,1589,Sacred Mijikenda Kaya Forests,2008,39.59611111,-3.931944444,Cultural,C,Kenya,Africa,2272.0,1141000.0,869,7,96,76,4,677
+853,75,1491,Wooden Churches of the Slovak part of the Carpathian Mountain Area,2008,19.55833333,49.33611111,Cultural,C,Slovakia,Europe and North America,21876.0,1767000.0,869,5,528,434,5,677
+854,75,1542,Armenian Monastic Ensembles of Iran,2008,45.47333333,38.97888889,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,181,9,677
+855,75,1860,Le Morne Cultural Landscape,2008,57.32833333,-20.45194444,Cultural,C,Mauritius,Africa,15152.0,930000.0,869,2,96,76,2,677
+856,75,1511,Chief Roi Mata’s Domain,2008,168.1777194,-17.62806944,Cultural,C,Vanuatu,Asia and the Pacific,3557.0,90500.0,869,1,266,181,1,677
+857,75,1482,Historic Centre of Camagüey,2008,-77.91861111,21.37861111,Cultural,C,Cuba,Latin America and the Caribbean,6336.0,2316000.0,869,9,142,120,9,677
+858,75,1484,Stari Grad Plain,2008,16.63861111,43.18166667,Cultural,C,Croatia,Europe and North America,20406.0,8665000.0,869,7,528,434,7,677
+859,75,1524,Al-Hijr Archaeological Site (Madâin Sâlih),2008,37.955,26.78361111,Cultural,C,Saudi Arabia,Arab States,39887.0,14757000.0,869,5,86,65,1,677
+860,75,1535,San Marino Historic Centre and Mount Titano,2008,12.45194444,43.93277778,Cultural,C,San Marino,Europe and North America,6938.0,115000.0,869,1,528,434,1,677
+861,76,1532,Surtsey,2008,-20.60222222,63.30305556,Natural,N,Iceland,Europe and North America,39947.0,502000.0,213,3,528,434,2,173
+862,75,1416,Berlin Modernism Housing Estates,2008,13.45,52.44833333,Cultural,C,Germany,Europe and North America,41333.0,24884000.0,869,39,528,434,30,677
+863,76,1531,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,2008,164.5663889,-20.41194444,Natural,N,France,Europe and North America,35755.0,79218000.0,213,41,528,434,31,173
+864,75,1591,Temple of Preah Vihear,2008,104.6838889,14.38833333,Cultural,C,Cambodia,Asia and the Pacific,2389.0,2125000.0,869,3,266,181,2,677
+865,75,1581,Bahá’i Holy Places in Haifa and the Western Galilee,2008,34.97164889,32.82939667,Cultural,C,Israel,Europe and North America,28071.0,2572000.0,869,9,528,434,6,677
+866,75,1514,Fortifications of Vauban,2008,6.026944444,47.23611111,Cultural,C,France,Europe and North America,35755.0,79218000.0,869,41,528,434,31,677
+867,76,1543,Saryarka – Steppe and Lakes of Northern Kazakhstan,2008,69.18888889,50.43333333,Natural,N,Kazakhstan,Asia and the Pacific,16214.0,4117000.0,213,3,266,181,3,173
+868,75,1493,Protective town of San Miguel and the Sanctuary of Jesús Nazareno de Atotonilco,2008,-100.7463889,20.91444444,Cultural,C,Mexico,Latin America and the Caribbean,14442.0,22931000.0,869,35,142,120,29,677
+869,76,1516,Joggins Fossil Cliffs,2008,-64.43583333,45.70972222,Natural,N,Canada,Europe and North America,43642.0,17142000.0,213,18,528,434,13,173
+870,75,1871,"Melaka and George Town, Historic Cities of the Straits of Malacca",2008,100.3458333,5.421388889,Cultural,C,Malaysia,Asia and the Pacific,17770.0,22052000.0,869,4,266,181,3,677
+871,75,1546,Kuk Early Agricultural Site,2008,144.33172219999997,-5.7837111110000015,Cultural,C,Papua New Guinea,Asia and the Pacific,12800.0,114000.0,869,1,266,181,1,677
+872,76,1521,Monarch Butterfly Biosphere Reserve,2008,-100.2416667,19.60638889,Natural,N,Mexico,Latin America and the Caribbean,14442.0,22931000.0,213,35,142,120,29,173
+873,75,1503,Rhaetian Railway in the Albula / Bernina Landscapes,2008,9.846388889,46.49833333,Cultural,C,"Italy,Switzerland",Europe and North America,0.0,0.0,869,2,528,434,2,677
+874,75,1505,Fujian <em>Tulou</em>,2008,117.68583329999998,25.02305556,Cultural,C,China,Asia and the Pacific,7741.0,53049000.0,869,54,266,181,37,677
+875,75,1518,Mantua and Sabbioneta,2008,10.79444444,45.15944444,Cultural,C,Italy,Europe and North America,35938.0,42734000.0,869,49,528,434,41,677
+876,76,1523,Mount Sanqingshan National Park,2008,118.0644444,28.91583333,Natural,N,China,Asia and the Pacific,7741.0,53049000.0,213,54,266,181,37,173
+877,77,1616,Tower of Hercules,2009,-8.406388889,43.38583333,Cultural,C,Spain,Europe and North America,32962.0,52178000.0,869,44,528,440,40,688
+878,77,1583,Pontcysyllte Aqueduct and Canal,2009,-3.087777778,52.97027778,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,440,27,688
+879,78,1967,Wadden Sea,2009,8.556111111,53.52861111,Natural,N,"Denmark,Germany,Netherlands",Europe and North America,0.0,0.0,213,1,528,440,1,175
+880,77,1578,Stoclet House,2009,4.416111111,50.835,Cultural,C,Belgium,Europe and North America,37260.0,6815000.0,869,10,528,440,9,688
+881,77,1696,Ruins of Loropéni,2009,-3.583333333,10.25,Cultural,C,Burkina Faso,Africa,1265.0,269000.0,869,2,96,78,1,688
+882,77,1600,"Cidade Velha, Historic Centre of Ribeira Grande",2009,-23.60519444,14.91513889,Cultural,C,Cabo Verde,Africa,1265.0,269000.0,869,1,96,78,1,688
+883,77,1587,Mount Wutai,2009,113.56333329999998,39.03055556,Cultural,C,China,Asia and the Pacific,8394.0,50875000.0,869,54,266,185,38,688
+884,77,1582,"La Chaux-de-Fonds / Le Locle, Watchmaking Town Planning",2009,6.832777778,47.10388889,Cultural,C,Switzerland,Europe and North America,54184.0,8294000.0,869,8,528,440,8,688
+885,77,1615,Sacred City of Caral-Supe,2009,-77.52138889,-10.89166667,Cultural,C,Peru,Latin America and the Caribbean,8248.0,2140000.0,869,11,142,121,11,688
+886,77,1699,Sulaiman-Too Sacred Mountain,2009,72.78277778,40.53111111,Cultural,C,Kyrgyzstan,Asia and the Pacific,3384.0,1394000.0,869,1,266,185,1,688
+887,78,1609,The Dolomites,2009,12.16305556,46.61305556,Natural,N,Italy,Europe and North America,34766.0,43239000.0,213,49,528,440,42,175
+888,77,1957,Royal Tombs of the Joseon Dynasty,2009,128.4527778,37.19722222,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,185,9,688
+889,77,1599,Shushtar Historical Hydraulic System,2009,48.83583333,32.01861111,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,185,10,688
+890,81,1676,China Danxia,2010,106.0425,28.42194444,Natural,N,China,Asia and the Pacific,9475.0,55664000.0,213,54,266,197,40,180
+891,79,1725,São Francisco Square in the Town of São Cristóvão,2010,-37.21,-11.01611111,Cultural,C,Brazil,Latin America and the Caribbean,13418.0,5161000.0,869,21,142,124,17,703
+892,79,1726,Historic Monuments of Dengfeng in “The Centre of Heaven and Earth”,2010,113.06771940000002,34.45874722,Cultural,C,China,Asia and the Pacific,9475.0,55664000.0,869,54,266,197,40,703
+893,79,1659,At-Turaif District in ad-Dir'iyah,2010,46.57246667,24.73413333,Cultural,C,Saudi Arabia,Arab States,39370.0,10850000.0,869,5,86,66,2,703
+894,79,1693,Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca,2010,-96.42111111,16.95083333,Cultural,C,Mexico,Latin America and the Caribbean,14276.0,23290000.0,869,35,142,124,31,703
+895,80,1672,Papahānaumokuākea,2010,-170.14582,25.34907,Mixed,C/N,United States of America,Europe and North America,65307.0,24671000.0,39,22,528,445,19,28
+896,79,1677,"The Jantar Mantar, Jaipur",2010,75.825,26.92472222,Cultural,C,India,Asia and the Pacific,4353.0,5776000.0,869,37,266,197,28,703
+897,81,1604,"Pitons, cirques and remparts of Reunion Island",2010,55.48,-21.09944444,Natural,N,France,Europe and North America,35871.0,76647000.0,213,41,528,445,33,180
+898,79,1648,Australian Convict Sites,2010,150.99444440000005,-33.37833333,Cultural,C,Australia,Asia and the Pacific,45398.0,5790000.0,869,20,266,197,18,703
+899,79,1680,Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil,2010,48.29138889,38.24861111,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,197,12,703
+900,79,1681,Tabriz Historic Bazaar Complex,2010,46.29305556,38.08138889,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,197,12,703
+901,81,1650,Central Highlands of Sri Lanka,2010,80.8021,7.45245,Natural,N,Sri Lanka,Asia and the Pacific,7844.0,654000.0,213,8,266,197,8,180
+902,81,1683,Phoenix Islands Protected Area,2010,-172.8575,-3.649722222,Natural,N,Kiribati,Asia and the Pacific,2712.0,4700.0,213,1,266,197,1,180
+903,81,1644,Putorana Plateau,2010,94.15805556,69.04694444,Natural,N,Russian Federation,Europe and North America,7091.0,5224000.0,213,25,528,445,21,180
+904,79,1684,Bikini Atoll Nuclear Test Site,2010,165.38055559999995,11.6,Cultural,C,Marshall Islands,Asia and the Pacific,8911.0,4600.0,869,1,266,197,1,703
+905,79,1666,Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht,2010,4.887777778,52.365,Cultural,C,Netherlands,Europe and North America,44394.0,10883000.0,869,9,528,445,8,703
+906,79,1651,Proto-urban Site of Sarazm,2010,67.46027778,39.50777778,Cultural,C,Tajikistan,Asia and the Pacific,2893.0,160000.0,869,2,266,197,1,703
+907,79,1689,Central Sector of the Imperial Citadel of Thang Long - Hanoi,2010,105.8372222,21.03944444,Cultural,C,Viet Nam,Asia and the Pacific,3557.0,90500.0,869,8,266,197,6,703
+908,79,1663,Episcopal City of Albi,2010,2.1425,43.92833333,Cultural,C,France,Europe and North America,35871.0,76647000.0,869,41,528,445,33,703
+909,79,1691,Camino Real de Tierra Adentro,2010,-102.3791667,22.60805556,Cultural,C,Mexico,Latin America and the Caribbean,14276.0,23290000.0,869,35,142,124,31,703
+910,79,1688,Historic Villages of Korea: Hahoe and Yangdong,2010,128.5166667,36.53916667,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,197,10,703
+911,84,1749,Kenya Lake System in the Great Rift Valley,2011,36.24,-0.4425,Natural,N,Kenya,Africa,2712.0,1750000.0,213,7,96,82,6,183
+912,82,1785,Residence of Bukovinian and Dalmatian Metropolitans,2011,25.92472222,48.29666667,Cultural,C,Ukraine,Europe and North America,10333.0,21415000.0,869,4,528,452,3,724
+913,82,1762,"Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)",2011,55.80638889,24.06777778,Cultural,C,United Arab Emirates,Arab States,65307.0,24671000.0,869,1,86,70,1,724
+914,82,1778,Fagus Factory in Alfeld,2011,9.811111111,51.98361111,Cultural,C,Germany,Europe and North America,43189.0,28374000.0,869,39,528,452,31,724
+915,82,1847,"Fort Jesus, Mombasa",2011,39.67944444,-4.062777778,Cultural,C,Kenya,Africa,2712.0,1750000.0,869,7,96,82,6,724
+916,82,1760,Archaeological Sites of the Island of Meroe,2011,33.71666667,16.93333333,Cultural,C,Sudan,Arab States,3669.0,536000.0,869,3,86,70,2,724
+917,82,1846,Konso Cultural Landscape,2011,37.4,5.3,Cultural,C,Ethiopia,Africa,1199.0,523000.0,869,9,96,82,9,724
+918,82,1848,"The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape",2011,3.4730555560000003,44.22027778,Cultural,C,France,Europe and North America,36691.0,80499000.0,869,41,528,452,34,724
+919,82,1765,West Lake Cultural Landscape of Hangzhou,2011,120.14083329999998,30.2375,Cultural,C,China,Asia and the Pacific,10221.0,57581000.0,869,54,266,204,41,724
+920,82,1781,Cultural Landscape of the Serra de Tramuntana,2011,2.694722222,39.73083333,Cultural,C,Spain,Europe and North America,31600.0,56177000.0,869,44,528,452,41,724
+921,84,1770,Ogasawara Islands,2011,142.09972219999997,27.71833333,Natural,N,Japan,Asia and the Pacific,34979.0,6219000.0,213,22,266,204,16,183
+922,83,1758,Wadi Rum Protected Area,2011,35.43388889,29.63972222,Mixed,C/N,Jordan,Arab States,11615.0,3960000.0,39,5,86,70,4,29
+923,82,1787,Coffee Cultural Landscape of Colombia,2011,-75.68166667,5.471666667,Cultural,C,Colombia,Latin America and the Caribbean,11788.0,2042000.0,869,8,142,127,7,724
+924,82,1761,Ancient Villages of Northern Syria,2011,36.84416667,36.33416667,Cultural,C,Syrian Arab Republic,Arab States,54184.0,5070000.0,869,6,86,70,6,724
+925,82,1754,Saloum Delta,2011,-16.49861111,13.83527778,Cultural,C,Senegal,Africa,2123.0,968000.0,869,6,96,82,5,724
+926,82,1775,Citadel of the Ho Dynasty,2011,105.6047222,20.07805556,Cultural,C,Viet Nam,Asia and the Pacific,3557.0,90500.0,869,8,266,204,7,724
+927,82,1771,"Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",2011,141.1077778,39.00111111,Cultural,C,Japan,Asia and the Pacific,34979.0,6219000.0,869,22,266,204,16,724
+928,82,1789,León Cathedral,2011,-86.87805556,12.435,Cultural,C,Nicaragua,Latin America and the Caribbean,4189.0,1060000.0,869,2,142,127,2,724
+929,84,1763,Ningaloo Coast,2011,113.8102778,-22.5625,Natural,N,Australia,Asia and the Pacific,46132.0,5771000.0,213,20,266,204,19,183
+930,82,1773,Petroglyphic Complexes of the Mongolian Altai,2011,88.39527778,49.33388889,Cultural,C,Mongolia,Asia and the Pacific,9484.0,460000.0,869,3,266,204,2,724
+931,82,1784,Selimiye Mosque and its Social Complex,2011,26.55944444,41.67777778,Cultural,C,Turkey,Europe and North America,17919.0,34654000.0,869,18,528,452,10,724
+932,82,1786,Historic Bridgetown and its Garrison,2011,-59.61388889,13.09666667,Cultural,C,Barbados,Latin America and the Caribbean,11870.0,568000.0,869,1,142,127,1,724
+933,82,1780,Longobards in Italy. Places of the Power (568-774 A.D.),2011,13.43305556,46.09416667,Cultural,C,Italy,Europe and North America,35151.0,46119000.0,869,49,528,452,43,724
+934,82,1768,The Persian Garden,2011,53.16666667,30.16666667,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,204,13,724
+935,82,1782,Prehistoric Pile Dwellings around the Alps,2011,8.2075,47.27833333,Cultural,C,"Austria,France,Germany,Italy,Slovenia,Switzerland",Europe and North America,0.0,0.0,869,1,528,452,1,724
+936,85,1829,Neolithic Site of Çatalhöyük,2012,32.82805556,37.66666667,Cultural,C,Turkey,Europe and North America,18787.0,35698000.0,869,18,528,462,11,744
+937,85,1814,Decorated Farmhouses of Hälsingland,2012,16.19583333,61.70722222,Cultural,C,Sweden,Europe and North America,42579.0,5146000.0,869,13,528,462,13,744
+938,85,1818,Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves,2012,34.96527778,32.67,Cultural,C,Israel,Europe and North America,29852.0,2886000.0,869,9,528,462,7,744
+939,85,1919,Historic Town of Grand-Bassam,2012,3.736388889,5.195833333,Cultural,C,Côte d'Ivoire,Africa,21004.0,2223000.0,869,3,96,86,3,744
+940,85,1820,Archaeological Heritage of the Lenggong Valley,2012,100.9723278,5.067908333,Cultural,C,Malaysia,Asia and the Pacific,20203.0,25033000.0,869,4,266,212,4,744
+941,85,1776,Nord-Pas de Calais Mining Basin,2012,3.546111111,50.4625,Cultural,C,France,Europe and North America,36773.0,81980000.0,869,41,528,462,35,744
+942,85,1804,Site of Xanadu,2012,116.1851278,42.358,Cultural,C,China,Asia and the Pacific,10654.0,57725000.0,869,54,266,212,43,744
+943,85,1956,Garrison Border Town of Elvas and its Fortifications,2012,-7.163322222000001,38.88061944,Cultural,C,Portugal,Europe and North America,25743.0,7503000.0,869,16,528,462,13,744
+944,87,1803,Chengjiang Fossil Site,2012,102.9772222,24.66888889,Natural,N,China,Asia and the Pacific,10654.0,57725000.0,213,54,266,212,43,188
+945,86,1801,Rock Islands Southern Lagoon,2012,134.3525,7.246925,Mixed,C/N,Palau,Asia and the Pacific,2554.0,120000.0,39,1,266,212,1,30
+946,87,1824,Lakes of Ounianga,2012,20.50555556,19.055,Natural,N,Chad,Africa,1806.0,86000.0,213,2,96,86,1,188
+947,85,1922,"Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem",2012,35.2075,31.70435278,Cultural,C,Palestine,Arab States,5036.0,490000.0,869,3,86,73,1,744
+948,85,1837,Major Mining Sites of Wallonia,2012,3.838333333,50.43527778,Cultural,C,Belgium,Europe and North America,38907.0,7560000.0,869,10,528,462,10,744
+949,85,1836,Cultural Landscape of Bali Province: the <em>Subak</em> System as a Manifestation of the <em>Tri Hita Karana</em> Philosophy,2012,115.4027778,-8.259166667,Cultural,C,Indonesia,Asia and the Pacific,9144.0,8044000.0,869,9,266,212,8,744
+950,85,1832,"Bassari Country: Bassari, Fula and Bedik Cultural Landscapes",2012,-12.84583333,12.59333333,Cultural,C,Senegal,Africa,2153.0,962000.0,869,6,96,86,6,744
+951,85,1841,Heritage of Mercury. Almadén and Idrija,2012,-4.838888889,38.77527778,Cultural,C,"Slovenia,Spain",Europe and North America,0.0,0.0,869,1,528,462,1,744
+952,85,1825,"Rabat, Modern Capital and Historic City: a Shared Heritage",2012,-6.822777778,34.02416667,Cultural,C,Morocco,Arab States,7323.0,9375000.0,869,9,86,73,9,744
+953,85,1822,Gonbad-e Qābus,2012,55.169,37.25802778,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,212,15,744
+954,85,1821,Masjed-e Jāmé of Isfahan  ,2012,51.68527778,32.66972222,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,212,15,744
+955,85,1828,Landscape of Grand Pré,2012,-64.30722222,45.11833333,Cultural,C,Canada,Europe and North America,41615.0,16344000.0,869,18,528,462,14,744
+956,87,2116,Lena Pillars Nature Park,2012,127.0,60.66666667,Natural,N,Russian Federation,Europe and North America,7091.0,5224000.0,213,25,528,462,22,188
+957,85,1859,"Pearling, Testimony of an Island Economy",2012,50.61351,26.24128,Cultural,C,Bahrain,Arab States,40384.0,8062000.0,869,3,86,73,2,744
+958,87,1920,Sangha Trinational,2012,16.55416667,2.609444444,Natural,N,"Cameroon,Central African Republic,Congo",Africa,0.0,0.0,213,1,96,86,1,188
+959,85,1799,Margravial Opera House Bayreuth,2012,11.57861111,49.94444444,Cultural,C,Germany,Europe and North America,43198.0,30411000.0,869,39,528,462,32,744
+960,87,1921,Western Ghats,2012,77.24972222,8.529722222,Natural,N,India,Asia and the Pacific,4974.0,6578000.0,213,37,266,212,29,188
+961,85,1843,Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea,2012,-43.29138889,-22.94777778,Cultural,C,Brazil,Latin America and the Caribbean,14702.0,5677000.0,869,21,142,128,18,744
+962,88,1891,Medici Villas and Gardens in Tuscany,2013,11.30416667,43.85777778,Cultural,C,Italy,Europe and North America,34482.0,47704000.0,869,49,528,469,45,758
+963,89,1876,Xinjiang Tianshan,2013,80.35416667,41.96833333,Natural,N,China,Asia and the Pacific,11088.0,55686000.0,213,54,266,220,45,193
+964,88,1878,Historic Monuments and Sites in Kaesong,2013,126.5080556,37.98166667,Cultural,C,Democratic People's Republic of Korea,Asia and the Pacific,21004.0,2223000.0,869,2,266,220,2,758
+965,88,1877,Cultural Landscape of Honghe Hani Rice Terraces ,2013,102.7799806,23.09327778,Cultural,C,China,Asia and the Pacific,11088.0,55686000.0,869,54,266,220,45,758
+966,89,1907,Tajik National Park (Mountains of the Pamirs),2013,72.30527778,38.765,Natural,N,Tajikistan,Asia and the Pacific,3297.0,208000.0,213,2,266,220,2,193
+967,88,1947,Hill Forts of Rajasthan,2013,74.64611111,24.88333333,Cultural,C,India,Asia and the Pacific,5052.0,6968000.0,869,37,266,220,30,758
+968,89,1858,El Pinacate and Gran Desierto de Altar Biosphere Reserve,2013,-113.9166667,32.0,Natural,N,Mexico,Latin America and the Caribbean,15357.0,24151000.0,213,35,142,129,32,193
+969,88,1905,Historic Centre of Agadez,2013,7.991388888999999,16.97361111,Cultural,C,Niger,Africa,859.0,123000.0,869,2,96,88,2,758
+970,89,1915,Namib Sand Sea,2013,15.40777778,-24.88527778,Natural,N,Namibia,Africa,9512.0,1176000.0,213,2,96,88,2,193
+971,88,1886,Levuka Historical Port Town,2013,178.8345333,-17.68337778,Cultural,C,Fiji,Asia and the Pacific,1199.0,659000.0,869,1,266,220,1,758
+972,89,1910,Mount Etna,2013,14.99666667,37.75611111,Natural,N,Italy,Europe and North America,34482.0,47704000.0,213,49,528,469,45,193
+973,88,1888,Golestan Palace,2013,51.42051111,35.68036667,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,220,16,758
+974,88,1899,University of Coimbra – Alta and Sofia,2013,-8.425775,40.20781111,Cultural,C,Portugal,Europe and North America,25862.0,8097000.0,869,16,528,469,14,758
+975,88,1894,Wooden <em>Tserkvas</em> of the Carpathian Region in Poland and Ukraine,2013,21.03222222,49.53388889,Cultural,C,"Poland,Ukraine",Europe and North America,0.0,0.0,869,1,528,469,1,758
+976,88,1874,Red Bay Basque Whaling Station,2013,-56.42952222,51.726925,Cultural,C,Canada,Europe and North America,41816.0,16059000.0,869,18,528,469,15,758
+977,88,1895,Ancient City of Tauric Chersonese and its Chora,2013,33.49138889,44.61083333,Cultural,C,Ukraine,Europe and North America,10993.0,24671000.0,869,4,528,469,4,758
+978,88,1883,"Fujisan, sacred place and source of artistic inspiration",2013,138.7275,35.36083333,Cultural,C,Japan,Asia and the Pacific,35494.0,10364000.0,869,22,266,220,17,758
+979,88,1875,Bergpark Wilhelmshöhe,2013,9.393055556,51.31583333,Cultural,C,Germany,Europe and North America,44560.0,31545000.0,869,39,528,469,33,758
+980,88,1948,Al Zubarah Archaeological Site,2013,51.02972222,25.97805556,Cultural,C,Qatar,Arab States,148807.0,2611900.0,869,1,86,74,1,758
+981,90,1984,Van Nellefabriek,2014,4.4183333330000005,51.92333333,Cultural,C,Netherlands,Europe and North America,47747.0,13925000.0,869,9,528,479,9,779
+982,90,1997,Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís,2014,-83.4775,8.911388889,Cultural,C,Costa Rica,Latin America and the Caribbean,13117.0,2527000.0,869,3,142,131,3,779
+983,90,1987,Pyu Ancient Cities,2014,95.81861111,22.47,Cultural,C,Myanmar,Asia and the Pacific,5493.0,3081000.0,869,2,266,230,1,779
+984,91,2179,Trang An Landscape Complex,2014,105.8963889,20.25666667,Mixed,C/N,Viet Nam,Asia and the Pacific,3557.0,90500.0,39,8,266,230,8,31
+985,90,2181,The Grand Canal,2014,112.46833329999998,34.69388889,Cultural,C,China,Asia and the Pacific,11708.0,55622000.0,869,54,266,230,46,779
+986,90,2003,"Qhapaq Ñan, Andean Road System",2014,-69.59166667,-18.25,Cultural,C,"Argentina,Bolivia (Plurinational State of),Chile,Colombia,Ecuador,Peru",Latin America and the Caribbean,0.0,0.0,869,1,142,131,1,779
+987,92,2010,Mount Hamiguitan Range Wildlife Sanctuary,2014,126.1734306,6.717169444,Natural,N,Philippines,Asia and the Pacific,6592.0,4833000.0,213,6,266,230,6,197
+988,92,1976,Okavango Delta,2014,22.9,-19.28333333,Natural,N,Botswana,Africa,14900.0,1966000.0,213,2,96,89,2,197
+989,90,1995,Bursa and Cumalıkızık: the Birth of the Ottoman Empire,2014,29.06233611,40.18473056,Cultural,C,Turkey,Europe and North America,20222.0,39811000.0,869,18,528,479,13,779
+990,90,2001,Pergamon and its Multi-Layered Cultural Landscape,2014,27.18,39.12583333,Cultural,C,Turkey,Europe and North America,20222.0,39811000.0,869,18,528,479,13,779
+991,90,1978,Monumental Earthworks of Poverty Point,2014,-91.40638889,32.63694444,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,479,20,779
+992,90,1992,Tomioka Silk Mill and Related Sites,2014,138.8877778,36.25527778,Cultural,C,Japan,Asia and the Pacific,35550.0,13413000.0,869,22,266,230,18,779
+993,90,1971,Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato,2014,7.963611111,44.60861111,Cultural,C,Italy,Europe and North America,34371.0,48576000.0,869,49,528,479,46,779
+994,90,1982,Namhansanseong,2014,127.1811111,37.47888889,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,230,11,779
+995,90,1985,Silk Roads: the Routes Network of Chang'an-Tianshan Corridor,2014,108.8572222,34.30444444,Cultural,C,"China,Kazakhstan,Kyrgyzstan",Asia and the Pacific,0.0,0.0,869,1,266,230,1,779
+996,90,2008,"Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat",2014,72.10166667,23.85888889,Cultural,C,India,Asia and the Pacific,5312.0,13107000.0,869,37,266,230,32,779
+997,92,1973,Stevns Klint,2014,12.42333333,55.26722222,Natural,N,Denmark,Europe and North America,44542.0,10267000.0,213,9,528,479,5,197
+998,90,1969,Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves,2014,34.89555556,31.6,Cultural,C,Israel,Europe and North America,31454.0,2927000.0,869,9,528,479,8,779
+999,90,2012,"Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir",2014,35.13055556,31.71972222,Cultural,C,Palestine,Arab States,4365.0,556000.0,869,3,86,77,2,779
+1000,90,1990,Carolingian Westwork and Civitas Corvey,2014,9.41025,51.77827778,Cultural,C,Germany,Europe and North America,46038.0,32999000.0,869,39,528,479,34,779
+1001,90,1980,Erbil Citadel,2014,44.00916667,36.19111111,Cultural,C,Iraq,Arab States,12889.0,8044000.0,869,6,86,77,4,779
+1002,92,2011,Great Himalayan National Park Conservation Area,2014,77.58333333,31.83333333,Natural,N,India,Asia and the Pacific,5312.0,13107000.0,213,37,266,230,32,197
+1003,90,1968,"Historic Jeddah, the Gate to Makkah",2014,39.1875,21.48388889,Cultural,C,Saudi Arabia,Arab States,46824.0,18260000.0,869,5,86,77,3,779
+1004,90,1974,"Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche",2014,4.416111111,44.3875,Cultural,C,France,Europe and North America,38134.0,83701000.0,869,41,528,479,36,779
+1005,90,2009,Bolgar Historical and Archaeological Complex,2014,49.05638889,54.97888889,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,479,23,779
+1006,90,2000,Shahr-i Sokhta,2014,61.32777778,30.59388889,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,230,17,779
+1007,94,2015,Blue and John Crow Mountains ,2015,-76.57111111,18.0775,Mixed,C/N,Jamaica,Latin America and the Caribbean,7115.0,2123000.0,39,1,142,134,1,32
+1008,93,2038,Baekje Historic Areas,2015,127.1272222,36.46194444,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,237,12,802
+1009,93,2014,Ephesus,2015,27.35944444,37.92916667,Cultural,C,Turkey,Europe and North America,20808.0,39478000.0,869,18,528,491,15,802
+1010,93,2016,"The Climats, terroirs of Burgundy",2015,4.864444444,47.05805556,Cultural,C,France,Europe and North America,38448.0,84452000.0,869,41,528,491,38,802
+1011,93,2028,Speicherstadt and Kontorhaus District with Chilehaus,2015,9.999444444,53.54555556,Cultural,C,Germany,Europe and North America,46426.0,34970000.0,869,39,528,491,35,802
+1012,93,2048,Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale,2015,13.35305556,38.11083333,Cultural,C,Italy,Europe and North America,34673.0,50732000.0,869,49,528,491,47,802
+1013,93,2047,Rjukan-Notodden Industrial Heritage Site,2015,8.593611111,59.87861111,Cultural,C,Norway,Europe and North America,76305.0,5361000.0,869,7,528,491,7,802
+1014,93,2073,Cultural Landscape of Maymand,2015,55.37555556,30.16805556,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,237,19,802
+1015,93,2046,The Forth Bridge,2015,-3.388888889,56.00111111,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,491,28,802
+1016,93,2026,"Champagne Hillsides, Houses and Cellars",2015,3.946111111,49.0775,Cultural,C,France,Europe and North America,38448.0,84452000.0,869,41,528,491,38,802
+1017,93,2049,Diyarbakır Fortress and Hevsel Gardens Cultural Landscape,2015,40.23930833,37.9031,Cultural,C,Turkey,Europe and North America,20808.0,39478000.0,869,18,528,491,15,802
+1018,93,2029,"Christiansfeld, a Moravian Church Settlement",2015,9.481388889,55.35555556,Cultural,C,Denmark,Europe and North America,44939.0,10424000.0,869,9,528,491,7,802
+1019,93,2019,Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas),2015,35.55277778,31.83722222,Cultural,C,Jordan,Arab States,11738.0,3761000.0,869,5,86,79,5,802
+1020,93,2024,Aqueduct of Padre Tembleque Hydraulic System,2015,-98.66256667,19.83527778,Cultural,C,Mexico,Latin America and the Caribbean,15766.0,32093000.0,869,35,142,134,33,802
+1021,93,2044,Singapore Botanic Gardens,2015,103.8161111,1.315277778,Cultural,C,Singapore,Asia and the Pacific,67110.0,12051000.0,869,1,266,237,1,802
+1022,93,2030,The par force hunting landscape in North Zealand,2015,12.35777778,55.91361111,Cultural,C,Denmark,Europe and North America,44939.0,10424000.0,869,9,528,491,7,802
+1023,93,2018,Great Burkhan Khaldun Mountain and its surrounding sacred landscape,2015,109.0093278,48.76197778,Cultural,C,Mongolia,Asia and the Pacific,11139.0,386000.0,869,3,266,237,3,802
+1024,93,2025,Fray Bentos Industrial Landscape,2015,-58.33166667,-33.11777778,Cultural,C,Uruguay,Latin America and the Caribbean,19668.0,2773000.0,869,2,142,134,2,802
+1025,93,2027,San Antonio Missions,2015,-98.46,29.32805556,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,491,21,802
+1026,93,1999,Susa,2015,48.25611111,32.18944444,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,237,19,802
+1027,93,2033,Rock Art in the Hail Region of Saudi Arabia,2015,40.91305556,28.01055556,Cultural,C,Saudi Arabia,Arab States,47737.0,17994000.0,869,5,86,79,4,802
+1028,93,2045,"Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining",2015,131.4122222,34.43055556,Cultural,C,Japan,Asia and the Pacific,36030.0,19737000.0,869,22,266,237,19,802
+1029,93,2035,Tusi Sites,2015,109.96694440000002,28.99861111,Cultural,C,China,Asia and the Pacific,12002.0,56886000.0,869,54,266,237,47,802
+1030,93,2032,Necropolis of Bet She’arim: A Landmark of Jewish Renewal,2015,35.12694444,32.70222222,Cultural,C,Israel,Europe and North America,31729.0,2799000.0,869,9,528,491,9,802
+1031,95,2094,Stećci Medieval Tombstone Graveyards,2016,17.92405278,43.09221389,Cultural,C,"Bosnia and Herzegovina,Croatia,Serbia,Montenegro",Europe and North America,0.0,0.0,869,1,528,497,1,814
+1032,95,2085,"The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement",2016,6.829336111,46.46841389,Cultural,C,"Belgium,France,Germany,Switzerland,India,Japan,Argentina",Other,0.0,0.0,869,1,3,2,1,814
+1033,95,2089,"Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar",2016,85.44388889,25.13666667,Cultural,C,India,Asia and the Pacific,5961.0,14569000.0,869,37,266,245,34,814
+1034,96,2105,Khangchendzonga National Park,2016,88.37722222,27.76472222,Mixed,C/N,India,Asia and the Pacific,5961.0,14569000.0,39,37,266,245,34,35
+1035,95,2093,Nan Madol: Ceremonial Centre of Eastern Micronesia,2016,158.33083330000005,6.839722222000001,Cultural,C,Micronesia (Federated States of),Asia and the Pacific,15803.0,35079000.0,869,1,266,245,1,814
+1036,95,2086,Antigua Naval Dockyard and Related Archaeological Sites,2016,-61.76166667,17.00694444,Cultural,C,Antigua and Barbuda,Latin America and the Caribbean,7893.0,265000.0,869,1,142,137,1,814
+1037,95,2109,Archaeological Site of Philippi,2016,24.28527778,41.01472222,Cultural,C,Greece,Europe and North America,24689.0,24799000.0,869,18,528,497,18,814
+1038,97,2083,Mistaken Point,2016,-53.21111111,46.635,Natural,N,Canada,Europe and North America,42969.0,19824000.0,213,18,528,497,16,203
+1039,96,2091,Ennedi Massif: Natural and Cultural Landscape,2016,21.86277778,17.04166667,Mixed,C/N,Chad,Africa,2192.0,86000.0,39,2,96,90,2,35
+1040,97,2079,Western Tien-Shan,2016,0.0,0.0,Natural,N,"Kazakhstan,Kyrgyzstan,Uzbekistan",Asia and the Pacific,0.0,0.0,213,1,266,245,1,203
+1041,95,2077,Pampulha Modern Ensemble,2016,-43.97361111,-19.85194444,Cultural,C,Brazil,Latin America and the Caribbean,13479.0,6578000.0,869,21,142,137,19,814
+1042,95,2087,Gorham's Cave Complex,2016,-5.3420611110000005,36.12266944,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,497,29,814
+1043,97,2102,Archipiélago de Revillagigedo,2016,-110.9752778,18.78805556,Natural,N,Mexico,Latin America and the Caribbean,15803.0,35079000.0,213,35,142,137,34,203
+1044,95,2088,Antequera Dolmens Site,2016,-4.544444444,37.025,Cultural,C,Spain,Europe and North America,31556.0,75315000.0,869,44,528,497,42,814
+1045,96,2042,The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities,2016,47.65777778,31.56222222,Mixed,C/N,Iraq,Arab States,13976.0,8044000.0,39,6,86,81,5,35
+1046,95,2100,Zuojiang Huashan Rock Art Cultural Landscape,2016,107.0230556,22.25555556,Cultural,C,China,Asia and the Pacific,12320.0,59270000.0,869,54,266,245,49,814
+1047,97,2101,Hubei Shennongjia,2016,110.2438889,31.46972222,Natural,N,China,Asia and the Pacific,12320.0,59270000.0,213,54,266,245,49,203
+1048,97,2177,Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park,2016,37.44305556,19.73611111,Natural,N,Sudan,Arab States,3750.0,536000.0,213,3,86,81,3,203
+1049,97,2095,Lut Desert,2016,58.83888889,30.21611111,Natural,N,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,213,24,266,245,21,203
+1050,95,2096,The Persian Qanat,2016,58.65444444,34.29,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,245,21,814
+1051,95,2110,Archaeological Site of Ani,2016,43.56666667,40.5,Cultural,C,Turkey,Europe and North America,18784.0,30289000.0,869,18,528,497,16,814
+1052,98,2128,"Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo",2017,14.24972222,-6.2688888889999985,Cultural,C,Angola,Africa,7893.0,2791000.0,869,1,96,93,1,832
+1053,98,2162,Venetian Works of Defence between the 16th and 17th Centuries: <em>Stato da Terra</em> – Western <em>Stato da Mar</em>,2017,9.663611111,45.70333333,Cultural,C,"Croatia,Italy,Montenegro",Europe and North America,0.0,0.0,869,1,528,505,1,832
+1054,98,2131,Asmara: A Modernist African City,2017,38.93583333,15.33527778,Cultural,C,Eritrea,Africa,3677.0,8244000.0,869,1,96,93,1,832
+1055,99,2141,Qinghai Hoh Xil,2017,92.43916667,35.38027778,Natural,N,China,Asia and the Pacific,12320.0,59270000.0,213,54,266,251,51,206
+1056,98,2142,"Kulangsu, a Historic International Settlement",2017,118.06194440000002,24.4475,Cultural,C,China,Asia and the Pacific,12320.0,59270000.0,869,54,266,251,51,832
+1057,98,2149,Sacred Island of Okinoshima and Associated Sites in the Munakata Region ,2017,130.10555559999997,34.245,Cultural,C,Japan,Asia and the Pacific,36030.0,19737000.0,869,22,266,251,20,832
+1058,98,2140,"Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura",2017,105.0430556,12.8725,Cultural,C,Cambodia,Asia and the Pacific,2389.0,2125000.0,869,3,266,251,3,832
+1059,99,2150,Landscapes of Dauria,2017,115.42544440000002,49.93022222,Natural,N,"Russian Federation,Mongolia",Other,0.0,0.0,213,2,3,3,2,206
+1060,98,2171,The English Lake District,2017,-3.082416667,54.47661111,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,505,30,832
+1061,98,2170,Aphrodisias,2017,28.72361111,37.70833333,Cultural,C,Turkey,Europe and North America,18784.0,30289000.0,869,18,528,505,17,832
+1062,98,2148,Historic City of Yazd,2017,54.36916667,31.90138889,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,251,22,832
+1063,98,2133,ǂKhomani Cultural Landscape,2017,20.37458333,-25.68761111,Cultural,C,South Africa,Africa,11347.0,9091000.0,869,9,96,93,8,832
+1064,98,2155,Taputapuātea,2017,-151.3723778,-16.8414,Cultural,C,France,Europe and North America,38448.0,84452000.0,869,41,528,505,39,832
+1065,98,2165,Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System,2017,18.85122778,50.44269722,Cultural,C,Poland,Europe and North America,15415.0,15670000.0,869,13,528,505,12,832
+1066,98,2168,Assumption Cathedral and Monastery of the town-island of Sviyazhsk,2017,48.65277778,55.77027778,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,505,24,832
+1067,98,2154,Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap,2017,-45.59805556,61.16444444,Cultural,C,Denmark,Europe and North America,44939.0,10424000.0,869,9,528,505,8,832
+1068,99,2172,Los Alerces National Park,2017,-71.8728,-42.8528,Natural,N,Argentina,Latin America and the Caribbean,12636.0,2995000.0,213,8,142,139,8,206
+1069,98,2230,Hebron/Al-Khalil Old Town,2017,35.10888889,31.52416667,Cultural,C,Palestine,Arab States,4365.0,556000.0,869,3,86,82,3,832
+1070,98,2144,Historic City of Ahmadabad,2017,72.58805556,23.02638889,Cultural,C,India,Asia and the Pacific,5961.0,14569000.0,869,37,266,251,35,832
+1071,98,2157,Caves and Ice Age Art in the Swabian Jura,2017,9.765555556,48.38777778,Cultural,C,Germany,Europe and North America,46426.0,34970000.0,869,39,528,505,36,832
+1072,98,2173,Valongo Wharf Archaeological Site,2017,-43.18739444,-22.89711111,Cultural,C,Brazil,Latin America and the Caribbean,13479.0,6578000.0,869,21,142,139,20,832
+1073,101,2287,Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica,2018,-97.18715278,17.98996111,Mixed,C/N,Mexico,Latin America and the Caribbean,15803.0,35079000.0,39,35,142,141,35,38
+1074,102,2224,Fanjingshan,2018,108.68,27.89555556,Natural,N,China,Asia and the Pacific,12320.0,59270000.0,213,54,266,256,52,209
+1075,102,2240,Barberton Makhonjwa Mountains,2018,31.01388889,-25.97388889,Natural,N,South Africa,Africa,11347.0,9091000.0,213,9,96,95,9,209
+1076,100,2217,Ancient City of Qalhat,2018,59.37811111,22.69522222,Cultural,C,Oman,Arab States,39058.0,1066000.0,869,5,86,84,5,845
+1077,100,2041,Victorian Gothic and Art Deco Ensembles of Mumbai,2018,72.83008333,18.92980556,Cultural,C,India,Asia and the Pacific,5961.0,14569000.0,869,37,266,256,36,845
+1078,101,2213,Chiribiquete National Park – “The Maloca of the Jaguar”,2018,-72.79722222,0.525277778,Mixed,C/N,Colombia,Latin America and the Caribbean,11788.0,2042000.0,39,8,142,141,8,38
+1079,100,2227,"Sansa, Buddhist Mountain Monasteries in Korea",2018,127.8333333,36.54194444,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,256,13,845
+1080,100,2228,"Al-Ahsa Oasis, an Evolving Cultural Landscape",2018,49.63056944,25.40216667,Cultural,C,Saudi Arabia,Arab States,47737.0,17994000.0,869,5,86,84,5,845
+1081,100,2216,Hidden Christian Sites in the Nagasaki Region,2018,128.9038889,32.80222222,Cultural,C,Japan,Asia and the Pacific,36030.0,19737000.0,869,22,266,256,21,845
+1082,100,2237,Göbekli Tepe,2018,38.92236389,37.22324194,Cultural,C,Turkey,Europe and North America,18784.0,30289000.0,869,18,528,513,18,845
+1083,100,2221,Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea,2018,-51.43320556,67.06393056,Cultural,C,Denmark,Europe and North America,44939.0,10424000.0,869,9,528,513,9,845
+1084,100,2225,Caliphate City of Medina Azahara,2018,-4.867694444,37.88588889,Cultural,C,Spain,Europe and North America,31556.0,75315000.0,869,44,528,513,43,845
+1085,102,2257,Chaîne des Puys - Limagne fault tectonic arena,2018,2.965111111,45.77938889,Natural,N,France,Europe and North America,38448.0,84452000.0,213,41,528,513,40,209
+1086,101,2214,Pimachiowin Aki,2018,-95.41127778,51.82641667,Mixed,C/N,Canada,Europe and North America,42969.0,19824000.0,39,18,528,513,17,38
+1087,100,2233,Sassanid Archaeological Landscape of Fars Region,2018,51.57045,29.77748056,Cultural,C,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,869,24,266,256,23,845
+1088,100,2312,Thimlich Ohinga Archaeological Site,2018,34.326107,-0.8913380559999999,Cultural,C,Kenya,Africa,2712.0,1750000.0,869,7,96,95,7,845
+1089,100,2163,"Ivrea, industrial city of the 20th century",2018,7.869166667000001,45.4575,Cultural,C,Italy,Europe and North America,34673.0,50732000.0,869,49,528,513,48,845
+1090,100,2206,Archaeological Border complex of Hedeby and the Danevirke,2018,9.454111111,54.46194444,Cultural,C,Germany,Europe and North America,46426.0,34970000.0,869,39,528,513,38,845
+1091,100,2288,Naumburg Cathedral,2018,11.804,51.15480556,Cultural,C,Germany,Europe and North America,46426.0,34970000.0,869,39,528,513,38,845
+1092,103,2283,Bagan,2019,94.88444444,21.14888889,Cultural,C,Myanmar,Asia and the Pacific,5493.0,3081000.0,869,2,266,266,2,869
+1093,103,2263,Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape,2019,-15.66119444,28.04438889,Cultural,C,Spain,Europe and North America,31556.0,75315000.0,869,44,528,528,44,869
+1094,105,2301,Vatnajökull National Park - dynamic nature of fire and ice,2019,-16.88154044,64.577363,Natural,N,Iceland,Europe and North America,39947.0,502000.0,213,3,528,528,3,213
+1095,103,2311,Ombilin Coal Mining Heritage of Sawahlunto,2019,100.7378833,-0.7666255559999999,Cultural,C,Indonesia,Asia and the Pacific,9144.0,8044000.0,869,9,266,266,9,869
+1096,103,2295,Writing-on-Stone / Áísínai’pi,2019,-111.6333333,49.075,Cultural,C,Canada,Europe and North America,42969.0,19824000.0,869,18,528,528,18,869
+1097,103,2281,Landscape for Breeding and Training of Ceremonial Carriage Horses at Kladruby nad Labem,2019,15.48425833,50.05665,Cultural,C,Czechia,Europe and North America,21004.0,2223000.0,869,13,528,528,13,869
+1098,103,2309,"Jaipur City, Rajasthan",2019,75.78722222,26.90786111,Cultural,C,India,Asia and the Pacific,5961.0,14569000.0,869,37,266,266,37,869
+1099,103,2282,Megalithic Jar Sites in Xiengkhuang – Plain of Jars,2019,103.1522222,19.43105556,Cultural,C,Lao People's Democratic Republic,Asia and the Pacific,3384.0,1394000.0,869,3,266,266,3,869
+1100,105,2300,French Austral Lands and Seas,2019,69.35280556,-49.38036111,Natural,N,France,Europe and North America,38448.0,84452000.0,213,41,528,528,41,213
+1101,103,2278,"Seowon, Korean Neo-Confucian Academies",2019,128.8434278,36.72729722,Cultural,C,Republic of Korea,Asia and the Pacific,148807.0,2611900.0,869,14,266,266,14,869
+1102,103,2284,Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan,2019,135.6094444,34.56222222,Cultural,C,Japan,Asia and the Pacific,36030.0,19737000.0,869,22,266,266,22,869
+1103,103,2276,"Royal Building of <i>Mafra</i> – Palace, Basilica, Convent, <i>Cerco</i> Garden and Hunting Park (<i>Tapada</i>)",2019,-9.325527778,38.93716667,Cultural,C,Portugal,Europe and North America,25862.0,8097000.0,869,16,528,528,16,869
+1104,103,2267,Erzgebirge/Krušnohoří Mining Region,2019,12.83734444,50.40652778,Cultural,C,"Czechia,Germany",Europe and North America,0.0,0.0,869,1,528,528,1,869
+1105,103,2293,Babylon,2019,44.42083333,32.54196944,Cultural,C,Iraq,Arab States,13976.0,8044000.0,869,6,86,86,6,869
+1106,103,2327,Le Colline del Prosecco di Conegliano e Valdobbiadene,2019,12.22611111,45.95302778,Cultural,C,Italy,Europe and North America,34673.0,50732000.0,869,49,528,528,49,869
+1107,103,2266,Water Management System of Augsburg,2019,10.902,48.36547222,Cultural,C,Germany,Europe and North America,46426.0,34970000.0,869,39,528,528,39,869
+1108,103,2291,Dilmun Burial Mounds,2019,50.51277778,26.14972222,Cultural,C,Bahrain,Arab States,40384.0,8062000.0,869,3,86,86,3,869
+1109,103,2277,Archaeological Ruins of Liangzhu City,2019,119.9908333,30.39555556,Cultural,C,China,Asia and the Pacific,12320.0,59270000.0,869,54,266,266,54,869
+1110,103,2262,Budj Bim Cultural Landscape,2019,141.8852778,-38.08111111,Cultural,C,Australia,Asia and the Pacific,46132.0,5771000.0,869,20,266,266,20,869
+1111,103,2285,Jodrell Bank Observatory,2019,-2.303861111,53.23391667,Cultural,C,United Kingdom of Great Britain and Northern Ireland,Europe and North America,65307.0,24671000.0,869,31,528,528,31,869
+1112,105,2273,Hyrcanian Forests,2019,55.72427778,37.42147222,Natural,N,Iran (Islamic Republic of),Asia and the Pacific,9144.0,8044000.0,213,24,266,266,24,213
+1113,103,2269,Churches of the Pskov School of Architecture,2019,28.32855556,57.80719444,Cultural,C,Russian Federation,Europe and North America,7091.0,5224000.0,869,25,528,528,25,869
+1114,103,2333,Historic Centre of Sheki with the Khan’s Palace,2019,47.1875,41.20333333,Cultural,C,Azerbaijan,Europe and North America,9354.0,732000.0,869,3,528,528,3,869
+1115,103,2322,The 20th-Century Architecture of Frank Lloyd Wright,2019,-79.46647556,39.90557083,Cultural,C,United States of America,Europe and North America,65307.0,24671000.0,869,22,528,528,22,869
+1116,103,2290,Ancient ferrous metallurgy sites of Burkina Faso,2019,-3.3289861110000003,12.58775833,Cultural,C,Burkina Faso,Africa,1265.0,269000.0,869,2,96,96,2,869
+1117,104,2264,Paraty and Ilha Grande – Culture and Biodiversity,2019,-44.68536944,-23.01860556,Mixed,C/N,Brazil,Latin America and the Caribbean,13479.0,6578000.0,39,21,142,142,21,39
+1118,103,2302,Krzemionki Prehistoric Striped Flint Mining Region,2019,21.50230556,50.96797222,Cultural,C,Poland,Europe and North America,15415.0,15670000.0,869,13,528,528,13,869
+1119,103,2280,Sanctuary of Bom Jesus do Monte in Braga,2019,-8.377027777999999,41.55494444,Cultural,C,Portugal,Europe and North America,25862.0,8097000.0,869,16,528,528,16,869
+1120,105,2304,Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase I),2019,121.0168139,32.93194444,Natural,N,China,Asia and the Pacific,12320.0,59270000.0,213,54,266,266,54,213

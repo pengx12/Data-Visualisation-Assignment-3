@@ -1,0 +1,23 @@
+{
+  "main": "index.ts",
+  "name": "d483v",
+  "description": null,
+  "version": "0.0.0",
+  "dependencies": {
+    "@antv/data-set": "latest",
+    "@antv/g2": "latest",
+    "@antv/l7": "latest",
+    "@antv/l7-maps": "latest",
+    "uglify-js-es6": "^2.8.9"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "."
+}
